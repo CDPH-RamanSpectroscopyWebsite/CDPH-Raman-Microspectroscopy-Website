@@ -1,0 +1,68 @@
+<html>
+
+  <head>
+    <title> CDPH-EHLB Raman Spectral Library </title>
+    <link href="home.css" type="text/css" rel="stylesheet" />
+
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(drawChart);
+      function drawChart() {
+      var data = google.visualization.arrayToDataTable([
+      ['Age', 'Weight'],
+      [ 8,      12],
+      [ 4,      5.5],
+      [ 11,     14],
+      [ 4,      5],
+      [ 3,      3.5],
+      [ 6.5,    7]
+      ]);
+
+      var options = {
+      width: 900,
+      height: 500,
+      title: 'Age vs. Weight comparison',
+      hAxis: {title: 'Age', minValue: 0, maxValue: 15},
+      vAxis: {title: 'Weight', minValue: 0, maxValue: 15},
+      legend: 'none'
+      };
+
+      var chart = new google.visualization.ScatterChart(document.getElementById('chart_div'));
+
+      chart.draw(data, options);
+      }
+    </script>
+
+  </head>
+
+  <div class="page">
+
+    <body>
+
+      <div id="header">
+	<h1 align="center">CDPH-EHLB Raman Spectral Library </h1>
+
+	<div id="nav">
+	  <ul>
+	    <li><a href="home.html"> Home </a></li>
+	    <li><a href="spectraldata.html"> Spectral Data </a></li>
+	    <li><a href="instrumentation.html"> Instrumentation </a></li>
+	    <li><a href="research.html"> Research </a></li>
+	    <li><a href="contact.html"> Contact </a></li>
+	  </ul>
+	</div>
+
+      </div>
+
+      <div id="chart_div"></div>
+
+      <div id="footer">
+	<p>&copy; Copyright 2015 State of California</p>
+      </div>
+
+    </body>
+
+  </div>
+
+</html>

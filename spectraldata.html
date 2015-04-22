@@ -5,33 +5,46 @@
     <link href="home.css" type="text/css" rel="stylesheet" />
 
     <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script language='javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js'></script>
     <script type="text/javascript">
       google.load("visualization", "1", {packages:["corechart"]});
       google.setOnLoadCallback(drawChart);
+
+      var dataArray = [['x', 'y']];
+      var filename = 'Atenolol.txt'
+
       function drawChart() {
-      var data = google.visualization.arrayToDataTable([
-      ['Age', 'Weight'],
-      [ 8,      12],
-      [ 4,      5.5],
-      [ 11,     14],
-      [ 4,      5],
-      [ 3,      3.5],
-      [ 6.5,    7]
-      ]);
+      $.ajax({
+          url: filename,
+          type: 'get',
+          success: function (txt) {
+
+              var txtArray = txt.split("\n");      
+
+              for (var i=0; i < txtArray.length; i++) {
+                  var tmpData = txtArray[i].split(/\s+/);
+                  dataArray.push([parseFloat(tmpData[0]),
+                               parseFloat(tmpData[1])]);
+              }
+          }
+      });
+
+      var data = google.visualization.arrayToDataTable(dataArray);
 
       var options = {
-      width: 900,
-      height: 500,
-      title: 'Age vs. Weight comparison',
-      hAxis: {title: 'Age', minValue: 0, maxValue: 15},
-      vAxis: {title: 'Weight', minValue: 0, maxValue: 15},
-      legend: 'none'
+          width: 900,
+          height: 500,
+          title: filename,
+          hAxis: {title: 'Shift (cm-1)', minValue: 0, maxValue: 2500},
+          vAxis: {title: 'Intenstity', minValue: 0, maxValue: 1000},
+          legend: 'none'
       };
 
       var chart = new google.visualization.ScatterChart(document.getElementById('chart_div'));
 
       chart.draw(data, options);
       }
+
     </script>
 
   </head>

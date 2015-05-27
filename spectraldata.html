@@ -6,46 +6,7 @@
 
     <script type="text/javascript" src="https://www.google.com/jsapi"></script>
     <script language='javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js'></script>
-    <script type="text/javascript">
-      google.load("visualization", "1", {packages:["corechart"]});
-      google.setOnLoadCallback(drawChart);
-
-      var dataArray = [['x', 'y']];
-      var filename = 'Atenolol.txt'
-
-      function drawChart() {
-      $.ajax({
-          url: filename,
-          type: 'get',
-          success: function (txt) {
-
-              var txtArray = txt.split("\n");      
-
-              for (var i=0; i < txtArray.length; i++) {
-                  var tmpData = txtArray[i].split(/\s+/);
-                  dataArray.push([parseFloat(tmpData[0]),
-                               parseFloat(tmpData[1])]);
-              }
-          }
-      });
-
-      var data = google.visualization.arrayToDataTable(dataArray);
-
-      var options = {
-          width: 900,
-          height: 500,
-          title: filename,
-          hAxis: {title: 'Shift (cm-1)', minValue: 0, maxValue: 2500},
-          vAxis: {title: 'Intenstity', minValue: 0, maxValue: 1000},
-          legend: 'none'
-      };
-
-      var chart = new google.visualization.ScatterChart(document.getElementById('chart_div'));
-
-      chart.draw(data, options);
-      }
-
-    </script>
+    <script type="text/javascript" src="http://localhost:8000/loadspectrachart.js"></script>
 
   </head>
 
@@ -68,7 +29,14 @@
 
       </div>
 
-      <div id="chart_div"></div>
+      <div id="droplist">
+        <select name="spectralist">
+          <option value="Atenolol">Atenolol</option>
+          
+        </select>
+      </div>
+
+      <div id="chart_div" align="center"></div>
 
       <div id="footer">
 	<p>&copy; Copyright 2015 State of California</p>

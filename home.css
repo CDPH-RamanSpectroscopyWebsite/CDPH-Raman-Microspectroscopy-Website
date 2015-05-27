@@ -13,8 +13,11 @@ a:hover {
     overflow: auto;
 }
 
-#header, #nav, #feature, #footer {
-	 margin: 1%;}
+#header, #nav, #feature, #footer{
+    margin: 1%;}
+
+#droplist{
+    margin: 5%}
 
 #nav, #feature, #footer {
     border: ridge 5px}

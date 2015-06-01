@@ -35,3 +35,8 @@ li {
 	 height: 10em;
 	 margin-bottom: 1em;
 	 background-color: #cfcfcf;}
+
+#chart_div {
+    margin-left: auto;
+    margin-right:auto;
+    width: 800px;}

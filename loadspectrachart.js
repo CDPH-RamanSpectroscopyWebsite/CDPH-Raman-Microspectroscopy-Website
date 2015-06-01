@@ -4,6 +4,13 @@ google.setOnLoadCallback(drawChart);
 var filepath = 'http://localhost:8000/Spectra/Pharmaceuticals/TXT/';
 var name = filepath + 'acetaminophen.txt';
 
+function downloadURL(filename) {
+    var link = document.createElement("a");
+    link.download = filename.value;
+    link.href = filepath + filename.value;
+    link.click();
+}
+
 function onChange(filename) {
     name = filepath + filename.value;
     drawChart();

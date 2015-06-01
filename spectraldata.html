@@ -30,16 +30,23 @@
       </div>
 
       <div id="droplist">
-        <select name="spectralist">
-          <option value="Atenolol">Atenolol</option>
-          
-        </select>
+        <form>
+          <select name="spectra" onchange='onChange(this.form.spectra);'>
+            <option value="acetaminophen.txt">Acetaminophen</option>
+            <option value="amitryptyline.txt">Amytryptiline</option>
+            <option value="arecoline.txt">Arecoline</option>
+            <option value="atenolol.txt">Atenolol</option>
+            <option value="cantharidin.txt">Cantharidin</option>
+          </select>
+        </form>
       </div>
 
       <div id="chart_div" align="center"></div>
 
+      <br><br><br>
+
       <div id="footer">
-	<p>&copy; Copyright 2015 State of California</p>
+	<p> Where are footer is (Copyrights, etc.)</p>
       </div>
 
     </body>

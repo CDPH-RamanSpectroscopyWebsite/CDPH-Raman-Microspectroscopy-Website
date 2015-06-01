@@ -1,10 +1,19 @@
 google.load("visualization", "1", {packages:["corechart"]});
 google.setOnLoadCallback(drawChart);
 
-var dataArray = [["Shift", "Intensity"]];
-var filename = 'http://localhost:8000/Spectra/Pharmaceuticals/TXT/Atenolol.txt';
+var filepath = 'http://localhost:8000/Spectra/Pharmaceuticals/TXT/';
+var name = filepath + 'acetaminophen.txt';
+
+function onChange(filename) {
+    name = filepath + filename.value;
+    drawChart();
+}
 
 function drawChart() {
+
+    var dataArray = [["Shift", "Intensity"]];
+    var filename = name;
+
     $.ajax({
         url: filename,
         type: 'get',

@@ -47,7 +47,7 @@ function drawChart() {
                 hAxis: {title: 'Shift (cm-1)'},
                 vAxis: {title: 'Intensity'},
                 tooltip: { isHtml: true },
-                legend: 'none'
+                legend: 'none',
             };
 
             var chart = new google.visualization.ScatterChart(document.getElementById('chart_div'));

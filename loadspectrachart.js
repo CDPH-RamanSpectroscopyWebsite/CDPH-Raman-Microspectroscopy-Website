@@ -11,7 +11,9 @@ var spectraObj = {
 		"atenolol"],
 	"Minerals":
 		["Actinolite1",
-		"Anatase1"],
+		"AeschyniteCe__R080045__Broad_Scan__532__0__unoriented__Raman_Data_Processed__16869",
+		"AeschyniteY__R060312__Raman__532__0__unoriented__Raman_Data_Processed__34101",
+		"Ajoite__R060735__Raman__780__0__unoriented__Raman_Data_Processed__37079"],
 	"Plastics":
 		["PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2Processed",
 		"PETpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed",
@@ -56,8 +58,7 @@ function drawChart(name) {
             var txtArray = txt.split("\n");
 
             for (var i=0; i < txtArray.length; i++) {
-                //var tmpData = txtArray[i].split(/\s+/);
-				var tmpData = txtArray[i].match(/[-+]?\d*\.?\d+/g);
+				var tmpData = txtArray[i].match(/[-+]?\d*\.?\d+([eE][-+]\d+)?/g);
 				
                 if (tmpData) {
                     var t0 = parseFloat(tmpData[0]);
@@ -87,4 +88,17 @@ function drawChart(name) {
         }
     });
 
+}
+
+
+function downloadSpectra() {
+	var spectraType = document.getElementById("spectraType");
+	var spectra = document.getElementById("spectra");
+	
+	if (spectra.selectedIndex >= 1) {
+		var link = document.createElement("a");
+		link.href = "Spectra/" + spectraType.value + "/" + spectra.value + ".txt";
+		link.target = "_blank";
+		link.click()
+	}
 }

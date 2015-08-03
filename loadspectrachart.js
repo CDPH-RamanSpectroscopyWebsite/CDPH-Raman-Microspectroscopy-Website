@@ -1,24 +1,51 @@
 google.load("visualization", "1", {packages:["corechart"]});
 google.setOnLoadCallback(drawChart);
 
-var filepath = 'http://localhost:8000/Spectra/Pharmaceuticals/TXT/';
-var name = filepath + 'acetaminophen.txt';
+var filepath = 'http://localhost:8000/Spectra/';
 
-function downloadURL(filename) {
-    var link = document.createElement("a");
-    link.download = filename.value;
-    link.href = filepath + filename.value;
-    link.click();
+var spectraObj = {
+	"Pharmaceuticals":
+		["acetaminophen",
+		"amitryptyline",
+		"arecoline",
+		"atenolol"],
+	"Minerals":
+		["Actinolite1",
+		"Anatase1"],
+	"Plastics":
+		["PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2Processed",
+		"PETpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed",
+		"PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed",
+		"PVC_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed"]
+		
 }
 
-function onChange(filename) {
-    name = filepath + filename.value;
-    drawChart();
+window.onload = function() {
+	var spectraType = document.getElementById("spectraType");
+	var spectra = document.getElementById("spectra");
+	
+	for (var cat in spectraObj) {
+		spectraType.options[spectraType.options.length] = new Option(cat, cat);
+	}
+	
+	spectraType.onchange = function() {
+		spectra.length = 1;
+		if (this.selectedIndex < 1) return;
+		for (var i = 0; i < spectraObj[this.value].length; i++) {
+			var currSpec = spectraObj[this.value][i];
+			spectra.options[spectra.options.length] = new Option(currSpec, currSpec);
+		}	
+	}
+	
+	spectra.onchange = function() {
+		name = filepath + spectraType.value + "/" + this.value + ".txt";
+		drawChart(name);
+	}
 }
 
-function drawChart() {
+function drawChart(name) {
 
-    var dataArray = [["Shift", "Intensity"]];
+    var dataArray = [];
     var filename = name;
 
     $.ajax({
@@ -29,32 +56,36 @@ function drawChart() {
 
             for (var i=0; i < txtArray.length; i++) {
                 var tmpData = txtArray[i].split(/\s+/);
+				//var tmpData = txtArray[i].match(/[-+]?\d*\.?\d+/g);
+				
                 var t0 = parseFloat(tmpData[0]);
                 var t1 = parseFloat(tmpData[1]);
-                if (true) {
-                    dataArray.push([t0, t1]);
-
-                }
+				
+                if (isNaN(t0) || isNaN(t1)) {
+                    continue;
+                } else {
+					dataArray.push([t0, t1]);
+				}
             }
 
-            var data = google.visualization.arrayToDataTable(dataArray);
+			if (dataArray.length == 0) dataArray.push([0, 0]);
+            var data = google.visualization.arrayToDataTable(dataArray, true);
 
             var options = {
                 width: 800,
                 height: 500,
                 lineWidth: 1,
                 pointSize: 0,
-                hAxis: {title: 'Shift (cm-1)'},
+                hAxis: {title: 'Raman Shift (cm-1)'},
                 vAxis: {title: 'Intensity'},
                 tooltip: { isHtml: true },
                 legend: 'none',
             };
 
             var chart = new google.visualization.ScatterChart(document.getElementById('chart_div'));
-
-            chart.draw(data, options);
+			
+			chart.draw(data, options);	
             
-
         }
     });
 

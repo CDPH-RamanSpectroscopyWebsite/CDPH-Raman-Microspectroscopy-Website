@@ -16,7 +16,7 @@
 }
 		</style>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
- 	</head>
+</head>
 
 
     <body>
@@ -31,20 +31,18 @@
 	  </ul>
 	</div>
     
-    <div id="droplist">
-        <form>
-        
-          <select name="spectra" onchange='onChange(this.form.spectra);'>
-            <option value="acetaminophen.txt">Acetaminophen</option>
-            <option value="amitryptyline.txt">Amytryptiline</option>
-            <option value="arecoline.txt">Arecoline</option>
-            <option value="atenolol.txt">Atenolol</option>
-            <option value="cantharidin.txt">Cantharidin</option>
-          </select>
+    <form name="droplist" id="droplist">
+    
+        <select name="spectraType" id="spectraType">
+            <option value="" selected="selected">Select Category</option>
+        </select>
+      
+        <select name="spectra" id="spectra">
+            <option value="" selected="selected">Select Category First</option>
+        </select>
 
-          <input type="button" onclick='downloadURL(this.form.spectra);' value="Download">
-        </form>
-      </div>
+        <input type="button" onclick='downloadURL();' value="Download">
+    </form>
 
       <div id="chart_div"></div>
 

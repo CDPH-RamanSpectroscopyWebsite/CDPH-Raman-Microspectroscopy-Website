@@ -38,6 +38,7 @@ window.onload = function() {
 	}
 	
 	spectra.onchange = function() {
+		if (this.selectedIndex < 1) return;
 		name = filepath + spectraType.value + "/" + this.value + ".txt";
 		drawChart(name);
 	}
@@ -55,17 +56,14 @@ function drawChart(name) {
             var txtArray = txt.split("\n");
 
             for (var i=0; i < txtArray.length; i++) {
-                var tmpData = txtArray[i].split(/\s+/);
-				//var tmpData = txtArray[i].match(/[-+]?\d*\.?\d+/g);
+                //var tmpData = txtArray[i].split(/\s+/);
+				var tmpData = txtArray[i].match(/[-+]?\d*\.?\d+/g);
 				
-                var t0 = parseFloat(tmpData[0]);
-                var t1 = parseFloat(tmpData[1]);
-				
-                if (isNaN(t0) || isNaN(t1)) {
-                    continue;
-                } else {
+                if (tmpData) {
+                    var t0 = parseFloat(tmpData[0]);
+                	var t1 = parseFloat(tmpData[1]);
 					dataArray.push([t0, t1]);
-				}
+                }
             }
 
 			if (dataArray.length == 0) dataArray.push([0, 0]);

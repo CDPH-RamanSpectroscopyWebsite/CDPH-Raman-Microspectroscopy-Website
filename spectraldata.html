@@ -1,57 +1,59 @@
+<!DOCTYPE html>
 <html>
 
 <head>
-        <title> CDPH-EHLB Raman Spectral Library </title>
-        <link href="home.css" type="text/css" rel="stylesheet" />
+  <title> CDPH-EHLB Raman Spectral Library </title>
+  <link href="home.css" type="text/css" rel="stylesheet" />
     
-        <script type="text/javascript" src="https://www.google.com/jsapi"></script>
-        <script language='javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js'></script>
-        <script type="text/javascript" src="http://localhost:8000/loadspectrachart.js"></script>
+  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+  <script language='javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js'></script>
+  <script type="text/javascript" src="http://localhost:8000/loadspectrachart.js"></script>
         
-        <style type="text/css">
-			body {
-	background-image: url(5centimeterspersecond3.png);
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-}
-		</style>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <style type="text/css">
+    body {
+      background-image: url(5centimeterspersecond3.png);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+    }
+  </style>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
 
-    <body>
+<body>
 
-	<div id="nav">
-	  <ul>
-	    <li><a href="home.html"> Home </a></li>
-	    <li><a href="spectraldata.html"> Spectral Data </a></li>
-	    <li><a href="instrumentation.html"> Instrumentation </a></li>
-	    <li><a href="research.html"> Research </a></li>
-	    <li><a href="contact.html"> Contact </a></li>
-	  </ul>
-	</div>
+  <div id="nav">
+    <ul>
+      <li><a href="home.html"> Home </a></li>
+      <li><a href="spectraldata.html"> Spectral Data </a></li>
+      <li><a href="instrumentation.html"> Instrumentation </a></li>
+      <li><a href="research.html"> Research </a></li>
+      <li><a href="contact.html"> Contact </a></li>
+    </ul>
+  </div>
+  
+  <form name="droplist" id="droplist">
     
-    <form name="droplist" id="droplist">
+    <select name="spectraType" id="spectraType">
+      <option value="" selected="selected">Select Category</option>
+    </select>
     
-        <select name="spectraType" id="spectraType">
-            <option value="" selected="selected">Select Category</option>
-        </select>
-      
-        <select name="spectra" id="spectra">
-            <option value="" selected="selected">Select Spectra</option>
-        </select>
+    <select name="spectra" id="spectra">
+      <option value="" selected="selected">Select Spectra</option>
+    </select>
 
-        <input type="button" onclick='downloadSpectra();' value="Download">
-    </form>
+    <input type="button" onclick='downloadSpectra();' value="Download">
+  </form>
 
-      <div id="chart_div"></div>
+  <div id="chart_div"></div>
 
-      <br><br><br>
+  <br><br><br>
 
-      <div id="footer">
-		<p>&copy; Copyright 2015 State of California</p>
-      </div>
+  <div id="footer">
+    <p>&copy; Copyright 2015 State of California</p>
+  </div>
 
-    </body>
+</body>
 
 </html>

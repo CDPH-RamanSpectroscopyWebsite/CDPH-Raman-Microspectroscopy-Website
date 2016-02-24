@@ -4,30 +4,33 @@ google.setOnLoadCallback(drawChart);
 var filepath = 'http://localhost:8000/Spectra/';
 var spectraObj = {};
 
-function populList(path, parent) {
+function populList(path) {
     $.ajax({
 	url: path,
 	type: 'get',
 	async: false,
-	success: function(files) {
-	    var fileList = $(files).find("li");
-	    for (var i = 0; i < fileList.length; i++) {
-		name = fileList[i].textContent;
-		if (name.indexOf(".txt") >= 0) {
-		    name = name.substring(0, name.indexOf(".txt"));
-		    spectraObj[parent].push(name);
+	success: function(txt) {
+	    var currDir = 'Default';
+	    var foldHead = '__FOLDER__: ';
+
+	    var txtArray = txt.split("\n");
+	    for (i = 0; i < txtArray.length; i++) {
+		line = txtArray[i];
+		if (line.indexOf(foldHead) >= 0) {
+		    currDir = line.slice(foldHead.length);
+		    spectraObj[currDir] = [];
 		} else {
-		    name = name.substring(0, name.length - 2);
-		    spectraObj[name] = [];
-		    populList(path + name + "/", name)
+		    extInd = line.indexOf('.')
+		    spectraObj[currDir].push(line.slice(0, extInd));
 		}
-	    }
+            }
 	}
     });
+
 }
 
 window.onload = function() {
-    populList(filepath, "");
+    populList(filepath + 'dir_index.txt');
 
     var spectraType = document.getElementById("spectraType");
     var spectra = document.getElementById("spectra");
@@ -53,10 +56,9 @@ window.onload = function() {
 }
 
 function drawChart(name, materialName) {
-
+    console.log('drawChart called: ' + name);
     var dataArray = [];
     var filename = name;
-
     $.ajax({
         url: filename,
         type: 'get',
@@ -112,4 +114,54 @@ function downloadSpectra() {
 	link.target = "_blank";
 	link.click()
     }
+}
+
+
+function searchPeaks() {
+    var peaksIn = document.getElementById("peaksIn");
+    var peaksOut = document.getElementById("peaksOut");
+
+    while (peaksOut.firstChild) {
+	peaksOut.removeChild(peaksOut.firstChild);
+    }
+
+    var peak = parseInt(peaksIn.value);
+    $.ajax({
+	url: filepath + 'peak_index.txt',
+	type: 'get',
+	async: false,
+	success: function(txt) {
+	    var prevline = [];
+	    var prevBin = 0;
+	    var txtArray = txt.split("\n");
+	    for (i = 0; i < txtArray.length; i++) {
+		line = txtArray[i].split(/ : |,/);
+		currBin = parseInt(line[0]);
+		if ( peak >= prevBin && peak < currBin ) {
+		    // The first element of line is the raman shift of the
+		    // bin. The last element is just an empty string (that
+		    // replaced a comma)
+		    for (j = 1; j < prevline.length-1; j++) {
+			specMatch = prevline[j];
+			var li = document.createElement('li');
+			var btn = document.createElement('BUTTON');
+			btn.appendChild(document.createTextNode(specMatch));
+			btn.value = specMatch;
+			li.appendChild(btn);
+			peaksOut.appendChild(li);
+				
+			btn.addEventListener('click', function() {
+			    drawChart(filepath+this.value,
+				      this.value)
+			    console.log(this);
+			    console.log(this.value);
+			});
+		    }
+		    
+		}
+		prevline = line;
+		prevBin = currBin;
+            }
+	}
+    });
 }

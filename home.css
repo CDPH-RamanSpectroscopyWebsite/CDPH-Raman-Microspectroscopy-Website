@@ -14,8 +14,8 @@ a:hover {
 	color: #FFFFFF;
 }
 
-#droplist{
-    margin: 5%}
+#droplist, #peaksearch{
+    margin: 5% 0 5% 10%}
 
 #nav, #feature, #footer {
 	margin: 1%;
@@ -33,6 +33,10 @@ a:hover {
 #nav>ul>li {
 	 display: inline;
 	 padding: 1.5em;}
+
+#nav>ul {
+    background-color: #DDD;
+}
 
 #chart_div {
     margin-left: auto;

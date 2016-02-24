@@ -33,22 +33,29 @@
     </ul>
   </div>
   
-  <form name="droplist" id="droplist">
-    
+  <form name="droplist" id="droplist"> 
     <select name="spectraType" id="spectraType">
       <option value="" selected="selected">Select Category</option>
     </select>
-    
     <select name="spectra" id="spectra">
       <option value="" selected="selected">Select Spectra</option>
     </select>
-
     <input type="button" onclick='downloadSpectra();' value="Download">
   </form>
 
   <div id="chart_div"></div>
+  <br><br>
 
-  <br><br><br>
+  <div id="peaksearch">
+    <form name="peaksIn">
+      <input type="text" name="peaks" id="peaksIn">
+      <input type="button" onclick='searchPeaks();' value="Search">
+    </form>
+
+    <ol id="peaksOut">
+      
+    </ol>
+  </div>
 
   <div id="footer">
     <p>&copy; Copyright 2015 State of California</p>

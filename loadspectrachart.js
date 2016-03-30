@@ -4,6 +4,7 @@ google.setOnLoadCallback(drawChart);
 var filepath = 'http://localhost:8000/Spectra/';
 var spectraObj = {};
 
+
 function populList(path) {
     $.ajax({
 	url: path,
@@ -56,7 +57,6 @@ window.onload = function() {
 }
 
 function drawChart(name, materialName) {
-    console.log('drawChart called: ' + name);
     var dataArray = [];
     var filename = name;
     $.ajax({
@@ -125,43 +125,66 @@ function searchPeaks() {
 	peaksOut.removeChild(peaksOut.firstChild);
     }
 
-    var peak = parseInt(peaksIn.value);
+    var peakStrList = (peaksIn.value).split(",");
+    var peakList = [];
+    for (i = 0; i < peakStrList.length; i++) {
+	peakList.push(parseInt(peakStrList[i]));
+    }
     $.ajax({
 	url: filepath + 'peak_index.txt',
 	type: 'get',
 	async: false,
 	success: function(txt) {
+	    var firstHit = true;
+	    var potPeaks = [];
 	    var prevline = [];
 	    var prevBin = 0;
 	    var txtArray = txt.split("\n");
 	    for (i = 0; i < txtArray.length; i++) {
 		line = txtArray[i].split(/ : |,/);
 		currBin = parseInt(line[0]);
-		if ( peak >= prevBin && peak < currBin ) {
-		    // The first element of line is the raman shift of the
-		    // bin. The last element is just an empty string (that
-		    // replaced a comma)
-		    for (j = 1; j < prevline.length-1; j++) {
-			specMatch = prevline[j];
-			var li = document.createElement('li');
-			var btn = document.createElement('BUTTON');
-			btn.appendChild(document.createTextNode(specMatch));
-			btn.value = specMatch;
-			li.appendChild(btn);
-			peaksOut.appendChild(li);
-				
-			btn.addEventListener('click', function() {
-			    drawChart(filepath+this.value,
-				      this.value)
-			    console.log(this);
-			    console.log(this.value);
-			});
+		for (k = 0; k < peakList.length; k++) {
+		    peak = peakList[k];
+		    if ( peak >= prevBin && peak < currBin ) {
+			// The first element of line is the raman shift of the
+			// bin. The last element is just an empty string (that
+			// replaced a comma)
+			temp = [];
+			for (j = 1; j < prevline.length-1; j++) {
+			    if (firstHit) {
+				potPeaks.push(prevline[j]);
+			    } else {
+				if (potPeaks.indexOf(prevline[j]) >= 0) {
+				    if (peak = 1302) {
+					console.log(prevline);
+				    }
+				    
+				    temp.push(prevline[j]);
+				}
+			    }
+			}
+			if (!firstHit) 	potPeaks = temp;
+			firstHit = false;
 		    }
-		    
 		}
 		prevline = line;
 		prevBin = currBin;
             }
+
+	    for (i = 0; i < potPeaks.length; i++) {
+		specMatch = potPeaks[i];
+		var li = document.createElement('li');
+		var btn = document.createElement('BUTTON');
+		btn.appendChild(document.createTextNode(specMatch));
+		btn.value = specMatch;
+		li.appendChild(btn);
+		peaksOut.appendChild(li);
+		
+		btn.addEventListener('click', function() {
+		    drawChart(filepath+this.value,
+			      this.value)
+		});
+	    }
 	}
     });
 }

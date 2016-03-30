@@ -16,7 +16,6 @@ binsp = 5;
 shiftbins = cell(4000/binsp, 1);
 dirList = {dirData(dirIndex).name}';
 for i = 1:length(dirList)
-%for i = 1:1
     folder = char(dirList(i));
     subDir = strcat(root, '\', folder);
     subdirData = dir(subDir);
@@ -24,7 +23,6 @@ for i = 1:length(dirList)
     subdirList = {subdirData(subdirIndex).name};
     
     for j = 1:length(subdirList)
-    %for j = 1:1
         file = char(subdirList(j));
         fileloc = strcat(subDir, '\', file);
         

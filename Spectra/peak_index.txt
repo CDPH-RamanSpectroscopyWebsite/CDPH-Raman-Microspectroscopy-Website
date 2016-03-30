@@ -1,0 +1,800 @@
+5 : 
+10 : 
+15 : 
+20 : 
+25 : 
+30 : 
+35 : 
+40 : 
+45 : 
+50 : 
+55 : 
+60 : 
+65 : 
+70 : 
+75 : 
+80 : 
+85 : 
+90 : 
+95 : 
+100 : 
+105 : Plastics\PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,
+110 : Flame Retardant\3 Bromo Styrene_532nm.txt,Flame Retardant\TDCCP_785nm.txt,Miscellaneous\Na2CO3_AlFoil_ext1.txt,
+115 : Flame Retardant\TCEP_785nm.txt,Flame Retardant\TPP_Ctab_532nm_25X1000um_5mW_5s_50x_0_highRes.txt,Pigment Spectral Library\Egyptianblue_calcium copper(II) silica.txt,Pigment Spectral Library\Realgar_arsenic(II) sulfide, As4S4.txt,
+120 : Flame Retardant\Melamine.txt,Pharmaceuticals\nalidixic.txt,Pigment Spectral Library\Redlead_dilead(II) lead(IV) oxide Pb3O4.txt,
+125 : Flame Retardant\HBCDD_785nm.txt,Flame Retardant\HBCDD_785nm.txt,Flame Retardant\HexaPBDE_785nm.txt,Flame Retardant\TPP_Ctab_532nm_25X1000um_10mW_5s_50x_0_LowRes.txt,Minerals\Brookite1.txt,Minerals\Quartz__R060604__Raman__780.txt,Minerals\Quartz__R060604__Raman__780__0__unoriented__Raman_Data_Processed__31951.txt,Minerals\quartz.txt,Pigment Spectral Library\Realgar_arsenic(II) sulfide, As4S4.txt,Pigment Spectral Library\Verdigris2_basic copper(II) ethanoate Cu(CH3COO)2. Cu(OH)2.txt,
+130 : Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_1_HighRes.txt,Minerals\Albite__R040068__Raman__785.txt,Minerals\GersdorffiteP213__R070343__Raman__532__0__unoriented__Raman_Data_Processed__20476.txt,Pigment Spectral Library\LeadtinYellow1_lead(II) stannate Pb2SnO4.txt,Pigment Spectral Library\TerreVerte_Variations on K[(AlIII,FeIII)(FeII,MgII)],(AlSi3,Si4) O10(OH)2.txt,
+135 : Minerals\Lizardite1.txt,Minerals\Mendipite__R050669__Raman__532__Processed__32875.txt,Miscellaneous\Na2CO3_AlFoil_ext1.txt,Pigment Spectral Library\Egyptianblue_calcium copper(II) silica.txt,Pigment Spectral Library\LeadtinYellow2_silicon substituted lead(II) stannate, PbSn1-xSixO3.txt,Pigment Spectral Library\ScheelesGreen_copper(II) arsenite Cu(AsO2)2.txt,WhitePowders\Advil.txt,
+140 : Flame Retardant\DecaPBDE_785nm.txt,Flame Retardant\TBBPA_semstub_785nm_100%_10s_20x_2final_Raman.txt,Flame Retardant\TBB_532nm.txt,Minerals\Anatase1.txt,Minerals\Anorthite__R040059__Raman__780.txt,Minerals\Lead__R070193__Broad_Scan__785__0__unoriented__Raman_Data_RAW__14279.txt,Pigment Spectral Library\Litharge_tetragonal lead(II) oxide, PbO.txt,Pigment Spectral Library\Massicot_orthorhrombic lead(II) oxide, PbO.txt,Pigment Spectral Library\Naplesyellow_lead(II) antimonate Pb2Sb2O7.txt,
+145 : Flame Retardant\3 Bromo Styrene_785nm.txt,Flame Retardant\DecaPBDE_532nm.txt,Flame Retardant\TBPH_785nm.txt,Minerals\Dolomite1.txt,Minerals\Perovskite1.txt,Minerals\Pyrite1.txt,Pharmaceuticals\promethazine.txt,Pigment Spectral Library\Atacamite_basic copper(II) chloride CuCl2.3Cu(OH)2.txt,Pigment Spectral Library\Malachite_basic copper(II) carbonate CuCO3.Cu(OH)2.txt,Pigment Spectral Library\Pararealgar_arsenic(II) sulfide, As4S4.txt,Pigment Spectral Library\Redlead_dilead(II) lead(IV) oxide Pb3O4.txt,
+150 : Flame Retardant\Melamine.txt,Minerals\Aluminite(Al2SO4(OH)4·7H2O)_785nm.txt,Minerals\Brookite1.txt,Minerals\Calomel_785nm.txt,Minerals\GersdorffiteP213__R070343__Raman__532__0__unoriented__Raman_Data_Processed__20476.txt,Minerals\Orthoclase__R040055__Raman__785.txt,Pigment Spectral Library\Orpiment_arsenic(III) sulfide, As2S3.txt,
+155 : Minerals\Calcite1(CaCO3).txt,Minerals\Calcite1.txt,Minerals\Calomel_785nm.txt,Minerals\Calomel_785nm.txt,Minerals\Calomel_785nm.txt,Minerals\Lizardite1.txt,Minerals\Orthoclase1.txt,Minerals\Terlinguaite_Hg2OCl__R060492__Raman__785__0__unoriented__Raman_Data_Processed.txt,Pigment Spectral Library\Emeraldgreen_copper(II) ethanoate tri-copper(II) arsenite Cu[C2H3O2]. 3Cu[AsO2]2.txt,
+160 : Minerals\Actinolite1.txt,Minerals\Albite__R040068__Raman__785.txt,Minerals\Calomel_785nm.txt,Minerals\Perovskite1.txt,Pharmaceuticals\phenytoin.txt,WhitePowders\Actinolite1.txt,
+165 : Flame Retardant\HBCDD_785nm.txt,Minerals\Anorthoclase__R060054__Raman__780.txt,Minerals\Barbertonite__R060675__Raman__785__0__unoriented__Raman_Data_Processed__11757.txt,Minerals\Calomel_785nm.txt,Minerals\Calomel_785nm.txt,Minerals\Calomel_HgCl__R070370__Raman__532__unoriented__Raman_Data_Processed.txt,Minerals\Calomel__HgCl_R070370__Raman__785nm__unoriented__Raman_Data_Processed.txt,Miscellaneous\Na2CO3_AlFoil_ext1.txt,Pharmaceuticals\promethazine.txt,Pigment Spectral Library\Pararealgar_arsenic(II) sulfide, As4S4.txt,Pigment Spectral Library\Realgar_arsenic(II) sulfide, As4S4.txt,
+170 : Flame Retardant\FM2100_semstub_785nm_50%_10s_20x_2final_Raman.txt,Flame Retardant\HexaPBDE_785nm.txt,Minerals\Otwayite__R060384__Raman__785__0__unoriented__Raman_Data_Processed__9365.txt,Pharmaceuticals\yohimbine.txt,Pigment Spectral Library\Emeraldgreen_copper(II) ethanoate tri-copper(II) arsenite Cu[C2H3O2]. 3Cu[AsO2]2.txt,Pigment Spectral Library\Malachite_basic copper(II) carbonate CuCO3.Cu(OH)2.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,
+175 : Minerals\Actinolite1.txt,Minerals\Calomel_785nm.txt,Minerals\Dolomite1.txt,Minerals\Dolomite2.txt,Minerals\GersdorffiteP213__R070343__Raman__785__0__unoriented__Raman_Data_Processed__25805.txt,Minerals\Magnetite1.txt,Minerals\Magnetite1.txt,Pigment Spectral Library\Verdigrisraw_copper(II) ethanoate Cu(CH3COO)2.txt,WhitePowders\Actinolite1.txt,
+180 : Flame Retardant\TPP_Ctab_532nm_25X1000um_5mW_5s_50x_0_highRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_0_LowRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_1_HighRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_50mW_5s_50x_0_LowRes.txt,Minerals\Labradorite__R060082__Raman__780.txt,Minerals\Perovskite1.txt,Pigment Spectral Library\Cobaltyellow_potassium cobalt nitrite K3[Co(NO2)6].xH2O.txt,
+185 : Flame Retardant\TPP_Ctab_532nm_25X1000um_10mW_5s_50x_0_LowRes.txt,Minerals\GersdorffiteP213__R070343__Raman__785__0__unoriented__Raman_Data_Processed__25805.txt,Minerals\Iquiqueite__R060822__Raman__780__0__unoriented__Raman_Data_Processed__26799.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Miscellaneous\Na2CO3_AlFoil_ext1.txt,Pharmaceuticals\mephenesin.txt,Pharmaceuticals\phenothiazine.txt,
+190 : Flame Retardant\Antimony Trioxide__780nm.txt,Minerals\Muscovite1.txt,Minerals\Otwayite__R060384__Raman__785__0__unoriented__Raman_Data_Processed__9365.txt,Minerals\Talc1.txt,Pharmaceuticals\minoxidil.txt,Pigment Spectral Library\Verdigris2_basic copper(II) ethanoate Cu(CH3COO)2. Cu(OH)2.txt,WhitePowders\BabyPowder.txt,WhitePowders\Talc1.txt,WhitePowders\TalcumPowder.txt,
+195 : Minerals\Ajoite__R060735__Raman__780.txt,Minerals\Ajoite__R060735__Raman__780__0__unoriented__Raman_Data_Processed__37079.txt,Minerals\Felsöbányaite1(Al4(SO4)(OH)10·4H2O)_ 780nm.txt,Pigment Spectral Library\LeadtinYellow1_lead(II) stannate Pb2SnO4.txt,Pigment Spectral Library\Orpiment_arsenic(III) sulfide, As2S3.txt,Pigment Spectral Library\Pararealgar_arsenic(II) sulfide, As4S4.txt,
+200 : Flame Retardant\HBCDD_785nm.txt,Flame Retardant\TBBPA_semstub_785nm_100%_10s_20x_2final_Raman.txt,Minerals\Quartz__R060604__Raman__780.txt,Minerals\Quartz__R060604__Raman__780__0__unoriented__Raman_Data_Processed__31951.txt,Minerals\Terlinguaite_Hg2OCl__R060492__Raman__785__0__unoriented__Raman_Data_Processed.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\tolazoline.txt,Pigment Spectral Library\Cobaltblue_cobalt.txt,
+205 : Flame Retardant\DecaPBDE_785nm.txt,Minerals\GersdorffiteP213__R070343__Raman__785__0__unoriented__Raman_Data_Processed__25805.txt,Minerals\Magnesiochromite__R060796__Raman__785__0__unoriented__Raman_Data_Processed__12786.txt,Minerals\Quartz1.txt,Minerals\quartz.txt,
+210 : Flame Retardant\TPP_Ctab_532nm_25X1000um_5mW_5s_50x_0_highRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_1_HighRes.txt,Minerals\Otwayite__R060384__Raman__785__0__unoriented__Raman_Data_Processed__9365.txt,Pharmaceuticals\chlorpheniramine.txt,Pigment Spectral Library\Malachite_basic copper(II) carbonate CuCO3.Cu(OH)2.txt,
+215 : Flame Retardant\HexaPBDE_785nm.txt,Flame Retardant\TBB_532nm.txt,Flame Retardant\TBPH_785nm.txt,Minerals\GersdorffiteP213__R070343__Raman__532__0__unoriented__Raman_Data_Processed__20476.txt,Minerals\GersdorffiteP213__R070343__Raman__785__0__unoriented__Raman_Data_Processed__25805.txt,Minerals\Muscovite2.txt,Pharmaceuticals\pregnenolone.txt,Pigment Spectral Library\Emeraldgreen_copper(II) ethanoate tri-copper(II) arsenite Cu[C2H3O2]. 3Cu[AsO2]2.txt,Pigment Spectral Library\Redochre_iron(III) oxide chromophore (Fe2O3 + clay + silica).txt,
+220 : Flame Retardant\DecaPBDE_785nm.txt,Flame Retardant\TBBPA_semstub_785nm_100%_10s_20x_2final_Raman.txt,Minerals\Ajoite__R060735__Raman__780.txt,Minerals\Ajoite__R060735__Raman__780__0__unoriented__Raman_Data_Processed__37079.txt,Minerals\Zircon1.txt,Pharmaceuticals\chlorpheniramine.txt,Pigment Spectral Library\Marsorange_Synthetic iron(III) oxide, Fe2O3.txt,Pigment Spectral Library\Marsred_synthetic iron(III) oxide, Fe2O3.txt,
+225 : Flame Retardant\DecaPBDE_532nm.txt,Minerals\Actinolite1.txt,Minerals\Clintonite__R070196__Raman__785.txt,Minerals\Clintonite__R070196__Raman__785__0__unoriented__Raman_Data_Processed__25601.txt,Minerals\Hematite1.txt,Minerals\Nickelhexahydrite__R060596__Raman__532__0__unoriented__Raman_Data_Processed__11167_rruff.txt,Minerals\Perovskite1.txt,Pigment Spectral Library\Pararealgar_arsenic(II) sulfide, As4S4.txt,Pigment Spectral Library\Verdigrisraw_copper(II) ethanoate Cu(CH3COO)2.txt,WhitePowders\Actinolite1.txt,WhitePowders\SugarGranulatedCH.txt,
+230 : Flame Retardant\TPP_Ctab_532nm_25X1000um_5mW_5s_50x_0_highRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_0_LowRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_1_HighRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_50mW_5s_50x_0_LowRes.txt,Minerals\Lizardite1.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,
+235 : Flame Retardant\TPP_Ctab_532nm_25X1000um_10mW_5s_50x_0_LowRes.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,
+240 : Flame Retardant\FM2100_semstub_785nm_50%_10s_20x_2final_Raman.txt,Minerals\Uvarovite__R061041__Raman__785__0__unoriented__Raman_Data_Processed__31828.txt,Pigment Spectral Library\Emeraldgreen_copper(II) ethanoate tri-copper(II) arsenite Cu[C2H3O2]. 3Cu[AsO2]2.txt,
+245 : Minerals\Brookite1.txt,Minerals\Hematite1.txt,Minerals\Lepidocrocite__R050454__Raman__780.txt,Minerals\Lepidocrocite__R050454__Raman__780__0__unoriented__Raman_Data_Processed__30855.txt,Minerals\Perovskite1.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\phenytoin.txt,
+250 : Flame Retardant\TPP_Ctab_532nm_25X1000um_5mW_5s_50x_0_highRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_1_HighRes.txt,Pigment Spectral Library\Azurite_copper(II) carbona.txt,Pigment Spectral Library\Vermilion_mercury(II) sulfide, HgS.txt,
+255 : Flame Retardant\Antimony Trioxide__780nm.txt,Flame Retardant\FM2100_semstub_785nm_50%_10s_20x_2final_Raman.txt,Minerals\cinnabar1.txt,Pigment Spectral Library\Malachite_basic copper(II) carbonate CuCO3.Cu(OH)2.txt,
+260 : Minerals\Calomel_785nm.txt,Minerals\GersdorffiteP213__R070343__Raman__785__0__unoriented__Raman_Data_Processed__25805.txt,Minerals\Muscovite1.txt,Minerals\Muscovite2.txt,Pharmaceuticals\nadolol.txt,
+265 : Pigment Spectral Library\Pararealgar_arsenic(II) sulfide, As4S4.txt,
+270 : Minerals\Calomel_785nm.txt,Minerals\Calomel_785nm.txt,Minerals\Calomel_HgCl__R070370__Raman__532__unoriented__Raman_Data_Processed.txt,Minerals\Calomel__HgCl_R070370__Raman__785nm__unoriented__Raman_Data_Processed.txt,Pigment Spectral Library\ScheelesGreen_copper(II) arsenite Cu(AsO2)2.txt,
+275 : Flame Retardant\TBBPA_semstub_785nm_100%_10s_20x_2final_Raman.txt,Minerals\Calomel_785nm.txt,Minerals\Calomel_785nm.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Minerals\brucite.txt,Pigment Spectral Library\Cobaltyellow_potassium cobalt nitrite K3[Co(NO2)6].xH2O.txt,
+280 : Flame Retardant\3 Bromo Styrene_785nm.txt,Minerals\Calcite1(CaCO3).txt,Minerals\Calcite1.txt,Minerals\GersdorffiteP213__R070343__Raman__785__0__unoriented__Raman_Data_Processed__25805.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Minerals\Microcline__X050117__Raman__785.txt,Minerals\Orthoclase1.txt,Minerals\Orthoclase__R040055__Raman__785.txt,Minerals\Sanidine__X050140__Raman__785.txt,Pharmaceuticals\mephenesin.txt,Pigment Spectral Library\Chalk_calcium carbonate, CaCO3.txt,
+285 : Minerals\Calomel_785nm.txt,Minerals\Otwayite__R060384__Raman__785__0__unoriented__Raman_Data_Processed__9365.txt,Minerals\Terlinguaite_Hg2OCl__R060492__Raman__785__0__unoriented__Raman_Data_Processed.txt,Pharmaceuticals\phenytoin.txt,Pharmaceuticals\sulfadiazine.txt,Pigment Spectral Library\Massicot_orthorhrombic lead(II) oxide, PbO.txt,Pigment Spectral Library\Orpiment_arsenic(III) sulfide, As2S3.txt,Pigment Spectral Library\Redochre_iron(III) oxide chromophore (Fe2O3 + clay + silica).txt,
+290 : Flame Retardant\Antimony Trioxide__780nm.txt,Minerals\Ajoite__R060735__Raman__780.txt,Minerals\Ajoite__R060735__Raman__780__0__unoriented__Raman_Data_Processed__37079.txt,Minerals\Albite__R040068__Raman__785.txt,Minerals\Andalusite__R050561__Raman__780.txt,Minerals\Calomel_785nm.txt,Minerals\Hematite1.txt,Minerals\Magnesiochromite__R060796__Raman__785__0__unoriented__Raman_Data_Processed__12786.txt,Pharmaceuticals\carbinoxamine.txt,Pharmaceuticals\diclofenac.txt,Pharmaceuticals\tolbutamide.txt,Pigment Spectral Library\Marsred_synthetic iron(III) oxide, Fe2O3.txt,
+295 : Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,
+300 : Minerals\Dolomite1.txt,Minerals\Dolomite2.txt,Pigment Spectral Library\CadmiumYellow_cadmium sulfide, CdS.txt,Pigment Spectral Library\Marsyellow_synthetic iron(III) hydroxide, Fe(OH)3.txt,Pigment Spectral Library\Orpiment_arsenic(III) sulfide, As2S3.txt,
+305 : Flame Retardant\3 Bromo Styrene_532nm.txt,Flame Retardant\3 Bromo Styrene_785nm.txt,Minerals\Clintonite__R070196__Raman__785.txt,Minerals\Clintonite__R070196__Raman__785__0__unoriented__Raman_Data_Processed__25601.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Pigment Spectral Library\Cobaltyellow_potassium cobalt nitrite K3[Co(NO2)6].xH2O.txt,
+310 : Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\nalidixic.txt,Pharmaceuticals\oxycodone.txt,
+315 : Flame Retardant\DecaPBDE_785nm.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Pigment Spectral Library\Verdigris2_basic copper(II) ethanoate Cu(CH3COO)2. Cu(OH)2.txt,Pigment Spectral Library\Verdigrisraw_copper(II) ethanoate Cu(CH3COO)2.txt,
+320 : Minerals\Andalusite__R050561__Raman__780.txt,Minerals\CaF2_532.txt,Minerals\CaF2__514.txt,Minerals\CaF2__532_Raman_Data_RAW.txt,Minerals\GersdorffiteP213__R070343__Raman__532__0__unoriented__Raman_Data_Processed__20476.txt,
+325 : Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Pharmaceuticals\chlorpheniramine.txt,Pharmaceuticals\nortriptyline.txt,
+330 : Minerals\Gaspeite__R040157__Raman__514__0__unoriented__Raman_Data_Processed__9633.txt,Minerals\Gaspeite__R040157__Raman__532__0__unoriented__Raman_Data_Processed__20777.txt,Minerals\Gaspeite__R040157__Raman__785__0__unoriented__Raman_Data_Processed__20783.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Miscellaneous\New Bengay (Red).txt,Pharmaceuticals\strychnine.txt,Pigment Spectral Library\Naplesyellow_lead(II) antimonate Pb2Sb2O7.txt,Pigment Spectral Library\Realgar_arsenic(II) sulfide, As4S4.txt,
+335 : Minerals\Clintonite__R070196__Raman__785.txt,Minerals\Clintonite__R070196__Raman__785__0__unoriented__Raman_Data_Processed__25601.txt,Minerals\Crocoite(PbCrO4)__R050044__Raman__785__0__unoriented__Raman_Data_Processed__21170.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\pentazocine.txt,
+340 : Flame Retardant\FM2100_semstub_785nm_50%_10s_20x_2final_Raman.txt,Flame Retardant\HBCDD_785nm.txt,Flame Retardant\Phosphorus Oxychloride.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Minerals\Pyrite1.txt,Minerals\Pyrite1.txt,Pharmaceuticals\arecoline.txt,Pharmaceuticals\phenothiazine.txt,Pigment Spectral Library\Lithopone_zinc sulfide and barium sulfate, ZnS and BaSO4.txt,Pigment Spectral Library\Pararealgar_arsenic(II) sulfide, As4S4.txt,
+345 : Flame Retardant\PUF_Ref_short.txt,Minerals\Eskolaite(Cr2O3)__R060892__Raman__785__0__unoriented__Raman_Data_Processed__13013.txt,Minerals\cinnabar1.txt,Pharmaceuticals\chlorzoxazone.txt,Pharmaceuticals\pregnenolone.txt,Pharmaceuticals\promethazine.txt,Pigment Spectral Library\Orpiment_arsenic(III) sulfide, As2S3.txt,WhitePowders\GuarGumElephantPharmacy.txt,
+350 : Flame Retardant\TBBPA_semstub_785nm_100%_10s_20x_2final_Raman.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Pigment Spectral Library\BariumYellow_barium chromate BaCrO4.txt,
+355 : Flame Retardant\Dimethyl Cholothiophosphate.txt,Flame Retardant\HBCDD_785nm.txt,Minerals\Andalusite__R050561__Raman__780.txt,Minerals\Crocoite(PbCrO4)__R050044__Raman__785__0__unoriented__Raman_Data_Processed__21170.txt,Minerals\Zircon1.txt,Pharmaceuticals\trihexyphenidyl.txt,Pigment Spectral Library\ChromeYellow(deep)_lead(II) chromate PbCrO4.PbO.txt,Pigment Spectral Library\Chromeyellow_lead(II) chromate PbCrO4.txt,Pigment Spectral Library\Egyptianblue_calcium copper(II) silica.txt,WhitePowders\AccentMSG.txt,
+360 : Fungal Spores\SCOPULARIOPSIS BREVICAULIS_AVG.txt,Minerals\Lopezite(K2Cr2O7)__R070043__Raman__785__0__unoriented__Raman_Data_Processed__13400.txt,Minerals\Pyrite1.txt,Minerals\Talc1.txt,Pharmaceuticals\papaverine.txt,Plastics\PVC_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PVC_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,WhitePowders\BabyPowder.txt,WhitePowders\Talc1.txt,
+365 : Minerals\Brookite1.txt,Minerals\Otwayite__R060384__Raman__785__0__unoriented__Raman_Data_Processed__9365.txt,Pharmaceuticals\atenolol.txt,Pharmaceuticals\diclofenac.txt,Pharmaceuticals\trimethobenzomide.txt,Pigment Spectral Library\ScheelesGreen_copper(II) arsenite Cu(AsO2)2.txt,
+370 : Minerals\Actinolite1.txt,Minerals\Lepidocrocite__R050454__Raman__780.txt,Minerals\Lepidocrocite__R050454__Raman__780__0__unoriented__Raman_Data_Processed__30855.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Minerals\Uvarovite__R061041__Raman__532__0__unoriented__Raman_Data_Processed__15202.txt,Minerals\Uvarovite__R061041__Raman__785__0__unoriented__Raman_Data_Processed__31828.txt,Pharmaceuticals\minoxidil.txt,Pigment Spectral Library\Emeraldgreen_copper(II) ethanoate tri-copper(II) arsenite Cu[C2H3O2]. 3Cu[AsO2]2.txt,Pigment Spectral Library\Verdigris2_basic copper(II) ethanoate Cu(CH3COO)2. Cu(OH)2.txt,WhitePowders\Actinolite1.txt,
+375 : Flame Retardant\Melamine.txt,Minerals\Al2O3_Corundum__R040096__Raman__780__0__unoriented__Raman_Data_Processed__24828.txt,Minerals\Crocoite(PbCrO4)__R050044__Raman__785__0__unoriented__Raman_Data_Processed__21170.txt,Minerals\Nickelhexahydrite__R060596__Raman__532__0__unoriented__Raman_Data_Processed__11167_rruff.txt,Minerals\Pyrite1.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,
+380 : Minerals\crocoite(PbCrO4)_Tasmania.txt,Pharmaceuticals\chlorpheniramine.txt,Pharmaceuticals\chlorzoxazone.txt,Pharmaceuticals\dihydrocodeine.txt,Pharmaceuticals\pregnenolone.txt,
+385 : Flame Retardant\TPP_Ctab_532nm_25X1000um_5mW_5s_50x_0_highRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_1_HighRes.txt,Minerals\Lizardite1.txt,Pharmaceuticals\nalidixic.txt,Pigment Spectral Library\Marsyellow_synthetic iron(III) hydroxide, Fe(OH)3.txt,
+390 : Minerals\Actinolite1.txt,Minerals\Anatase1.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\acetaminophen.txt,Pharmaceuticals\cyclobenzaprine.txt,Pharmaceuticals\minoxidil.txt,WhitePowders\Actinolite1.txt,WhitePowders\Tylenol.txt,
+395 : Minerals\Clintonite__R070196__Raman__785.txt,Minerals\Clintonite__R070196__Raman__785__0__unoriented__Raman_Data_Processed__25601.txt,Pharmaceuticals\pentazocine.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,
+400 : Fungal Spores\RHIZOPUS STOLONIFER.txt,Pigment Spectral Library\Azurite_copper(II) carbona.txt,WhitePowders\SugarGranulatedCH.txt,WhitePowders\SugarOrganic.txt,
+405 : Minerals\Ajoite__R060735__Raman__780.txt,Minerals\Ajoite__R060735__Raman__780__0__unoriented__Raman_Data_Processed__37079.txt,Minerals\Muscovite2.txt,Pharmaceuticals\methimazole.txt,Pigment Spectral Library\Malachite_basic copper(II) carbonate CuCO3.Cu(OH)2.txt,Pigment Spectral Library\Marsred_synthetic iron(III) oxide, Fe2O3.txt,
+410 : Minerals\Gypsum1.txt,Minerals\Hematite1.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Miscellaneous\New Bengay (Red).txt,Pharmaceuticals\oxybenzone.txt,Pigment Spectral Library\Gypsum_calcium sulfate dihydrate CaSO4.2H2O.txt,
+415 : Minerals\Actinolite1.txt,Minerals\Ajoite__R060735__Raman__780.txt,Minerals\Ajoite__R060735__Raman__780__0__unoriented__Raman_Data_Processed__37079.txt,Minerals\Al2O3_Corundum__R040096__Raman__780__0__unoriented__Raman_Data_Processed__24828.txt,Minerals\Arcanite (K2SO4).txt,Minerals\Monazite1.txt,Pharmaceuticals\amitryptyline.txt,Pharmaceuticals\diclofenac.txt,Pharmaceuticals\oxycodone.txt,Pharmaceuticals\pentazocine.txt,Pharmaceuticals\pilocarpine.txt,Pharmaceuticals\timolol.txt,WhitePowders\Actinolite1.txt,WhitePowders\EqualSweet.txt,WhitePowders\SweetCrystals.txt,
+420 : Minerals\Labradorite__R060082__Raman__780.txt,Pharmaceuticals\nadolol.txt,WhitePowders\Aspirin.txt,WhitePowders\GuarGumElephantPharmacy.txt,WhitePowders\Splenda.txt,WhitePowders\SweetNLow.txt,
+425 : Minerals\Anorthite__R040059__Raman__780.txt,Minerals\Hematite1.txt,Pharmaceuticals\nalidixic.txt,
+430 : Flame Retardant\HBCDD_785nm.txt,Fungal Spores\EPICOCCUM NIGRAM.txt,Minerals\Al2O3_Corundum__R040096__Raman__780__0__unoriented__Raman_Data_Processed__24828.txt,Pigment Spectral Library\Egyptianblue_calcium copper(II) silica.txt,
+435 : Fungal Spores\CLADOSPORIUM HERBARUM.txt,Fungal Spores\EUROTIUM HERBARIORUM.txt,Minerals\Oligoclase__R070268__Raman__785.txt,Minerals\Zircon1.txt,Pharmaceuticals\arecoline.txt,Pharmaceuticals\clophedianol.txt,Pigment Spectral Library\Cobaltgreen_cobalt(II) zincate CoO.nZnO.txt,Pigment Spectral Library\Zincwhite_zinc oxide, ZnO.txt,
+440 : Minerals\brucite.txt,WhitePowders\SugarGranulatedCH.txt,WhitePowders\SugarOrganic.txt,
+445 : Minerals\Rutile1.txt,Pharmaceuticals\theophyline.txt,
+450 : Flame Retardant\Antimony Trioxide__780nm.txt,Minerals\Andalusite__R050561__Raman__780.txt,Minerals\BaSO4.txt,Minerals\Microcline__X050117__Raman__785.txt,Pharmaceuticals\minoxidil.txt,Pigment Spectral Library\Barytes_barium sulfate, BaSO4.txt,Pigment Spectral Library\Lithopone_zinc sulfide and barium sulfate, ZnS and BaSO4.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,
+455 : 
+460 : Minerals\Barbertonite__R060675__Raman__785__0__unoriented__Raman_Data_Processed__11757.txt,Minerals\Barite1.txt,Minerals\Quartz1.txt,Minerals\Quartz__R060604__Raman__780.txt,Minerals\Quartz__R060604__Raman__780__0__unoriented__Raman_Data_Processed__31951.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pigment Spectral Library\Smalt_cobalt(II) silica.txt,WhitePowders\Ajax.txt,
+465 : Minerals\Monazite1.txt,Minerals\Perovskite1.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Minerals\quartz.txt,Pharmaceuticals\diclofenac.txt,
+470 : Minerals\Anorthoclase__R060054__Raman__780.txt,Minerals\Orthoclase1.txt,Minerals\Orthoclase__R040055__Raman__785.txt,Minerals\Sanidine__X050140__Raman__785.txt,Pharmaceuticals\papaverine.txt,Pharmaceuticals\tolazoline.txt,
+475 : Minerals\Albite__R040068__Raman__785.txt,Minerals\Microcline__X050117__Raman__785.txt,Minerals\Silicon__R040145__Raman__780__0__unoriented__Raman_Data_Processed__27510.txt,Miscellaneous\New Bengay (Red).txt,Pharmaceuticals\imipramine.txt,Pharmaceuticals\mephenesin.txt,Pigment Spectral Library\Yellowchre_goethite (Fe2O3.H2O ) + clay + silica.txt,WhitePowders\ArrowrootStarch.txt,WhitePowders\Bisquick.txt,WhitePowders\CornStarch.txt,WhitePowders\WheatFlour.txt,
+480 : Minerals\Bytownite__X050033__Raman__785.txt,Pharmaceuticals\lapachol.txt,Pharmaceuticals\nadolol.txt,Pigment Spectral Library\Indianyellow_magnesium salt of euxanthic acid MgC19H16O11.5H2O.txt,Pigment Spectral Library\Malachite_basic copper(II) carbonate CuCO3.Cu(OH)2.txt,Pigment Spectral Library\Viridian_chromium(III) oxide Cr2O3.2H2O.txt,
+485 : Flame Retardant\Phosphorus Oxychloride.txt,Minerals\Anorthite__R040059__Raman__780.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\yohimbine.txt,
+490 : Flame Retardant\Dimethyl Cholothiophosphate.txt,Flame Retardant\FM2100_semstub_785nm_50%_10s_20x_2final_Raman.txt,Pharmaceuticals\propranolol.txt,Pharmaceuticals\theophyline.txt,Pigment Spectral Library\Emeraldgreen_copper(II) ethanoate tri-copper(II) arsenite Cu[C2H3O2]. 3Cu[AsO2]2.txt,
+495 : Minerals\anhydrite.txt,Pharmaceuticals\strychnine.txt,
+500 : Flame Retardant\TBBPA_semstub_785nm_100%_10s_20x_2final_Raman.txt,Minerals\Ajoite__R060735__Raman__780.txt,Minerals\Ajoite__R060735__Raman__780__0__unoriented__Raman_Data_Processed__37079.txt,Minerals\Anorthite__R040059__Raman__780.txt,Minerals\Clintonite__R070196__Raman__785.txt,Minerals\Clintonite__R070196__Raman__785__0__unoriented__Raman_Data_Processed__25601.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\theophyline.txt,
+505 : Fungal Spores\ASPERGILLUS VERSICOLOR.txt,Minerals\Albite__R040068__Raman__785.txt,Minerals\Andesine__X050013__Raman__785.txt,Minerals\Andesine__X050013__Raman__785__0__unoriented__Raman_Data_Processed__6452.txt,Minerals\Bytownite__X050033__Raman__785.txt,Minerals\Labradorite__R060082__Raman__780.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Minerals\Oligoclase__R070268__Raman__785.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\oxybenzone.txt,Pigment Spectral Library\Malachite_basic copper(II) carbonate CuCO3.Cu(OH)2.txt,
+510 : Minerals\Anorthoclase__R060054__Raman__780.txt,Minerals\Microcline__X050117__Raman__785.txt,Minerals\Orthoclase1.txt,Minerals\Orthoclase__R040055__Raman__785.txt,Minerals\Sanidine__X050140__Raman__785.txt,Pharmaceuticals\pentazocine.txt,Pigment Spectral Library\Atacamite_basic copper(II) chloride CuCl2.3Cu(OH)2.txt,Pigment Spectral Library\Cobaltblue_cobalt.txt,WhitePowders\EqualSweet.txt,WhitePowders\Splenda.txt,WhitePowders\SweetCrystals.txt,WhitePowders\SweetNLow.txt,
+515 : Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Minerals\Silicon__R040145__Raman__514__0__unoriented__Raman_Data_Processed__10159.txt,Minerals\Silicon__R040145__Raman__780__0__unoriented__Raman_Data_Processed__27510.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,
+520 : Minerals\Silicon__R040145__Raman__532__0__unoriented__Raman_Data_Processed__27508.txt,Miscellaneous\New Bengay (Red).txt,Pigment Spectral Library\Verdigris2_basic copper(II) ethanoate Cu(CH3COO)2. Cu(OH)2.txt,WhitePowders\SugarOrganic.txt,
+525 : Flame Retardant\HBCDD_785nm.txt,Pharmaceuticals\diclofenac.txt,Pharmaceuticals\methimazole.txt,WhitePowders\AccentMSG.txt,WhitePowders\SugarGranulatedCH.txt,
+530 : Minerals\Uvarovite__R061041__Raman__532__0__unoriented__Raman_Data_Processed__15202.txt,Minerals\Uvarovite__R061041__Raman__785__0__unoriented__Raman_Data_Processed__31828.txt,Pharmaceuticals\nortriptyline.txt,Pharmaceuticals\oxybenzone.txt,Pharmaceuticals\papaverine.txt,Pharmaceuticals\strychnine.txt,Pigment Spectral Library\Ceruleanblue_cobalt(II) stanna.txt,WhitePowders\SteviaExtract.txt,
+535 : Minerals\Barbertonite__R060675__Raman__785__0__unoriented__Raman_Data_Processed__11757.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Miscellaneous\ONitroToluene.txt,Pharmaceuticals\nalidixic.txt,
+540 : Minerals\Silicon__R040145__Raman__514__0__unoriented__Raman_Data_Processed__10159.txt,Pharmaceuticals\amitryptyline.txt,Pharmaceuticals\cantharidin.txt,Pharmaceuticals\dexamethasone.txt,Pharmaceuticals\dihydrocodeine.txt,Pigment Spectral Library\Viridian_chromium(III) oxide Cr2O3.2H2O.txt,
+545 : Minerals\Magnesiochromite__R060796__Raman__785__0__unoriented__Raman_Data_Processed__12786.txt,Pharmaceuticals\mephenesin.txt,Pharmaceuticals\tolbutamide.txt,Pigment Spectral Library\Cobaltgreen_cobalt(II) zincate CoO.nZnO.txt,Pigment Spectral Library\Lazurite_S3_& S2_in a sodium alumino-silicate.txt,Pigment Spectral Library\Redlead_dilead(II) lead(IV) oxide Pb3O4.txt,WhitePowders\SugarGranulatedCH.txt,
+550 : Minerals\Eskolaite(Cr2O3)__R060892__Raman__532__0__unoriented__Raman_Data_Processed__14119.txt,Minerals\Eskolaite(Cr2O3)__R060892__Raman__785__0__unoriented__Raman_Data_Processed__13013.txt,Minerals\Magnesiochromite__R060796__Raman__785__0__unoriented__Raman_Data_Processed__12786.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\minoxidil.txt,Pharmaceuticals\theophyline.txt,Pigment Spectral Library\ChromiumIIIoxide_Cr2O3.txt,
+555 : Minerals\Anorthite__R040059__Raman__780.txt,Miscellaneous\Conc Sulfuric acid (96%).txt,Pharmaceuticals\nalidixic.txt,
+560 : Miscellaneous\New Bengay (Red).txt,Pharmaceuticals\chlorzoxazone.txt,WhitePowders\EqualSweet.txt,WhitePowders\Splenda.txt,WhitePowders\SweetCrystals.txt,WhitePowders\SweetNLow.txt,
+565 : Fungal Spores\EUROTIUM HERBARIORUM.txt,Fungal Spores\RHIZOPUS STOLONIFER.txt,Pharmaceuticals\arecoline.txt,Pharmaceuticals\minoxidil.txt,
+570 : Pigment Spectral Library\Egyptianblue_calcium copper(II) silica.txt,Plastics\PVC_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,
+575 : Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Plastics\PVC_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,
+580 : Flame Retardant\HBCDD_785nm.txt,Flame Retardant\Melamine.txt,WhitePowders\SugarOrganic.txt,
+585 : Pigment Spectral Library\Yellowchre_goethite (Fe2O3.H2O ) + clay + silica.txt,
+590 : 
+595 : Pharmaceuticals\amitryptyline.txt,Pharmaceuticals\pregnenolone.txt,Pharmaceuticals\yohimbine.txt,
+600 : Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\methimazole.txt,Pigment Spectral Library\CadmiumYellow_cadmium sulfide, CdS.txt,WhitePowders\SteviaExtract.txt,
+605 : Minerals\Rutile1.txt,
+610 : Minerals\Eskolaite(Cr2O3)__R060892__Raman__785__0__unoriented__Raman_Data_Processed__13013.txt,Pharmaceuticals\cantharidin.txt,Pharmaceuticals\oxycodone.txt,
+615 : Flame Retardant\HBCDD_785nm.txt,Flame Retardant\TPP_Ctab_532nm_25X1000um_10mW_5s_50x_0_LowRes.txt,Flame Retardant\TPP_Ctab_532nm_25X1000um_5mW_5s_50x_0_highRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_0_LowRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_1_HighRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_50mW_5s_50x_0_LowRes.txt,Pharmaceuticals\clophedianol.txt,Pharmaceuticals\diphenidol.txt,Pharmaceuticals\phenytoin.txt,Pharmaceuticals\tolazoline.txt,
+620 : Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\diphenoxylate.txt,Pharmaceuticals\doxylamine.txt,Pharmaceuticals\minoxidil.txt,Pharmaceuticals\phenformin.txt,WhitePowders\NatraTaste.txt,
+625 : Minerals\Clintonite__R070196__Raman__785.txt,Minerals\Clintonite__R070196__Raman__785__0__unoriented__Raman_Data_Processed__25601.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\carbinoxamine.txt,Pharmaceuticals\chlorpropamide.txt,
+630 : Pharmaceuticals\chlorpheniramine.txt,Pharmaceuticals\haloperidol.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\sulfadiazine.txt,Plastics\PETpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PETpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,
+635 : Flame Retardant\HBCDD_785nm.txt,Flame Retardant\PUF_Ref_short.txt,Pharmaceuticals\atenolol.txt,Pharmaceuticals\dihydrocodeine.txt,Pharmaceuticals\sulfanilamide.txt,Pharmaceuticals\tolazoline.txt,Pharmaceuticals\tolbutamide.txt,Pharmaceuticals\trimethobenzomide.txt,Plastics\PVC_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PVC_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,WhitePowders\Advil.txt,WhitePowders\GainDetergent.txt,WhitePowders\Ibuprofen.txt,WhitePowders\TideDetergent.txt,
+640 : Pharmaceuticals\metoprolol.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\oxycodone.txt,Pharmaceuticals\phenytoin.txt,Pharmaceuticals\pilocarpine.txt,WhitePowders\SugarOrganic.txt,
+645 : Minerals\Ajoite__R060735__Raman__780.txt,Minerals\Ajoite__R060735__Raman__780.txt,Minerals\Ajoite__R060735__Raman__780__0__unoriented__Raman_Data_Processed__37079.txt,Minerals\Ajoite__R060735__Raman__780__0__unoriented__Raman_Data_Processed__37079.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\cantharidin.txt,Pharmaceuticals\strychnine.txt,
+650 : Minerals\Clintonite__R070196__Raman__785.txt,Minerals\Clintonite__R070196__Raman__785__0__unoriented__Raman_Data_Processed__25601.txt,Pharmaceuticals\acetaminophen.txt,WhitePowders\Tylenol.txt,
+655 : Minerals\Magnesiochromite__R060796__Raman__785__0__unoriented__Raman_Data_Processed__12786.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,
+660 : Flame Retardant\Dimethyl Cholothiophosphate.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Minerals\Magnetite1.txt,Miscellaneous\ONitroToluene.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\papaverine.txt,Pharmaceuticals\timolol.txt,
+665 : Flame Retardant\3 Bromo Styrene_532nm.txt,Flame Retardant\3 Bromo Styrene_785nm.txt,Flame Retardant\HBCDD_785nm.txt,Flame Retardant\TBBPA_semstub_785nm_100%_10s_20x_2final_Raman.txt,Flame Retardant\TCEP_532nm.txt,Minerals\Ajoite__R060735__Raman__780.txt,Minerals\Ajoite__R060735__Raman__780__0__unoriented__Raman_Data_Processed__37079.txt,Pharmaceuticals\lapachol.txt,Pharmaceuticals\propantheline bromide.txt,Pharmaceuticals\theophyline.txt,
+670 : Flame Retardant\HexaPBDE_785nm.txt,Flame Retardant\Melamine.txt,Flame Retardant\TCEP_785nm.txt,Minerals\Actinolite1.txt,Minerals\Talc1.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pigment Spectral Library\Ceruleanblue_cobalt(II) stanna.txt,WhitePowders\Actinolite1.txt,WhitePowders\Talc1.txt,
+675 : Flame Retardant\PUF_Ref_short.txt,Pharmaceuticals\clophedianol.txt,Pharmaceuticals\promethazine.txt,Pharmaceuticals\trihexyphenidyl.txt,WhitePowders\BabyPowder.txt,WhitePowders\TalcumPowder.txt,
+680 : Minerals\Barbertonite__R060675__Raman__785__0__unoriented__Raman_Data_Processed__11757.txt,Minerals\Nickelhexahydrite__R060596__Raman__532__0__unoriented__Raman_Data_Processed__11167_rruff.txt,Minerals\Otwayite__R060384__Raman__785__0__unoriented__Raman_Data_Processed__9365.txt,Pharmaceuticals\phenothiazine.txt,
+685 : Flame Retardant\HBCDD_785nm.txt,Pharmaceuticals\amitryptyline.txt,Pharmaceuticals\loratadine.txt,Pharmaceuticals\nortriptyline.txt,Pharmaceuticals\phenytoin.txt,WhitePowders\BakingSoda.txt,
+690 : Flame Retardant\TCPP_532nm.txt,Flame Retardant\TCPP_785nm.txt,Flame Retardant\TDCCP_532nm.txt,Flame Retardant\TDCCP_785nm.txt,Minerals\Lizardite1.txt,Minerals\Magnesiochromite__R060796__Raman__785__0__unoriented__Raman_Data_Processed__12786.txt,Pharmaceuticals\cyclobenzaprine.txt,Pharmaceuticals\dexamethasone.txt,Pharmaceuticals\methimazole.txt,Pharmaceuticals\nalidixic.txt,Pharmaceuticals\pentazocine.txt,Plastics\PVC_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,
+695 : Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\carbinoxamine.txt,Pharmaceuticals\pregnenolone.txt,
+700 : Minerals\Aragonite1.txt,Minerals\Muscovite1.txt,Minerals\Muscovite2.txt,Miscellaneous\Na2CO3_AlFoil_ext1.txt,Pigment Spectral Library\Verdigrisraw_copper(II) ethanoate Cu(CH3COO)2.txt,Plastics\PETpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PETpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,
+705 : Flame Retardant\HBCDD_785nm.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\chlorzoxazone.txt,Pharmaceuticals\nalidixic.txt,
+710 : Minerals\Calcite1(CaCO3).txt,Minerals\Calcite1.txt,Miscellaneous\DMMPl_auto_5acq_avg.txt,Pharmaceuticals\nadolol.txt,
+715 : Minerals\Niter__KNO3__Raman__780__0__unoriented__Raman_Data_Processed.txt,Pharmaceuticals\diphenidol.txt,Pharmaceuticals\loratadine.txt,Pharmaceuticals\metoprolol.txt,Pharmaceuticals\papaverine.txt,
+720 : Flame Retardant\TBBPA_semstub_785nm_100%_10s_20x_2final_Raman.txt,Minerals\Iquiqueite__R060822__Raman__780__0__unoriented__Raman_Data_Processed__26799.txt,Pharmaceuticals\atenolol.txt,Pharmaceuticals\doxylamine.txt,Pharmaceuticals\mephentermine.txt,
+725 : Flame Retardant\TPP_Ctab_532nm_25X1000um_10mW_5s_50x_0_LowRes.txt,Flame Retardant\TPP_Ctab_532nm_25X1000um_5mW_5s_50x_0_highRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_0_LowRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_1_HighRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_50mW_5s_50x_0_LowRes.txt,Pharmaceuticals\trimethobenzomide.txt,
+730 : Flame Retardant\TCEP_785nm.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\cantharidin.txt,Pharmaceuticals\cyclobenzaprine.txt,Pharmaceuticals\promethazine.txt,
+735 : Pharmaceuticals\nadolol.txt,Pharmaceuticals\oxybenzone.txt,WhitePowders\SugarGranulatedCH.txt,
+740 : Fungal Spores\EUROTIUM HERBARIORUM.txt,Miscellaneous\New Bengay (Red).txt,Pharmaceuticals\dihydrocodeine.txt,Pharmaceuticals\haloperidol.txt,Pharmaceuticals\papaverine.txt,Pharmaceuticals\propranolol.txt,WhitePowders\SteviaExtract.txt,
+745 : Flame Retardant\TCPP_532nm.txt,Flame Retardant\TCPP_785nm.txt,Pharmaceuticals\clemastine.txt,Pharmaceuticals\phenformin.txt,Pharmaceuticals\propantheline bromide.txt,WhitePowders\Advil.txt,WhitePowders\Ibuprofen.txt,WhitePowders\NatraTaste.txt,
+750 : Flame Retardant\TDCCP_785nm.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Pharmaceuticals\oxybenzone.txt,WhitePowders\Aspirin.txt,
+755 : Fungal Spores\ASPERGILLUS VERSICOLOR.txt,Pharmaceuticals\chlorpropamide.txt,Pharmaceuticals\diclofenac.txt,Pharmaceuticals\fenfluramine.txt,Pharmaceuticals\heptaminol.txt,Pharmaceuticals\minoxidil.txt,
+760 : Flame Retardant\TCEP_785nm.txt,Pharmaceuticals\arecoline.txt,Pharmaceuticals\chlorpheniramine.txt,Pharmaceuticals\propranolol.txt,Pharmaceuticals\quinidine.txt,Pharmaceuticals\yohimbine.txt,
+765 : Flame Retardant\HBCDD_785nm.txt,Flame Retardant\TDCCP_785nm.txt,Miscellaneous\New Bengay (Red).txt,Pharmaceuticals\mephenesin.txt,Pharmaceuticals\pilocarpine.txt,Pharmaceuticals\timolol.txt,Pharmaceuticals\trihexyphenidyl.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,
+770 : Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_1_HighRes.txt,Miscellaneous\Bengay.txt,Miscellaneous\Bengay_DeltaNu.txt,Pharmaceuticals\oxycodone.txt,Pharmaceuticals\papaverine.txt,Pharmaceuticals\strychnine.txt,WhitePowders\AccentMSG.txt,WhitePowders\EqualSweet.txt,WhitePowders\Splenda.txt,WhitePowders\SteviaExtract.txt,WhitePowders\SweetCrystals.txt,WhitePowders\SweetNLow.txt,
+775 : Pharmaceuticals\amitryptyline.txt,Pharmaceuticals\carbinoxamine.txt,Pharmaceuticals\dexamethasone.txt,Pharmaceuticals\loratadine.txt,Pharmaceuticals\mephenesin.txt,Pharmaceuticals\tolazoline.txt,
+780 : Pharmaceuticals\nalidixic.txt,Pharmaceuticals\pentazocine.txt,Pigment Spectral Library\ScheelesGreen_copper(II) arsenite Cu(AsO2)2.txt,WhitePowders\Advil.txt,WhitePowders\Aspirin.txt,WhitePowders\Ibuprofen.txt,WhitePowders\XanthanGum.txt,
+785 : Flame Retardant\TDCCP_785nm.txt,
+790 : Fungal Spores\EUROTIUM HERBARIORUM.txt,Minerals\Ajoite__R060735__Raman__780.txt,Minerals\Ajoite__R060735__Raman__780__0__unoriented__Raman_Data_Processed__37079.txt,Miscellaneous\ONitroToluene.txt,Pharmaceuticals\arecoline.txt,Pharmaceuticals\diphenidol.txt,Pharmaceuticals\doxylamine.txt,Pharmaceuticals\trimethobenzomide.txt,Plastics\PETpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PETpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,WhitePowders\AccentMSG.txt,
+795 : Flame Retardant\PUF_Ref_short.txt,Pharmaceuticals\acetaminophen.txt,Pharmaceuticals\cantharidin.txt,Pharmaceuticals\fenfluramine.txt,Pharmaceuticals\haloperidol.txt,Pharmaceuticals\propantheline bromide.txt,Pharmaceuticals\quinidine.txt,Pharmaceuticals\sulfadiazine.txt,Pharmaceuticals\tolbutamide.txt,WhitePowders\Tylenol.txt,
+800 : Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,
+805 : Miscellaneous\New Bengay (Red).txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,
+810 : Fungal Spores\EPICOCCUM NIGRAM.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Miscellaneous\Bengay.txt,Miscellaneous\Bengay_DeltaNu.txt,Pharmaceuticals\cyclobenzaprine.txt,Pharmaceuticals\mephentermine.txt,Pharmaceuticals\minoxidil.txt,Pharmaceuticals\promethazine.txt,Pharmaceuticals\tolbutamide.txt,
+815 : Fungal Spores\CLADOSPORIUM HERBARUM.txt,Fungal Spores\EUROTIUM HERBARIORUM.txt,Pharmaceuticals\atenolol.txt,Pharmaceuticals\trihexyphenidyl.txt,Pigment Spectral Library\Atacamite_basic copper(II) chloride CuCl2.3Cu(OH)2.txt,WhitePowders\NatraTaste.txt,
+820 : Pharmaceuticals\metoprolol.txt,Pharmaceuticals\sulfadiazine.txt,Pigment Spectral Library\Cobaltyellow_potassium cobalt nitrite K3[Co(NO2)6].xH2O.txt,WhitePowders\Advil.txt,WhitePowders\GuarGumElephantPharmacy.txt,WhitePowders\Ibuprofen.txt,WhitePowders\XanthanGum.txt,
+825 : Fungal Spores\RHIZOPUS STOLONIFER.txt,Minerals\forsterite.txt,Pharmaceuticals\atenolol.txt,Pharmaceuticals\diclofenac.txt,Pharmaceuticals\heptaminol.txt,Pharmaceuticals\mephenesin.txt,Pharmaceuticals\phenformin.txt,Pigment Spectral Library\ChromeYellowOrange_lead(II) chromate PbCrO4.PbO.txt,
+830 : Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\dihydrocodeine.txt,Pharmaceuticals\fenfluramine.txt,Pharmaceuticals\fentanyl.txt,Pharmaceuticals\tolazoline.txt,WhitePowders\Advil.txt,WhitePowders\Ibuprofen.txt,WhitePowders\SteviaExtract.txt,
+835 : Minerals\Crocoite(PbCrO4)__R050044__Raman__532__0__unoriented__Raman_Data_Processed__21168.txt,Minerals\Crocoite(PbCrO4)__R050044__Raman__785__0__unoriented__Raman_Data_Processed__21170.txt,Minerals\crocoite.txt,Pharmaceuticals\clophedianol.txt,Pharmaceuticals\haloperidol.txt,Pigment Spectral Library\ChromeYellow(deep)_lead(II) chromate PbCrO4.PbO.txt,Pigment Spectral Library\Cobaltyellow_potassium cobalt nitrite K3[Co(NO2)6].xH2O.txt,
+840 : Fungal Spores\SCOPULARIOPSIS BREVICAULIS_AVG.txt,Minerals\CaF2__514.txt,Minerals\crocoite(PbCrO4)_Tasmania.txt,Miscellaneous\Soybean oil.txt,Pharmaceuticals\mephenesin.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\sulfanilamide.txt,Pigment Spectral Library\Azurite_copper(II) carbona.txt,Pigment Spectral Library\Chromeyellow_lead(II) chromate PbCrO4.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,
+845 : Pharmaceuticals\arecoline.txt,Pharmaceuticals\chlorpheniramine.txt,Pharmaceuticals\metoprolol.txt,Pharmaceuticals\sulfadiazine.txt,WhitePowders\SugarGranulatedCH.txt,WhitePowders\SugarOrganic.txt,
+850 : Minerals\Ajoite__R060735__Raman__780.txt,Minerals\Ajoite__R060735__Raman__780__0__unoriented__Raman_Data_Processed__37079.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Pharmaceuticals\diclofenac.txt,Pharmaceuticals\heptaminol.txt,Pharmaceuticals\minoxidil.txt,Pharmaceuticals\pentazocine.txt,
+855 : Flame Retardant\PUF_Ref_1.txt,Flame Retardant\PUF_Ref_short.txt,Minerals\forsterite.txt,Miscellaneous\ONitroToluene.txt,Pharmaceuticals\acetaminophen.txt,Pharmaceuticals\amitryptyline.txt,Pharmaceuticals\cantharidin.txt,Pharmaceuticals\pilocarpine.txt,Pharmaceuticals\trihexyphenidyl.txt,Pharmaceuticals\trimethobenzomide.txt,Plastics\PETpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PETpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,WhitePowders\AccentMSG.txt,WhitePowders\EqualSweet.txt,WhitePowders\Splenda.txt,WhitePowders\SweetCrystals.txt,WhitePowders\SweetNLow.txt,WhitePowders\Tylenol.txt,
+860 : Pharmaceuticals\atenolol.txt,Pharmaceuticals\chlorzoxazone.txt,Pharmaceuticals\timolol.txt,Pigment Spectral Library\BariumYellow_barium chromate BaCrO4.txt,Pigment Spectral Library\strontiumyellow_strontium chromate SrCrO4.txt,
+865 : Flame Retardant\TBBPA_semstub_785nm_100%_10s_20x_2final_Raman.txt,Minerals\Ajoite__R060735__Raman__780.txt,Minerals\Ajoite__R060735__Raman__780__0__unoriented__Raman_Data_Processed__37079.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Miscellaneous\Canola oil_6s_5acq_avg_BckGMulti_GRAMS.txt,Miscellaneous\New Bengay (Red).txt,Pharmaceuticals\carbinoxamine.txt,WhitePowders\SteviaExtract.txt,
+870 : Pharmaceuticals\yohimbine.txt,Pigment Spectral Library\Zincyellow_zinc chromate ZnCrO4.txt,WhitePowders\GuarGumElephantPharmacy.txt,
+875 : Flame Retardant\TCPP_785nm.txt,Flame Retardant\TDCCP_785nm.txt,Minerals\Uvarovite__R061041__Raman__785__0__unoriented__Raman_Data_Processed__31828.txt,Pharmaceuticals\carbinoxamine.txt,Pharmaceuticals\dihydrocodeine.txt,Pharmaceuticals\pregnenolone.txt,WhitePowders\AccentMSG.txt,
+880 : Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Minerals\forsterite.txt,Pharmaceuticals\chlorpropamide.txt,Pharmaceuticals\oxycodone.txt,Pharmaceuticals\phenformin.txt,Pharmaceuticals\tolbutamide.txt,WhitePowders\GuarGumElephantPharmacy.txt,
+885 : Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\atenolol.txt,Pharmaceuticals\chlorpheniramine.txt,Pharmaceuticals\nadolol.txt,WhitePowders\SteviaExtract.txt,
+890 : Minerals\Clintonite__R070196__Raman__785.txt,Minerals\Clintonite__R070196__Raman__785__0__unoriented__Raman_Data_Processed__25601.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Minerals\Uvarovite__R061041__Raman__532__0__unoriented__Raman_Data_Processed__15202.txt,Pigment Spectral Library\Zincyellow_zinc chromate ZnCrO4.txt,Pigment Spectral Library\strontiumyellow_strontium chromate SrCrO4.txt,
+895 : Flame Retardant\TBPH_785nm.txt,Minerals\CaF2__514.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\clophedianol.txt,WhitePowders\XanthanGum.txt,
+900 : Pharmaceuticals\clemastine.txt,Pharmaceuticals\diclofenac.txt,Pharmaceuticals\sulfanilamide.txt,WhitePowders\GuarGumElephantPharmacy.txt,
+905 : Minerals\Lopezite(K2Cr2O7)__R070043__Raman__532__0__unoriented__Raman_Data_Processed__17818.txt,Pharmaceuticals\phenformin.txt,
+910 : Minerals\Lopezite(K2Cr2O7)__R070043__Raman__785__0__unoriented__Raman_Data_Processed__13400.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Miscellaneous\Conc Sulfuric acid (96%).txt,Miscellaneous\New Bengay (Red).txt,Pharmaceuticals\methimazole.txt,Pigment Spectral Library\Atacamite_basic copper(II) chloride CuCl2.3Cu(OH)2.txt,WhitePowders\SugarGranulatedCH.txt,
+915 : Minerals\Andalusite__R050561__Raman__780.txt,Pharmaceuticals\chlorpropamide.txt,Pigment Spectral Library\Smalt_cobalt(II) silica.txt,Pigment Spectral Library\strontiumyellow_strontium chromate SrCrO4.txt,WhitePowders\EqualSweet.txt,WhitePowders\Splenda.txt,WhitePowders\SweetCrystals.txt,WhitePowders\SweetNLow.txt,
+920 : Minerals\CaF2__514.txt,Pharmaceuticals\diclofenac.txt,Pharmaceuticals\heptaminol.txt,Pharmaceuticals\pilocarpine.txt,Pharmaceuticals\trimethobenzomide.txt,WhitePowders\SteviaExtract.txt,WhitePowders\SugarOrganic.txt,
+925 : Fungal Spores\RHIZOPUS STOLONIFER.txt,Pharmaceuticals\cantharidin.txt,Pharmaceuticals\metoprolol.txt,Pharmaceuticals\theophyline.txt,Pharmaceuticals\tolazoline.txt,WhitePowders\AccentMSG.txt,WhitePowders\EqualSweet.txt,WhitePowders\Splenda.txt,WhitePowders\SweetCrystals.txt,WhitePowders\SweetNLow.txt,
+930 : Flame Retardant\TPP_Ctab_532nm_25X1000um_5mW_5s_50x_0_highRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_1_HighRes.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\diclofenac.txt,Pharmaceuticals\yohimbine.txt,
+935 : Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Pharmaceuticals\pentazocine.txt,Pigment Spectral Library\Verdigris1_basic hydrated copper(II) ethanoate [Cu(CH3COO)2]2.Cu(OH)2. 5H2O.txt,Pigment Spectral Library\Verdigris2_basic copper(II) ethanoate Cu(CH3COO)2. Cu(OH)2.txt,WhitePowders\ArrowrootStarch.txt,WhitePowders\GuarGumElephantPharmacy.txt,
+940 : Minerals\Lopezite(K2Cr2O7)__R070043__Raman__785__0__unoriented__Raman_Data_Processed__13400.txt,Pharmaceuticals\strychnine.txt,Pharmaceuticals\timolol.txt,Pigment Spectral Library\Verdigrisraw_copper(II) ethanoate Cu(CH3COO)2.txt,Pigment Spectral Library\Zincyellow_zinc chromate ZnCrO4.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,WhitePowders\AccentMSG.txt,WhitePowders\Advil.txt,WhitePowders\Bisquick.txt,WhitePowders\CornStarch.txt,WhitePowders\Ibuprofen.txt,WhitePowders\SugarOrganic.txt,WhitePowders\WheatFlour.txt,
+945 : Minerals\Apatite1.txt,Pharmaceuticals\doxylamine.txt,Pharmaceuticals\nortriptyline.txt,Pharmaceuticals\papaverine.txt,
+950 : Pigment Spectral Library\Emeraldgreen_copper(II) ethanoate tri-copper(II) arsenite Cu[C2H3O2]. 3Cu[AsO2]2.txt,Pigment Spectral Library\Purpurin_1,2,4-trihydroxy-anthraquinone C14H18O5.txt,
+955 : Miscellaneous\New Bengay (Red).txt,Pharmaceuticals\nadolol.txt,
+960 : Minerals\Apatite1.txt,Pharmaceuticals\arecoline.txt,Pharmaceuticals\nortriptyline.txt,Pigment Spectral Library\Bonewhite_calcium phosphate, Ca3(PO4)2.txt,WhitePowders\SteviaExtract.txt,
+965 : Minerals\forsterite.txt,Pharmaceuticals\acetaminophen.txt,Pharmaceuticals\chlorzoxazone.txt,Pharmaceuticals\metoprolol.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\theophyline.txt,
+970 : Minerals\Alum-(K)(KAl(SO4)2·12H2O)_785nm_1.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Minerals\Monazite1.txt,Minerals\Zircon1.txt,Pharmaceuticals\amitryptyline.txt,Pharmaceuticals\chlorpheniramine.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,
+975 : Minerals\Felsöbányaite1(Al4(SO4)(OH)10·4H2O)_ 780nm.txt,Pharmaceuticals\diclofenac.txt,Pharmaceuticals\furazolidone.txt,Pharmaceuticals\loratadine.txt,Pharmaceuticals\mephentermine.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\pregnenolone.txt,Pigment Spectral Library\Atacamite_basic copper(II) chloride CuCl2.3Cu(OH)2.txt,WhitePowders\SteviaExtract.txt,
+980 : Flame Retardant\Melamine.txt,Minerals\Arcanite (K2SO4).txt,Minerals\Epsomite (MgSO4_7H2O).txt,Minerals\Felsöbányaite2(Al4(SO4)(OH)10·4H2O)_ 780nm.txt,Minerals\Nickelhexahydrite__R060596__Raman__532__0__unoriented__Raman_Data_Processed__11167_rruff.txt,Pharmaceuticals\phenytoin.txt,
+985 : Minerals\Alum-(K)(KAl(SO4)2·12H2O)_785nm_1.txt,Minerals\BaSO4.txt,Minerals\Barite1.txt,Pharmaceuticals\strychnine.txt,Pigment Spectral Library\Barytes_barium sulfate, BaSO4.txt,Pigment Spectral Library\Lithopone_zinc sulfide and barium sulfate, ZnS and BaSO4.txt,
+990 : Minerals\Aluminite(Al2SO4(OH)4·7H2O)_785nm.txt,Minerals\Gypsum1.txt,Minerals\Monazite1.txt,Minerals\Serpierite1(Corchia mine - Parma (Italy).txt,Minerals\Serpierite3( Valle Mercanti  - Vicenza (Italy).txt,Pharmaceuticals\carbinoxamine.txt,Pharmaceuticals\mephenesin.txt,Pharmaceuticals\sulfadiazine.txt,
+995 : Flame Retardant\3 Bromo Styrene_532nm.txt,Flame Retardant\3 Bromo Styrene_785nm.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\chlorpheniramine.txt,Pharmaceuticals\oxybenzone.txt,Pharmaceuticals\trimethobenzomide.txt,Pigment Spectral Library\TerreVerte_Variations on K[(AlIII,FeIII)(FeII,MgII)],(AlSi3,Si4) O10(OH)2.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,WhitePowders\TideDetergent.txt,
+1000 : Miscellaneous\New Bengay (Red).txt,Pharmaceuticals\clophedianol.txt,Pharmaceuticals\doxylamine.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\phenytoin.txt,Pharmaceuticals\progesterone.txt,Pharmaceuticals\tolazoline.txt,Pigment Spectral Library\Yellowchre_goethite (Fe2O3.H2O ) + clay + silica.txt,Plastics\PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2Processed.txt,WhitePowders\AccentMSG.txt,WhitePowders\GuarGumElephantPharmacy.txt,WhitePowders\NatraTaste.txt,
+1005 : Flame Retardant\HBCDD_785nm.txt,Flame Retardant\TPP_Ctab_532nm_25X1000um_10mW_5s_50x_0_LowRes.txt,Flame Retardant\TPP_Ctab_532nm_25X1000um_5mW_5s_50x_0_highRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_0_LowRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_1_HighRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_50mW_5s_50x_0_LowRes.txt,Minerals\Gypsum1.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Minerals\Zircon1.txt,Pharmaceuticals\clemastine.txt,Pharmaceuticals\diphenidol.txt,Pharmaceuticals\diphenoxylate.txt,Pharmaceuticals\fenfluramine.txt,Pharmaceuticals\fentanyl.txt,Pharmaceuticals\mephentermine.txt,Pharmaceuticals\minoxidil.txt,Pharmaceuticals\phenformin.txt,Pharmaceuticals\trihexyphenidyl.txt,Pharmaceuticals\yohimbine.txt,Pigment Spectral Library\Gypsum_calcium sulfate dihydrate CaSO4.2H2O.txt,WhitePowders\Advil.txt,WhitePowders\EqualSweet.txt,WhitePowders\Ibuprofen.txt,
+1010 : Flame Retardant\FM2100_semstub_785nm_50%_10s_20x_2final_Raman.txt,Pharmaceuticals\amitryptyline.txt,Pharmaceuticals\pentazocine.txt,Pharmaceuticals\pregnenolone.txt,WhitePowders\SugarOrganic.txt,
+1015 : Minerals\Arcanite (K2SO4).txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Minerals\anhydrite.txt,Pharmaceuticals\methimazole.txt,Pharmaceuticals\phenytoin.txt,Pharmaceuticals\propranolol.txt,
+1020 : Pharmaceuticals\cantharidin.txt,Pharmaceuticals\diclofenac.txt,Pharmaceuticals\furazolidone.txt,Pharmaceuticals\heptaminol.txt,Pharmaceuticals\imipramine.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\nadolol.txt,WhitePowders\EqualSweet.txt,WhitePowders\Splenda.txt,WhitePowders\SweetCrystals.txt,WhitePowders\SweetNLow.txt,
+1025 : Flame Retardant\TPP_Ctab_532nm_25X1000um_10mW_5s_50x_0_LowRes.txt,Flame Retardant\TPP_Ctab_532nm_25X1000um_5mW_5s_50x_0_highRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_0_LowRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_1_HighRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_50mW_5s_50x_0_LowRes.txt,Minerals\Actinolite1.txt,Pharmaceuticals\loratadine.txt,Pharmaceuticals\oxybenzone.txt,Pharmaceuticals\pregnenolone.txt,Pharmaceuticals\strychnine.txt,WhitePowders\Actinolite1.txt,WhitePowders\Fixall.txt,
+1030 : Flame Retardant\PUF_Ref_1.txt,Flame Retardant\PUF_Ref_short.txt,Miscellaneous\New Bengay (Red).txt,Pharmaceuticals\diclofenac.txt,Pharmaceuticals\heptaminol.txt,Pharmaceuticals\phenothiazine.txt,Pharmaceuticals\phenytoin.txt,Pharmaceuticals\pilocarpine.txt,Pharmaceuticals\promethazine.txt,Pharmaceuticals\timolol.txt,Pharmaceuticals\tolazoline.txt,Plastics\PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2Processed.txt,WhitePowders\NatraTaste.txt,
+1035 : Miscellaneous\Bengay.txt,Miscellaneous\Bengay_DeltaNu.txt,Pharmaceuticals\nortriptyline.txt,Pharmaceuticals\propantheline bromide.txt,Pharmaceuticals\trimethobenzomide.txt,Pigment Spectral Library\Leadwhite_basic lead(II) carbonate 2PbCO3.Pb(OH)2.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,WhitePowders\SugarGranulatedCH.txt,WhitePowders\SugarOrganic.txt,
+1040 : Minerals\Nickelhexahydrite__R060596__Raman__532__0__unoriented__Raman_Data_Processed__11167_rruff.txt,Pharmaceuticals\clophedianol.txt,Pharmaceuticals\diphenoxylate.txt,Pharmaceuticals\trihexyphenidyl.txt,WhitePowders\SteviaExtract.txt,WhitePowders\TraderJoesDetergent.txt,
+1045 : Flame Retardant\TBB_532nm.txt,Miscellaneous\Conc Sulfuric acid (96%).txt,Miscellaneous\ONitroToluene.txt,Pharmaceuticals\carbinoxamine.txt,Pharmaceuticals\cyclobenzaprine.txt,Pharmaceuticals\oxycodone.txt,WhitePowders\Aspirin.txt,WhitePowders\BakingSoda.txt,WhitePowders\GuarGumElephantPharmacy.txt,
+1050 : Minerals\Iquiqueite__R060822__Raman__532__0__unoriented__Raman_Data_Processed__26797.txt,Minerals\Niter__KNO3__Raman__780__0__unoriented__Raman_Data_Processed.txt,Miscellaneous\New Bengay (Red).txt,Pharmaceuticals\chlorpheniramine.txt,Pharmaceuticals\haloperidol.txt,Pharmaceuticals\mephenesin.txt,Pharmaceuticals\metoprolol.txt,Pharmaceuticals\nadolol.txt,WhitePowders\SugarGranulatedCH.txt,
+1055 : Minerals\Barbertonite__R060675__Raman__785__0__unoriented__Raman_Data_Processed__11757.txt,Minerals\Monazite1.txt,Miscellaneous\Na2CO3_AlFoil_ext1.txt,Pharmaceuticals\amitryptyline.txt,Pharmaceuticals\nortriptyline.txt,
+1060 : Fungal Spores\SCOPULARIOPSIS BREVICAULIS_AVG.txt,Pharmaceuticals\diclofenac.txt,Pharmaceuticals\heptaminol.txt,Pigment Spectral Library\Malachite_basic copper(II) carbonate CuCO3.Cu(OH)2.txt,Plastics\PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2Processed.txt,WhitePowders\AccentMSG.txt,WhitePowders\GainDetergent.txt,WhitePowders\TideDetergent.txt,
+1065 : Minerals\Iquiqueite__R060822__Raman__532__0__unoriented__Raman_Data_Processed__26797.txt,Minerals\Iquiqueite__R060822__Raman__780__0__unoriented__Raman_Data_Processed__26799.txt,Miscellaneous\Bengay.txt,Miscellaneous\Bengay_DeltaNu.txt,Pharmaceuticals\dihydrocodeine.txt,Pharmaceuticals\fentanyl.txt,Pharmaceuticals\oxycodone.txt,WhitePowders\SteviaExtract.txt,WhitePowders\UltraPlusDetergent.txt,
+1070 : Miscellaneous\Na2CO3_AlFoil_ext1.txt,Pharmaceuticals\clemastine.txt,Pharmaceuticals\clophedianol.txt,Pharmaceuticals\dexamethasone.txt,Pharmaceuticals\diclofenac.txt,Pharmaceuticals\loratadine.txt,Pharmaceuticals\pentazocine.txt,Pigment Spectral Library\TerreVerte_Variations on K[(AlIII,FeIII)(FeII,MgII)],(AlSi3,Si4) O10(OH)2.txt,WhitePowders\AccentMSG.txt,WhitePowders\EqualSweet.txt,WhitePowders\Splenda.txt,WhitePowders\SweetCrystals.txt,WhitePowders\SweetNLow.txt,
+1075 : Fungal Spores\SCOPULARIOPSIS BREVICAULIS_AVG.txt,Pharmaceuticals\arecoline.txt,WhitePowders\GainDetergent.txt,WhitePowders\TideDetergent.txt,WhitePowders\XanthanGum.txt,
+1080 : Flame Retardant\TBBPA_semstub_785nm_100%_10s_20x_2final_Raman.txt,Minerals\Aragonite1.txt,Minerals\Aragonite1.txt,Miscellaneous\Na2CO3_AlFoil_ext1.txt,Miscellaneous\Na2CO3_AlFoil_ext1.txt,Pharmaceuticals\phenothiazine.txt,Pharmaceuticals\sulfadiazine.txt,WhitePowders\ArrowrootStarch.txt,WhitePowders\Bisquick.txt,WhitePowders\CornStarch.txt,WhitePowders\GuarGumElephantPharmacy.txt,WhitePowders\UltraPlusDetergent.txt,WhitePowders\WheatFlour.txt,
+1085 : Minerals\Calcite1(CaCO3).txt,Minerals\Calcite1.txt,Minerals\Gaspeite__R040157__Raman__532__0__unoriented__Raman_Data_Processed__20777.txt,Miscellaneous\Canola oil.txt,Miscellaneous\Canola oil_6s_5acq_avg_BckGMulti_GRAMS.txt,Miscellaneous\Canola oil_6s_5acq_avg_lowRes_BsLn160.txt,Miscellaneous\Soybean oil.txt,Pharmaceuticals\carbinoxamine.txt,Pigment Spectral Library\Chalk_calcium carbonate, CaCO3.txt,Pigment Spectral Library\Egyptianblue_calcium copper(II) silica.txt,WhitePowders\Fixall.txt,
+1090 : Flame Retardant\FM2100_semstub_785nm_50%_10s_20x_2final_Raman.txt,Minerals\Gaspeite__R040157__Raman__514__0__unoriented__Raman_Data_Processed__9633.txt,Minerals\Gaspeite__R040157__Raman__785__0__unoriented__Raman_Data_Processed__20783.txt,Minerals\Otwayite__R060384__Raman__785__0__unoriented__Raman_Data_Processed__9365.txt,Pharmaceuticals\cantharidin.txt,Pharmaceuticals\chlorpheniramine.txt,Pharmaceuticals\chlorpropamide.txt,Pharmaceuticals\methimazole.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\papaverine.txt,Pharmaceuticals\pregnenolone.txt,WhitePowders\SteviaExtract.txt,
+1095 : Flame Retardant\PUF_Ref_short.txt,Minerals\Dolomite2.txt,Pharmaceuticals\haloperidol.txt,Pharmaceuticals\sulfadiazine.txt,Pharmaceuticals\sulfanilamide.txt,Pharmaceuticals\tolbutamide.txt,WhitePowders\EqualSweet.txt,WhitePowders\Splenda.txt,WhitePowders\SweetCrystals.txt,WhitePowders\SweetCrystals.txt,WhitePowders\SweetNLow.txt,WhitePowders\XanthanGum.txt,
+1100 : Flame Retardant\TCPP_785nm.txt,Minerals\Dolomite1.txt,Pharmaceuticals\pilocarpine.txt,Pigment Spectral Library\Azurite_copper(II) carbona.txt,WhitePowders\AccentMSG.txt,
+1105 : Fungal Spores\SCOPULARIOPSIS BREVICAULIS_AVG.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\flunitrazepam.txt,Pharmaceuticals\metoprolol.txt,Pharmaceuticals\promethazine.txt,WhitePowders\CornStarch.txt,WhitePowders\SugarOrganic.txt,
+1110 : WhitePowders\Bisquick.txt,WhitePowders\GuarGumElephantPharmacy.txt,
+1115 : Flame Retardant\PUF_Ref_short.txt,Pharmaceuticals\oxybenzone.txt,WhitePowders\Advil.txt,WhitePowders\Ibuprofen.txt,WhitePowders\SteviaExtract.txt,
+1120 : Fungal Spores\EPICOCCUM NIGRAM.txt,Pharmaceuticals\pregnenolone.txt,Pharmaceuticals\yohimbine.txt,Pigment Spectral Library\Indianyellow_magnesium salt of euxanthic acid MgC19H16O11.5H2O.txt,WhitePowders\EqualSweet.txt,WhitePowders\GuarGumElephantPharmacy.txt,WhitePowders\Splenda.txt,
+1125 : Minerals\Ajoite__R060735__Raman__780.txt,Minerals\Ajoite__R060735__Raman__780__0__unoriented__Raman_Data_Processed__37079.txt,Minerals\Arcanite (K2SO4).txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Miscellaneous\New Bengay (Red).txt,Pharmaceuticals\pilocarpine.txt,Pharmaceuticals\promethazine.txt,Plastics\PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2Processed.txt,WhitePowders\Bisquick.txt,WhitePowders\SugarGranulatedCH.txt,WhitePowders\SugarOrganic.txt,WhitePowders\SweetCrystals.txt,WhitePowders\SweetNLow.txt,WhitePowders\WheatFlour.txt,
+1130 : Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\cantharidin.txt,Pharmaceuticals\clemastine.txt,Pharmaceuticals\clophedianol.txt,Pharmaceuticals\dexamethasone.txt,Pharmaceuticals\dihydrocodeine.txt,Pharmaceuticals\doxylamine.txt,Pharmaceuticals\fenfluramine.txt,Pharmaceuticals\fentanyl.txt,Pharmaceuticals\mephentermine.txt,Pharmaceuticals\propantheline bromide.txt,Pharmaceuticals\strychnine.txt,Pharmaceuticals\timolol.txt,Pharmaceuticals\trihexyphenidyl.txt,Pigment Spectral Library\Gypsum_calcium sulfate dihydrate CaSO4.2H2O.txt,WhitePowders\GainDetergent.txt,WhitePowders\TideDetergent.txt,
+1135 : Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Miscellaneous\Bengay.txt,Miscellaneous\Bengay_DeltaNu.txt,Pharmaceuticals\amitryptyline.txt,Pharmaceuticals\arecoline.txt,Pharmaceuticals\diphenidol.txt,Pharmaceuticals\diphenoxylate.txt,Pharmaceuticals\haloperidol.txt,Pharmaceuticals\mephenesin.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\oxycodone.txt,Pharmaceuticals\pentazocine.txt,Pharmaceuticals\sulfanilamide.txt,
+1140 : Flame Retardant\TBB_532nm.txt,Flame Retardant\TCPP_785nm.txt,Minerals\CaF2_785.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Miscellaneous\New Bengay (Red).txt,Pharmaceuticals\atenolol.txt,WhitePowders\AccentMSG.txt,
+1145 : Fungal Spores\RHIZOPUS STOLONIFER.txt,Pharmaceuticals\carbinoxamine.txt,Pharmaceuticals\methimazole.txt,Pharmaceuticals\sulfadiazine.txt,Pharmaceuticals\tolbutamide.txt,
+1150 : Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Miscellaneous\Conc Sulfuric acid (96%).txt,Pharmaceuticals\nortriptyline.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,WhitePowders\Aspirin.txt,
+1155 : Flame Retardant\HBCDD_785nm.txt,Flame Retardant\TPP_Ctab_532nm_25X1000um_10mW_5s_50x_0_LowRes.txt,Flame Retardant\TPP_Ctab_532nm_25X1000um_5mW_5s_50x_0_highRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_0_LowRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_1_HighRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_50mW_5s_50x_0_LowRes.txt,Fungal Spores\PENICILLIUM COPROPHILUM.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Pharmaceuticals\diclofenac.txt,Pharmaceuticals\haloperidol.txt,Pharmaceuticals\haloperidol.txt,Pharmaceuticals\minoxidil.txt,Pharmaceuticals\papaverine.txt,Pharmaceuticals\phenformin.txt,Pharmaceuticals\phenothiazine.txt,Pharmaceuticals\phenytoin.txt,Pharmaceuticals\strychnine.txt,Pharmaceuticals\tolazoline.txt,Pharmaceuticals\tolbutamide.txt,WhitePowders\EqualSweet.txt,WhitePowders\Splenda.txt,WhitePowders\SweetCrystals.txt,WhitePowders\SweetNLow.txt,
+1160 : Pharmaceuticals\dexamethasone.txt,Pharmaceuticals\mephenesin.txt,Pharmaceuticals\metoprolol.txt,Pharmaceuticals\nortriptyline.txt,Pharmaceuticals\oxybenzone.txt,Pharmaceuticals\progesterone.txt,Pigment Spectral Library\Saffron_crocetin, carotenoid dicarboxylic acid,C20H24O4.txt,WhitePowders\SugarGranulatedCH.txt,WhitePowders\SugarOrganic.txt,
+1165 : Pharmaceuticals\acetaminophen.txt,Pharmaceuticals\amitryptyline.txt,Pharmaceuticals\chlorpropamide.txt,Pharmaceuticals\clophedianol.txt,WhitePowders\Tylenol.txt,
+1170 : Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\furazolidone.txt,Pharmaceuticals\imipramine.txt,Pharmaceuticals\promethazine.txt,Plastics\PVC_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PVC_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,
+1175 : Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Pharmaceuticals\cyclobenzaprine.txt,Pharmaceuticals\dihydrocodeine.txt,Pharmaceuticals\metoprolol.txt,Pharmaceuticals\pentazocine.txt,Pharmaceuticals\pregnenolone.txt,Pharmaceuticals\trimethobenzomide.txt,Pigment Spectral Library\Indianyellow_magnesium salt of euxanthic acid MgC19H16O11.5H2O.txt,
+1180 : Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\atenolol.txt,Pharmaceuticals\carbinoxamine.txt,Pharmaceuticals\loratadine.txt,WhitePowders\Advil.txt,WhitePowders\Ibuprofen.txt,WhitePowders\NatraTaste.txt,
+1185 : Pharmaceuticals\diclofenac.txt,Pharmaceuticals\minoxidil.txt,Pharmaceuticals\sulfadiazine.txt,Pharmaceuticals\tolazoline.txt,
+1190 : Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Pharmaceuticals\chlorpheniramine.txt,Pharmaceuticals\pregnenolone.txt,WhitePowders\Aspirin.txt,WhitePowders\XanthanGum.txt,
+1195 : Flame Retardant\FM2100_semstub_785nm_50%_10s_20x_2final_Raman.txt,Fungal Spores\PENICILLIUM BREVICOMPACTUM.txt,Fungal Spores\PENICILLIUM BREVICOMPACTUM.txt,Fungal Spores\PENICILLIUM COPROPHILUM.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\carbinoxamine.txt,Pharmaceuticals\dexamethasone.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\phenytoin.txt,Pharmaceuticals\pilocarpine.txt,WhitePowders\NatraTaste.txt,WhitePowders\SteviaExtract.txt,
+1200 : Flame Retardant\3 Bromo Styrene_532nm.txt,Flame Retardant\3 Bromo Styrene_785nm.txt,Fungal Spores\SCOPULARIOPSIS BREVICAULIS_AVG.txt,Miscellaneous\ONitroToluene.txt,Pharmaceuticals\chlorpheniramine.txt,Pharmaceuticals\papaverine.txt,Pharmaceuticals\timolol.txt,Pigment Spectral Library\Berberine_[C20H18N1O4]+ plus sulfate or chloride anion.txt,
+1205 : Pharmaceuticals\atenolol.txt,Pharmaceuticals\metoprolol.txt,Pharmaceuticals\nortriptyline.txt,Pigment Spectral Library\Saffron_crocetin, carotenoid dicarboxylic acid,C20H24O4.txt,WhitePowders\Advil.txt,WhitePowders\Ibuprofen.txt,
+1210 : Flame Retardant\TCPP_532nm.txt,Flame Retardant\TCPP_785nm.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\amitryptyline.txt,Pharmaceuticals\carbinoxamine.txt,Pharmaceuticals\loratadine.txt,
+1215 : Flame Retardant\TDCCP_532nm.txt,Flame Retardant\TDCCP_785nm.txt,Fungal Spores\ASPERGILLUS VERSICOLOR.txt,Minerals\Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt,Pharmaceuticals\chlorpropamide.txt,Pharmaceuticals\haloperidol.txt,Pharmaceuticals\mephentermine.txt,Pharmaceuticals\trimethobenzomide.txt,Pigment Spectral Library\Indianyellow_magnesium salt of euxanthic acid MgC19H16O11.5H2O.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,
+1220 : Flame Retardant\DecaPBDE_532nm.txt,Pharmaceuticals\pregnenolone.txt,Pharmaceuticals\propantheline bromide.txt,Pharmaceuticals\yohimbine.txt,WhitePowders\SteviaExtract.txt,
+1225 : Pharmaceuticals\nadolol.txt,Pharmaceuticals\oxybenzone.txt,Pharmaceuticals\progesterone.txt,Pigment Spectral Library\Purpurin_1,2,4-trihydroxy-anthraquinone C14H18O5.txt,WhitePowders\SweetCrystals.txt,WhitePowders\SweetNLow.txt,
+1230 : Flame Retardant\TBB_532nm.txt,Flame Retardant\TBPH_785nm.txt,Flame Retardant\TPP_Ctab_532nm_25X1000um_10mW_5s_50x_0_LowRes.txt,Flame Retardant\TPP_Ctab_532nm_25X1000um_5mW_5s_50x_0_highRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_0_LowRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_1_HighRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_50mW_5s_50x_0_LowRes.txt,
+1235 : Flame Retardant\PUF_Ref_short.txt,Minerals\Troilite__R070242__Raman__785.txt,Minerals\Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt,Pharmaceuticals\acetaminophen.txt,Pharmaceuticals\chlorpropamide.txt,WhitePowders\SugarGranulatedCH.txt,WhitePowders\SugarOrganic.txt,WhitePowders\Tylenol.txt,
+1240 : Minerals\CaF2_785.txt,Pharmaceuticals\nortriptyline.txt,WhitePowders\GuarGumElephantPharmacy.txt,WhitePowders\GuarGumElephantPharmacy.txt,
+1245 : Fungal Spores\PENICILLIUM COPROPHILUM.txt,Miscellaneous\DMMPl_auto_5acq_avg.txt,Miscellaneous\New Bengay (Red).txt,Pharmaceuticals\diclofenac.txt,Pharmaceuticals\mephenesin.txt,Pharmaceuticals\phenothiazine.txt,Pharmaceuticals\theophyline.txt,
+1250 : Pharmaceuticals\chlorzoxazone.txt,Pharmaceuticals\methimazole.txt,Pharmaceuticals\metoprolol.txt,
+1255 : Miscellaneous\Bengay.txt,Miscellaneous\Bengay_DeltaNu.txt,Pharmaceuticals\acetaminophen.txt,Pharmaceuticals\furazolidone.txt,Pharmaceuticals\imipramine.txt,Pharmaceuticals\minoxidil.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\promethazine.txt,Pharmaceuticals\sulfadiazine.txt,WhitePowders\Aspirin.txt,WhitePowders\Tylenol.txt,
+1260 : Flame Retardant\TCEP_785nm.txt,Fungal Spores\EPICOCCUM NIGRAM.txt,Pharmaceuticals\loratadine.txt,Pharmaceuticals\strychnine.txt,
+1265 : Fungal Spores\CLADOSPORIUM HERBARUM.txt,Fungal Spores\EUROTIUM HERBARIORUM.txt,Fungal Spores\SCOPULARIOPSIS BREVICAULIS_AVG.txt,Pharmaceuticals\clemastine.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\pregnenolone.txt,Pharmaceuticals\trimethobenzomide.txt,
+1270 : Miscellaneous\Canola oil.txt,Miscellaneous\Canola oil_6s_5acq.txt,Miscellaneous\Canola oil_6s_5acq_avg.txt,Miscellaneous\Canola oil_6s_5acq_avg_BckGMulti_GRAMS.txt,Miscellaneous\Canola oil_6s_5acq_avg_lowRes_BsLn160.txt,Miscellaneous\DMMP in Canola Oil_12s_1acq.txt,Miscellaneous\DMMP in Canola Oil_12s_1acq_lowRes_BsLn160.txt,Miscellaneous\Soybean oil.txt,Miscellaneous\Soybean oil_6s_5acq_avg.txt,Pharmaceuticals\nalidixic.txt,Pigment Spectral Library\Berberine_[C20H18N1O4]+ plus sulfate or chloride anion.txt,
+1275 : Flame Retardant\PUF_Ref_short.txt,Fungal Spores\RHIZOPUS STOLONIFER.txt,Minerals\Andesine__X050013__Raman__785.txt,Minerals\Andesine__X050013__Raman__785__0__unoriented__Raman_Data_Processed__6452.txt,Pharmaceuticals\acetaminophen.txt,Pharmaceuticals\methimazole.txt,Pharmaceuticals\metoprolol.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\nortriptyline.txt,WhitePowders\Tylenol.txt,
+1280 : Flame Retardant\PUF_Ref_1.txt,Minerals\Bytownite__X050033__Raman__785.txt,Pharmaceuticals\arecoline.txt,WhitePowders\AccentMSG.txt,WhitePowders\Advil.txt,WhitePowders\Ibuprofen.txt,
+1285 : Fungal Spores\ASPERGILLUS VERSICOLOR.txt,Pharmaceuticals\dihydrocodeine.txt,Pharmaceuticals\theophyline.txt,Plastics\PETpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PETpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,WhitePowders\SteviaExtract.txt,
+1290 : Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_1_HighRes.txt,Pharmaceuticals\progesterone.txt,Plastics\PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2Processed.txt,WhitePowders\Aspirin.txt,
+1295 : Flame Retardant\Phosphorus Oxychloride.txt,Minerals\CaF2__514.txt,Pharmaceuticals\cantharidin.txt,Pharmaceuticals\doxylamine.txt,Pharmaceuticals\haloperidol.txt,Pharmaceuticals\metoprolol.txt,Pharmaceuticals\nalidixic.txt,Pharmaceuticals\promethazine.txt,Pharmaceuticals\trihexyphenidyl.txt,Pharmaceuticals\yohimbine.txt,
+1300 : Flame Retardant\3 Bromo Styrene_532nm.txt,Minerals\Lampblak.txt,Miscellaneous\Bengay.txt,Miscellaneous\Bengay_DeltaNu.txt,Pharmaceuticals\atenolol.txt,Pharmaceuticals\clemastine.txt,Pharmaceuticals\diphenidol.txt,Pharmaceuticals\fenfluramine.txt,Pharmaceuticals\fentanyl.txt,Pharmaceuticals\mephentermine.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\oxycodone.txt,Pharmaceuticals\phenformin.txt,Pharmaceuticals\timolol.txt,Pharmaceuticals\timolol.txt,Pharmaceuticals\trimethobenzomide.txt,WhitePowders\GainDetergent.txt,WhitePowders\GuarGumElephantPharmacy.txt,WhitePowders\GuarGumElephantPharmacy.txt,WhitePowders\TideDetergent.txt,
+1305 : Flame Retardant\3 Bromo Styrene_785nm.txt,Fungal Spores\SCOPULARIOPSIS BREVICAULIS_AVG.txt,Miscellaneous\Canola oil.txt,Miscellaneous\Canola oil_6s_5acq.txt,Miscellaneous\Canola oil_6s_5acq_avg.txt,Miscellaneous\Canola oil_6s_5acq_avg_BckGMulti_GRAMS.txt,Miscellaneous\Canola oil_6s_5acq_avg_lowRes_BsLn160.txt,Miscellaneous\DMMP in Canola Oil_12s_1acq.txt,Miscellaneous\DMMP in Canola Oil_12s_1acq_lowRes_BsLn160.txt,Miscellaneous\Soybean oil.txt,Miscellaneous\Soybean oil_6s_5acq_avg.txt,Pharmaceuticals\diphenoxylate.txt,Pharmaceuticals\mephenesin.txt,Pharmaceuticals\oxybenzone.txt,Pharmaceuticals\propantheline bromide.txt,
+1310 : Fungal Spores\RHIZOPUS STOLONIFER.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\tolbutamide.txt,
+1315 : Pharmaceuticals\cyclobenzaprine.txt,Pharmaceuticals\diclofenac.txt,Pharmaceuticals\heptaminol.txt,Pharmaceuticals\theophyline.txt,WhitePowders\SteviaExtract.txt,
+1320 : Flame Retardant\PUF_Ref_short.txt,Pharmaceuticals\acetaminophen.txt,Pharmaceuticals\loratadine.txt,Pigment Spectral Library\Ivoryblack.txt,WhitePowders\AccentMSG.txt,WhitePowders\GuarGumElephantPharmacy.txt,WhitePowders\Tylenol.txt,
+1325 : Fungal Spores\SCOPULARIOPSIS BREVICAULIS_AVG.txt,Pharmaceuticals\atenolol.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\nadolol.txt,Pigment Spectral Library\Cobaltyellow_potassium cobalt nitrite K3[Co(NO2)6].xH2O.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,WhitePowders\SugarGranulatedCH.txt,
+1330 : Minerals\Diamond1.txt,Pharmaceuticals\nalidixic.txt,Pharmaceuticals\nortriptyline.txt,Pharmaceuticals\pregnenolone.txt,Pharmaceuticals\strychnine.txt,Pharmaceuticals\trimethobenzomide.txt,WhitePowders\EqualSweet.txt,WhitePowders\Splenda.txt,WhitePowders\SweetCrystals.txt,WhitePowders\SweetNLow.txt,
+1335 : Pharmaceuticals\methimazole.txt,Pharmaceuticals\progesterone.txt,WhitePowders\ArrowrootStarch.txt,WhitePowders\Bisquick.txt,WhitePowders\CornStarch.txt,
+1340 : Flame Retardant\TCPP_785nm.txt,Flame Retardant\TDCCP_785nm.txt,Fungal Spores\CLADOSPORIUM HERBARUM.txt,Pharmaceuticals\flunitrazepam.txt,Pharmaceuticals\furazolidone.txt,Pharmaceuticals\imipramine.txt,Pigment Spectral Library\Indianyellow_magnesium salt of euxanthic acid MgC19H16O11.5H2O.txt,WhitePowders\AccentMSG.txt,WhitePowders\Advil.txt,WhitePowders\Ibuprofen.txt,WhitePowders\WheatFlour.txt,
+1345 : Minerals\CaF2_785.txt,Miscellaneous\New Bengay (Red).txt,Miscellaneous\ONitroToluene.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\oxybenzone.txt,WhitePowders\SugarGranulatedCH.txt,WhitePowders\SugarOrganic.txt,
+1350 : Flame Retardant\FM2100_semstub_785nm_50%_10s_20x_2final_Raman.txt,Pharmaceuticals\minoxidil.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\papaverine.txt,Pigment Spectral Library\Verdigris2_basic copper(II) ethanoate Cu(CH3COO)2. Cu(OH)2.txt,WhitePowders\AccentMSG.txt,WhitePowders\NatraTaste.txt,
+1355 : Pharmaceuticals\nadolol.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,WhitePowders\EqualSweet.txt,
+1360 : Pharmaceuticals\carbinoxamine.txt,Pharmaceuticals\chlorpheniramine.txt,Pharmaceuticals\heptaminol.txt,Pharmaceuticals\nortriptyline.txt,WhitePowders\Splenda.txt,WhitePowders\SweetCrystals.txt,WhitePowders\XanthanGum.txt,
+1365 : Fungal Spores\PENICILLIUM BREVICOMPACTUM.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\quinidine.txt,WhitePowders\SugarOrganic.txt,
+1370 : Pharmaceuticals\acetaminophen.txt,Pharmaceuticals\diclofenac.txt,Pharmaceuticals\pilocarpine.txt,Pharmaceuticals\timolol.txt,WhitePowders\Tylenol.txt,
+1375 : Fungal Spores\RHIZOPUS STOLONIFER.txt,Fungal Spores\SCOPULARIOPSIS BREVICAULIS_AVG.txt,Pharmaceuticals\furazolidone.txt,Pharmaceuticals\imipramine.txt,WhitePowders\XanthanGum.txt,
+1380 : Flame Retardant\PUF_Ref_short.txt,Pharmaceuticals\mephenesin.txt,Pharmaceuticals\nalidixic.txt,Pharmaceuticals\trimethobenzomide.txt,WhitePowders\WheatFlour.txt,
+1385 : Pharmaceuticals\yohimbine.txt,WhitePowders\EqualSweet.txt,WhitePowders\SweetCrystals.txt,
+1390 : Pharmaceuticals\propranolol.txt,Pharmaceuticals\strychnine.txt,WhitePowders\XanthanGum.txt,
+1395 : Flame Retardant\3 Bromo Styrene_785nm.txt,Pharmaceuticals\furazolidone.txt,Pharmaceuticals\imipramine.txt,Pharmaceuticals\papaverine.txt,Pigment Spectral Library\Berberine_[C20H18N1O4]+ plus sulfate or chloride anion.txt,
+1400 : Pharmaceuticals\diclofenac.txt,WhitePowders\AccentMSG.txt,WhitePowders\XanthanGum.txt,
+1405 : Flame Retardant\3 Bromo Styrene_532nm.txt,
+1410 : Flame Retardant\3 Bromo Styrene_785nm.txt,Pharmaceuticals\metoprolol.txt,Pharmaceuticals\oxybenzone.txt,
+1415 : Fungal Spores\SCOPULARIOPSIS BREVICAULIS_AVG.txt,Miscellaneous\New Bengay (Red).txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\quinidine.txt,Plastics\PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2Processed.txt,
+1420 : Fungal Spores\ASPERGILLUS VERSICOLOR.txt,Pharmaceuticals\arecoline.txt,Pharmaceuticals\atenolol.txt,Pharmaceuticals\nadolol.txt,Pharmaceuticals\nortriptyline.txt,Pigment Spectral Library\Verdigris1_basic hydrated copper(II) ethanoate [Cu(CH3COO)2]2.Cu(OH)2. 5H2O.txt,
+1425 : Fungal Spores\EUROTIUM HERBARIORUM.txt,Minerals\Gaspeite__R040157__Raman__514__0__unoriented__Raman_Data_Processed__9633.txt,Pharmaceuticals\theophyline.txt,Pharmaceuticals\tolazoline.txt,Pigment Spectral Library\Verdigris2_basic copper(II) ethanoate Cu(CH3COO)2. Cu(OH)2.txt,Plastics\PVC_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PVC_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,
+1430 : Flame Retardant\TCEP_785nm.txt,Flame Retardant\TCPP_785nm.txt,Flame Retardant\TDCCP_532nm.txt,Flame Retardant\TDCCP_785nm.txt,Pigment Spectral Library\Azurite_copper(II) carbona.txt,WhitePowders\AccentMSG.txt,WhitePowders\CornStarch.txt,WhitePowders\GuarGumElephantPharmacy.txt,
+1435 : Pharmaceuticals\minoxidil.txt,Pharmaceuticals\pregnenolone.txt,Pharmaceuticals\sulfadiazine.txt,Pigment Spectral Library\Gamboge_gambogic acids, C38H44O8 and C29H36O6.txt,Plastics\PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2Processed.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,WhitePowders\GainDetergent.txt,WhitePowders\TideDetergent.txt,
+1440 : Fungal Spores\SCOPULARIOPSIS BREVICAULIS_AVG.txt,Pharmaceuticals\chlorpropamide.txt,Pharmaceuticals\diclofenac.txt,Pharmaceuticals\heptaminol.txt,Pharmaceuticals\minoxidil.txt,Pharmaceuticals\yohimbine.txt,WhitePowders\SteviaExtract.txt,
+1445 : Flame Retardant\HBCDD_785nm.txt,Miscellaneous\Bengay.txt,Miscellaneous\Bengay_DeltaNu.txt,Miscellaneous\Canola oil.txt,Miscellaneous\Canola oil_6s_5acq.txt,Miscellaneous\Canola oil_6s_5acq_avg.txt,Miscellaneous\Canola oil_6s_5acq_avg_BckGMulti_GRAMS.txt,Miscellaneous\Canola oil_6s_5acq_avg_lowRes_BsLn160.txt,Miscellaneous\DMMP in Canola Oil_12s_1acq.txt,Miscellaneous\DMMP in Canola Oil_12s_1acq_lowRes_BsLn160.txt,Miscellaneous\Soybean oil.txt,Miscellaneous\Soybean oil_6s_5acq_avg.txt,Pharmaceuticals\dihydrocodeine.txt,Pharmaceuticals\diphenidol.txt,Pharmaceuticals\fentanyl.txt,Pharmaceuticals\loratadine.txt,Pharmaceuticals\mephentermine.txt,Pharmaceuticals\metoprolol.txt,Pharmaceuticals\nalidixic.txt,Pharmaceuticals\nortriptyline.txt,Pharmaceuticals\oxycodone.txt,Pharmaceuticals\pentazocine.txt,Pharmaceuticals\phenformin.txt,Pharmaceuticals\pilocarpine.txt,Pharmaceuticals\propranolol.txt,Pharmaceuticals\strychnine.txt,Pharmaceuticals\timolol.txt,Pharmaceuticals\trihexyphenidyl.txt,Pharmaceuticals\trimethobenzomide.txt,Pigment Spectral Library\Berberine_[C20H18N1O4]+ plus sulfate or chloride anion.txt,
+1450 : Flame Retardant\FM2100_semstub_785nm_50%_10s_20x_2final_Raman.txt,Flame Retardant\PUF_Ref_1.txt,Flame Retardant\PUF_Ref_short.txt,Flame Retardant\TBB_532nm.txt,Flame Retardant\TBPH_785nm.txt,Fungal Spores\EPICOCCUM NIGRAM.txt,Fungal Spores\PENICILLIUM BREVICOMPACTUM.txt,Fungal Spores\PENICILLIUM COPROPHILUM.txt,Pharmaceuticals\atenolol.txt,Pharmaceuticals\clemastine.txt,Pharmaceuticals\diphenoxylate.txt,Pharmaceuticals\papaverine.txt,Pigment Spectral Library\Purpurin_1,2,4-trihydroxy-anthraquinone C14H18O5.txt,WhitePowders\Advil.txt,WhitePowders\Ibuprofen.txt,WhitePowders\XanthanGum.txt,
+1455 : Miscellaneous\New Bengay (Red).txt,Pharmaceuticals\clophedianol.txt,Pharmaceuticals\nadolol.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,WhitePowders\EqualSweet.txt,WhitePowders\Splenda.txt,WhitePowders\SweetCrystals.txt,WhitePowders\SweetNLow.txt,
+1460 : Pharmaceuticals\metoprolol.txt,Pharmaceuticals\pregnenolone.txt,Pharmaceuticals\tolazoline.txt,WhitePowders\ArrowrootStarch.txt,WhitePowders\Bisquick.txt,WhitePowders\GuarGumElephantPharmacy.txt,WhitePowders\SugarGranulatedCH.txt,WhitePowders\SugarOrganic.txt,WhitePowders\WheatFlour.txt,
+1465 : Pharmaceuticals\methimazole.txt,Pharmaceuticals\nalidixic.txt,Pharmaceuticals\trimethobenzomide.txt,
+1470 : Pharmaceuticals\diclofenac.txt,Pharmaceuticals\furazolidone.txt,Pharmaceuticals\heptaminol.txt,Pharmaceuticals\imipramine.txt,Pharmaceuticals\yohimbine.txt,
+1475 : Fungal Spores\EPICOCCUM NIGRAM.txt,Pharmaceuticals\nadolol.txt,Pigment Spectral Library\Indianyellow_magnesium salt of euxanthic acid MgC19H16O11.5H2O.txt,
+1480 : Fungal Spores\ASPERGILLUS VERSICOLOR.txt,Pharmaceuticals\chlorzoxazone.txt,Pigment Spectral Library\Malachite_basic copper(II) carbonate CuCO3.Cu(OH)2.txt,
+1485 : Pharmaceuticals\furazolidone.txt,
+1490 : 
+1495 : Miscellaneous\New Bengay (Red).txt,Pharmaceuticals\pilocarpine.txt,
+1500 : Pharmaceuticals\nadolol.txt,Pharmaceuticals\sulfadiazine.txt,Pigment Spectral Library\Berberine_[C20H18N1O4]+ plus sulfate or chloride anion.txt,Pigment Spectral Library\Indianyellow_magnesium salt of euxanthic acid MgC19H16O11.5H2O.txt,
+1505 : 
+1510 : Flame Retardant\DecaPBDE_532nm.txt,Pharmaceuticals\quinidine.txt,
+1515 : Flame Retardant\TBB_532nm.txt,Flame Retardant\TBPH_785nm.txt,Pigment Spectral Library\Berberine_[C20H18N1O4]+ plus sulfate or chloride anion.txt,
+1520 : 
+1525 : Flame Retardant\FM2100_semstub_785nm_50%_10s_20x_2final_Raman.txt,
+1530 : Fungal Spores\EPICOCCUM NIGRAM.txt,Fungal Spores\EUROTIUM HERBARIORUM.txt,Fungal Spores\PENICILLIUM COPROPHILUM.txt,
+1535 : Flame Retardant\TBPH_785nm.txt,Pigment Spectral Library\Saffron_crocetin, carotenoid dicarboxylic acid,C20H24O4.txt,
+1540 : Fungal Spores\RHIZOPUS STOLONIFER.txt,Pharmaceuticals\diclofenac.txt,
+1545 : Fungal Spores\ASPERGILLUS VERSICOLOR.txt,Pharmaceuticals\cantharidin.txt,Pharmaceuticals\chlorpropamide.txt,Pharmaceuticals\fenfluramine.txt,Pharmaceuticals\pilocarpine.txt,
+1550 : 
+1555 : Flame Retardant\TBB_532nm.txt,Minerals\Lampblak.txt,Pharmaceuticals\furazolidone.txt,Pigment Spectral Library\Lampblack.txt,
+1560 : Pharmaceuticals\acetaminophen.txt,Pharmaceuticals\imipramine.txt,WhitePowders\Tylenol.txt,
+1565 : Pharmaceuticals\cyclobenzaprine.txt,Pharmaceuticals\nortriptyline.txt,Pharmaceuticals\quinidine.txt,Pharmaceuticals\sulfadiazine.txt,
+1570 : Pharmaceuticals\carbinoxamine.txt,Pharmaceuticals\chlorpheniramine.txt,Pharmaceuticals\methimazole.txt,Pharmaceuticals\phenothiazine.txt,Pharmaceuticals\promethazine.txt,Pharmaceuticals\yohimbine.txt,
+1575 : Pharmaceuticals\nortriptyline.txt,
+1580 : Flame Retardant\HexaPBDE_785nm.txt,Pharmaceuticals\lapachol.txt,Pharmaceuticals\phenytoin.txt,Pharmaceuticals\propranolol.txt,Pharmaceuticals\sulfadiazine.txt,Pharmaceuticals\tolazoline.txt,WhitePowders\NatraTaste.txt,
+1585 : Pharmaceuticals\atenolol.txt,Pharmaceuticals\chlorpropamide.txt,Pharmaceuticals\metoprolol.txt,Pharmaceuticals\trimethobenzomide.txt,Pigment Spectral Library\Azurite_copper(II) carbona.txt,Plastics\PVC_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,
+1590 : Flame Retardant\3 Bromo Styrene_532nm.txt,Flame Retardant\3 Bromo Styrene_785nm.txt,Flame Retardant\TPP_Ctab_532nm_25X1000um_10mW_5s_50x_0_LowRes.txt,Flame Retardant\TPP_Ctab_532nm_25X1000um_5mW_5s_50x_0_highRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_0_LowRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_1_HighRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_50mW_5s_50x_0_LowRes.txt,Pharmaceuticals\chlorpheniramine.txt,Pharmaceuticals\mephenesin.txt,Pharmaceuticals\promethazine.txt,Pharmaceuticals\quinidine.txt,Pharmaceuticals\yohimbine.txt,
+1595 : Pharmaceuticals\carbinoxamine.txt,Pharmaceuticals\haloperidol.txt,Pharmaceuticals\nortriptyline.txt,Pharmaceuticals\oxybenzone.txt,Pharmaceuticals\phenothiazine.txt,Pharmaceuticals\sulfadiazine.txt,Pharmaceuticals\sulfanilamide.txt,Pigment Spectral Library\Gamboge_gambogic acids, C38H44O8 and C29H36O6.txt,Pigment Spectral Library\Indianyellow_magnesium salt of euxanthic acid MgC19H16O11.5H2O.txt,
+1600 : Fungal Spores\EUROTIUM HERBARIORUM.txt,Pharmaceuticals\phenytoin.txt,Pharmaceuticals\strychnine.txt,Pharmaceuticals\tolazoline.txt,Pharmaceuticals\tolbutamide.txt,WhitePowders\GainDetergent.txt,WhitePowders\NatraTaste.txt,WhitePowders\TideDetergent.txt,
+1605 : Flame Retardant\PUF_Ref_short.txt,Flame Retardant\TBBPA_semstub_785nm_100%_10s_20x_2final_Raman.txt,Fungal Spores\EPICOCCUM NIGRAM.txt,Fungal Spores\PENICILLIUM BREVICOMPACTUM.txt,Fungal Spores\PENICILLIUM COPROPHILUM.txt,Pharmaceuticals\amitryptyline.txt,Pharmaceuticals\mephenesin.txt,WhitePowders\Advil.txt,WhitePowders\Aspirin.txt,WhitePowders\Ibuprofen.txt,
+1610 : Pharmaceuticals\acetaminophen.txt,Pharmaceuticals\atenolol.txt,Pharmaceuticals\dexamethasone.txt,Pharmaceuticals\furazolidone.txt,Pharmaceuticals\imipramine.txt,Pharmaceuticals\metoprolol.txt,Pharmaceuticals\nalidixic.txt,Pharmaceuticals\papaverine.txt,Pharmaceuticals\pilocarpine.txt,Pharmaceuticals\theophyline.txt,Pharmaceuticals\trimethobenzomide.txt,Plastics\PETpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PETpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,WhitePowders\Tylenol.txt,
+1615 : Pharmaceuticals\chlorpheniramine.txt,Pharmaceuticals\progesterone.txt,Pharmaceuticals\timolol.txt,Pharmaceuticals\tolazoline.txt,
+1620 : Flame Retardant\PUF_Ref_1.txt,Flame Retardant\PUF_Ref_short.txt,Fungal Spores\RHIZOPUS STOLONIFER.txt,Pharmaceuticals\carbinoxamine.txt,Pharmaceuticals\trimethobenzomide.txt,
+1625 : Flame Retardant\3 Bromo Styrene_532nm.txt,Flame Retardant\3 Bromo Styrene_785nm.txt,Pharmaceuticals\chlorzoxazone.txt,Pigment Spectral Library\Berberine_[C20H18N1O4]+ plus sulfate or chloride anion.txt,
+1630 : Pharmaceuticals\cyclobenzaprine.txt,Pigment Spectral Library\Gamboge_gambogic acids, C38H44O8 and C29H36O6.txt,
+1635 : Fungal Spores\ASPERGILLUS VERSICOLOR.txt,Pharmaceuticals\amitryptyline.txt,Pharmaceuticals\diclofenac.txt,Pharmaceuticals\lapachol.txt,
+1640 : Pharmaceuticals\quinidine.txt,
+1645 : Pharmaceuticals\acetaminophen.txt,Pharmaceuticals\loratadine.txt,Pharmaceuticals\minoxidil.txt,Pharmaceuticals\nortriptyline.txt,WhitePowders\Tylenol.txt,
+1650 : 
+1655 : Fungal Spores\SCOPULARIOPSIS BREVICAULIS_AVG.txt,Miscellaneous\Canola oil.txt,Miscellaneous\Canola oil_6s_5acq_avg_BckGMulti_GRAMS.txt,WhitePowders\Advil.txt,
+1660 : Miscellaneous\Canola oil_6s_5acq.txt,Miscellaneous\Canola oil_6s_5acq_avg.txt,Miscellaneous\Canola oil_6s_5acq_avg_lowRes_BsLn160.txt,Miscellaneous\DMMP in Canola Oil_12s_1acq.txt,Miscellaneous\DMMP in Canola Oil_12s_1acq_lowRes_BsLn160.txt,Miscellaneous\Soybean oil.txt,Miscellaneous\Soybean oil_6s_5acq_avg.txt,Pharmaceuticals\clemastine.txt,Pharmaceuticals\lapachol.txt,Pharmaceuticals\progesterone.txt,Pharmaceuticals\tolbutamide.txt,WhitePowders\SteviaExtract.txt,
+1665 : Pharmaceuticals\arecoline.txt,Pharmaceuticals\dexamethasone.txt,Pharmaceuticals\pregnenolone.txt,Pharmaceuticals\theophyline.txt,
+1670 : Pharmaceuticals\strychnine.txt,
+1675 : 
+1680 : Pharmaceuticals\atenolol.txt,Pharmaceuticals\pentazocine.txt,Pharmaceuticals\pregnenolone.txt,
+1685 : Pharmaceuticals\haloperidol.txt,
+1690 : 
+1695 : 
+1700 : 
+1705 : Fungal Spores\EPICOCCUM NIGRAM.txt,Pharmaceuticals\theophyline.txt,Pharmaceuticals\timolol.txt,
+1710 : Pharmaceuticals\arecoline.txt,Pharmaceuticals\nalidixic.txt,
+1715 : Pharmaceuticals\yohimbine.txt,
+1720 : Fungal Spores\RHIZOPUS STOLONIFER.txt,
+1725 : Flame Retardant\PUF_Ref_short.txt,Plastics\PETpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PETpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,
+1730 : Pharmaceuticals\chlorzoxazone.txt,
+1735 : Flame Retardant\TBB_532nm.txt,WhitePowders\NatraTaste.txt,
+1740 : Flame Retardant\TBPH_785nm.txt,Fungal Spores\EPICOCCUM NIGRAM.txt,Miscellaneous\New Bengay (Red).txt,
+1745 : 
+1750 : 
+1755 : Pharmaceuticals\phenytoin.txt,
+1760 : 
+1765 : 
+1770 : 
+1775 : 
+1780 : Miscellaneous\New Bengay (Red).txt,
+1785 : 
+1790 : 
+1795 : 
+1800 : 
+1805 : 
+1810 : Fungal Spores\SCOPULARIOPSIS BREVICAULIS_AVG.txt,
+1815 : 
+1820 : 
+1825 : 
+1830 : 
+1835 : 
+1840 : 
+1845 : 
+1850 : 
+1855 : 
+1860 : 
+1865 : 
+1870 : 
+1875 : Minerals\CaF2_785.txt,
+1880 : 
+1885 : Fungal Spores\RHIZOPUS STOLONIFER.txt,
+1890 : 
+1895 : 
+1900 : 
+1905 : 
+1910 : Fungal Spores\RHIZOPUS STOLONIFER.txt,
+1915 : 
+1920 : 
+1925 : 
+1930 : 
+1935 : 
+1940 : 
+1945 : 
+1950 : Fungal Spores\RHIZOPUS STOLONIFER.txt,Fungal Spores\SCOPULARIOPSIS BREVICAULIS_AVG.txt,
+1955 : 
+1960 : 
+1965 : 
+1970 : 
+1975 : 
+1980 : 
+1985 : 
+1990 : Fungal Spores\PENICILLIUM BREVICOMPACTUM.txt,
+1995 : 
+2000 : 
+2005 : 
+2010 : 
+2015 : 
+2020 : 
+2025 : 
+2030 : 
+2035 : 
+2040 : 
+2045 : 
+2050 : 
+2055 : 
+2060 : 
+2065 : 
+2070 : 
+2075 : 
+2080 : 
+2085 : 
+2090 : 
+2095 : Pigment Spectral Library\Prussianblue_iron(III) hexa-cyanoferra.txt,
+2100 : 
+2105 : 
+2110 : 
+2115 : 
+2120 : 
+2125 : 
+2130 : 
+2135 : 
+2140 : 
+2145 : 
+2150 : 
+2155 : Pigment Spectral Library\Prussianblue_iron(III) hexa-cyanoferra.txt,
+2160 : 
+2165 : 
+2170 : 
+2175 : 
+2180 : 
+2185 : 
+2190 : 
+2195 : 
+2200 : 
+2205 : 
+2210 : 
+2215 : 
+2220 : 
+2225 : 
+2230 : 
+2235 : Flame Retardant\PUF_Ref_1.txt,
+2240 : Flame Retardant\PUF_Ref_short.txt,
+2245 : 
+2250 : 
+2255 : 
+2260 : 
+2265 : 
+2270 : 
+2275 : 
+2280 : 
+2285 : 
+2290 : 
+2295 : 
+2300 : 
+2305 : 
+2310 : 
+2315 : 
+2320 : 
+2325 : 
+2330 : 
+2335 : 
+2340 : 
+2345 : 
+2350 : 
+2355 : 
+2360 : 
+2365 : 
+2370 : 
+2375 : 
+2380 : 
+2385 : 
+2390 : 
+2395 : 
+2400 : 
+2405 : 
+2410 : Plastics\PVC_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,
+2415 : 
+2420 : 
+2425 : 
+2430 : 
+2435 : 
+2440 : 
+2445 : 
+2450 : 
+2455 : 
+2460 : 
+2465 : 
+2470 : 
+2475 : 
+2480 : 
+2485 : 
+2490 : 
+2495 : Flame Retardant\PUF_Ref_short.txt,
+2500 : 
+2505 : 
+2510 : 
+2515 : 
+2520 : 
+2525 : 
+2530 : 
+2535 : 
+2540 : 
+2545 : 
+2550 : 
+2555 : 
+2560 : 
+2565 : 
+2570 : 
+2575 : 
+2580 : 
+2585 : 
+2590 : 
+2595 : 
+2600 : 
+2605 : 
+2610 : 
+2615 : 
+2620 : 
+2625 : 
+2630 : 
+2635 : 
+2640 : 
+2645 : 
+2650 : 
+2655 : 
+2660 : 
+2665 : 
+2670 : 
+2675 : 
+2680 : 
+2685 : 
+2690 : 
+2695 : 
+2700 : 
+2705 : 
+2710 : 
+2715 : 
+2720 : 
+2725 : 
+2730 : 
+2735 : 
+2740 : 
+2745 : 
+2750 : 
+2755 : 
+2760 : 
+2765 : Plastics\PVC_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,
+2770 : 
+2775 : Plastics\PVC_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,
+2780 : 
+2785 : Plastics\PVC_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,
+2790 : 
+2795 : 
+2800 : 
+2805 : 
+2810 : 
+2815 : 
+2820 : 
+2825 : 
+2830 : 
+2835 : 
+2840 : Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,
+2845 : Plastics\PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2Processed.txt,
+2850 : 
+2855 : 
+2860 : 
+2865 : 
+2870 : Flame Retardant\TBB_532nm.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,
+2875 : Flame Retardant\HBCDD_785nm.txt,Flame Retardant\PUF_Ref_1.txt,
+2880 : Flame Retardant\TCPP_532nm.txt,Plastics\PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2Processed.txt,Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,
+2885 : Plastics\PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,
+2890 : Flame Retardant\TCEP_532nm.txt,
+2895 : 
+2900 : 
+2905 : 
+2910 : Flame Retardant\HBCDD_785nm.txt,Flame Retardant\HBCDD_785nm.txt,
+2915 : Plastics\PVC_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt,Plastics\PVC_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt,
+2920 : 
+2925 : 
+2930 : Flame Retardant\PUF_Ref_1.txt,Pigment Spectral Library\Verdigris2_basic copper(II) ethanoate Cu(CH3COO)2. Cu(OH)2.txt,
+2935 : Flame Retardant\HBCDD_785nm.txt,Flame Retardant\TBB_532nm.txt,Pigment Spectral Library\Verdigris1_basic hydrated copper(II) ethanoate [Cu(CH3COO)2]2.Cu(OH)2. 5H2O.txt,
+2940 : Flame Retardant\TCPP_532nm.txt,Flame Retardant\TCPP_785nm.txt,Pigment Spectral Library\Verdigrisraw_copper(II) ethanoate Cu(CH3COO)2.txt,
+2945 : Flame Retardant\HBCDD_785nm.txt,
+2950 : 
+2955 : 
+2960 : Flame Retardant\HBCDD_785nm.txt,
+2965 : Flame Retardant\TCEP_532nm.txt,Flame Retardant\TCEP_785nm.txt,Flame Retardant\TCPP_532nm.txt,
+2970 : Flame Retardant\TDCCP_532nm.txt,Flame Retardant\TDCCP_785nm.txt,
+2975 : Flame Retardant\HBCDD_785nm.txt,
+2980 : 
+2985 : 
+2990 : 
+2995 : 
+3000 : 
+3005 : 
+3010 : Flame Retardant\3 Bromo Styrene_532nm.txt,
+3015 : 
+3020 : Flame Retardant\TDCCP_532nm.txt,
+3025 : 
+3030 : 
+3035 : 
+3040 : 
+3045 : 
+3050 : 
+3055 : 
+3060 : Flame Retardant\3 Bromo Styrene_532nm.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_100mW_5s_50x_0_LowRes.txt,
+3065 : Flame Retardant\TPP_Ctab_532nm_25X1000um_10mW_5s_50x_0_LowRes.txt,Flame Retardant\TPP_Ctab_785nm_25X1000um_50mW_5s_50x_0_LowRes.txt,
+3070 : 
+3075 : 
+3080 : 
+3085 : 
+3090 : 
+3095 : 
+3100 : 
+3105 : 
+3110 : 
+3115 : 
+3120 : 
+3125 : 
+3130 : 
+3135 : 
+3140 : 
+3145 : 
+3150 : 
+3155 : 
+3160 : 
+3165 : 
+3170 : 
+3175 : 
+3180 : 
+3185 : 
+3190 : 
+3195 : 
+3200 : 
+3205 : 
+3210 : 
+3215 : 
+3220 : 
+3225 : 
+3230 : 
+3235 : 
+3240 : 
+3245 : 
+3250 : 
+3255 : 
+3260 : 
+3265 : 
+3270 : 
+3275 : 
+3280 : 
+3285 : 
+3290 : 
+3295 : 
+3300 : 
+3305 : 
+3310 : 
+3315 : 
+3320 : 
+3325 : 
+3330 : 
+3335 : 
+3340 : 
+3345 : 
+3350 : 
+3355 : 
+3360 : 
+3365 : 
+3370 : 
+3375 : 
+3380 : 
+3385 : 
+3390 : 
+3395 : 
+3400 : 
+3405 : 
+3410 : 
+3415 : 
+3420 : 
+3425 : 
+3430 : 
+3435 : 
+3440 : 
+3445 : 
+3450 : 
+3455 : 
+3460 : 
+3465 : 
+3470 : 
+3475 : 
+3480 : Pigment Spectral Library\Verdigris2_basic copper(II) ethanoate Cu(CH3COO)2. Cu(OH)2.txt,
+3485 : 
+3490 : 
+3495 : 
+3500 : 
+3505 : 
+3510 : 
+3515 : 
+3520 : 
+3525 : 
+3530 : 
+3535 : 
+3540 : 
+3545 : 
+3550 : 
+3555 : 
+3560 : 
+3565 : 
+3570 : Pigment Spectral Library\Verdigris2_basic copper(II) ethanoate Cu(CH3COO)2. Cu(OH)2.txt,
+3575 : 
+3580 : 
+3585 : 
+3590 : 
+3595 : 
+3600 : 
+3605 : 
+3610 : 
+3615 : 
+3620 : 
+3625 : 
+3630 : 
+3635 : 
+3640 : 
+3645 : 
+3650 : 
+3655 : 
+3660 : 
+3665 : 
+3670 : 
+3675 : 
+3680 : 
+3685 : 
+3690 : 
+3695 : 
+3700 : 
+3705 : 
+3710 : 
+3715 : 
+3720 : 
+3725 : 
+3730 : 
+3735 : 
+3740 : 
+3745 : 
+3750 : 
+3755 : 
+3760 : 
+3765 : 
+3770 : 
+3775 : 
+3780 : 
+3785 : 
+3790 : 
+3795 : 
+3800 : 
+3805 : 
+3810 : 
+3815 : 
+3820 : 
+3825 : 
+3830 : 
+3835 : 
+3840 : 
+3845 : 
+3850 : 
+3855 : 
+3860 : 
+3865 : 
+3870 : 
+3875 : 
+3880 : 
+3885 : 
+3890 : 
+3895 : 
+3900 : 
+3905 : 
+3910 : 
+3915 : 
+3920 : 
+3925 : 
+3930 : 
+3935 : 
+3940 : 
+3945 : 
+3950 : 
+3955 : 
+3960 : 
+3965 : 
+3970 : 
+3975 : 
+3980 : 
+3985 : 
+3990 : 
+3995 : 
+4000 : 

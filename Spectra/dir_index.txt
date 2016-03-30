@@ -1,0 +1,388 @@
+__FOLDER__: Flame Retardant
+3 Bromo Styrene_532nm.txt
+3 Bromo Styrene_785nm.txt
+Antimony Trioxide__780nm.txt
+DecaPBDE_532nm.txt
+DecaPBDE_785nm.txt
+Dimethyl Cholothiophosphate.txt
+FM2100_semstub_785nm_50%_10s_20x_2final_Raman.txt
+HBCDD_785nm.txt
+HexaPBDE_785nm.txt
+Melamine.txt
+PUF_Ref_1.txt
+PUF_Ref_short.txt
+Phosphorus Oxychloride.txt
+TBBPA_semstub_785nm_100%_10s_20x_2final_Raman.txt
+TBB_532nm.txt
+TBPH_785nm.txt
+TCEP_532nm.txt
+TCEP_785nm.txt
+TCPP_532nm.txt
+TCPP_785nm.txt
+TDCCP_532nm.txt
+TDCCP_785nm.txt
+TPP_Ctab_532nm_25X1000um_10mW_5s_50x_0_LowRes.txt
+TPP_Ctab_532nm_25X1000um_5mW_5s_50x_0_highRes.txt
+TPP_Ctab_785nm_25X1000um_100mW_5s_50x_0_LowRes.txt
+TPP_Ctab_785nm_25X1000um_100mW_5s_50x_1_HighRes.txt
+TPP_Ctab_785nm_25X1000um_50mW_5s_50x_0_LowRes.txt
+
+__FOLDER__: Fungal Spores
+ASPERGILLUS VERSICOLOR.txt
+CLADOSPORIUM HERBARUM.txt
+EPICOCCUM NIGRAM.txt
+EUROTIUM HERBARIORUM.txt
+PENICILLIUM BREVICOMPACTUM.txt
+PENICILLIUM COPROPHILUM.txt
+RHIZOPUS STOLONIFER.txt
+SCOPULARIOPSIS BREVICAULIS_AVG.txt
+
+__FOLDER__: Minerals
+Actinolite1.txt
+AeschyniteCe__R080045__Broad_Scan__532__0__unoriented__Raman_Data_Processed__16869.txt
+AeschyniteCe__R080045__Broad_Scan__780__0__unoriented__Raman_Data_Processed__16871.txt
+AeschyniteY__R060312__Broad_Scan__532__0__unoriented__Raman_Data_RAW__21396.txt
+AeschyniteY__R060312__Broad_Scan__780__0__unoriented__Raman_Data_RAW__21397.txt
+AeschyniteY__R060312__Raman__532__0__unoriented__Raman_Data_Processed__34101.txt
+AeschyniteY__R060312__Raman__780__0__unoriented__Raman_Data_Processed__34103.txt
+Ajoite__R060735__Raman__780.txt
+Ajoite__R060735__Raman__780__0__unoriented__Raman_Data_Processed__37079.txt
+Al2O3_Corundum__R040096__Raman__780__0__unoriented__Raman_Data_Processed__24828.txt
+Albite__R040068__Raman__785.txt
+Alum-(K)(KAl(SO4)2·12H2O)_532nm.txt
+Alum-(K)(KAl(SO4)2·12H2O)_785nm_1.txt
+Alum-(K)(KAl(SO4)2·12H2O)_785nm_2.txt
+Aluminite(Al2SO4(OH)4·7H2O)_785nm.txt
+Anatase1.txt
+Anatase__R060277__Raman__532__0__unoriented__Raman_Data_Processed__34006.txt
+Anatase__R060277__Raman__532__Processed__34006.txt
+Anatase__R060277__Raman__780__0__unoriented__Raman_Data_Processed__34008.txt
+Anatase__R060277__Raman__780__Processed__34008.txt
+Andalusite__Processed__780.txt
+Andalusite__R050561__Raman__780.txt
+Andesine__X050013__Raman__785.txt
+Andesine__X050013__Raman__785__0__unoriented__Raman_Data_Processed__6452.txt
+Anorthite__R040059__Raman__780.txt
+Anorthoclase__R060054__Raman__780.txt
+Apatite1.txt
+Aragonite1.txt
+Arcanite (K2SO4).txt
+BaSO4.txt
+Barbertonite__R060675__Raman__785__0__unoriented__Raman_Data_Processed__11757.txt
+Barite1.txt
+Brookite1.txt
+Bytownite__X050033__Raman__785.txt
+CaF2_532.txt
+CaF2_785.txt
+CaF2__514.txt
+CaF2__532_Raman_Data_RAW.txt
+Calcite1(CaCO3).txt
+Calcite1.txt
+Calomel_785nm.txt
+Calomel_HgCl__R070370__Raman__532__unoriented__Raman_Data_Processed.txt
+Calomel__HgCl_R070370__Raman__785nm__unoriented__Raman_Data_Processed.txt
+Chrysotile_532.txt
+Chrysotile_785.txt
+Cinnabar__R070532__Raman__532__0__unoriented__Raman_Data_Processed__22623.txt
+Cinnabar__R070532__Raman__532__Processed__22623.txt
+Cinnabar__R070532__Raman__785__0__unoriented__Raman_Data_Processed__22619.txt
+Cinnabar__R070532__Raman__785__Processed__22619.txt
+Clintonite__R070196__Raman__785.txt
+Clintonite__R070196__Raman__785__0__unoriented__Raman_Data_Processed__25601.txt
+Cotunnite__R060655__Broad_Scan__785__0__unoriented__Raman_Data_Processed__15437.txt
+Cotunnite__R060655__Broad_Scan__785__Processed__15437.txt
+Crocoite(PbCrO4)__R050044__Raman__532__0__unoriented__Raman_Data_Processed__21168.txt
+Crocoite(PbCrO4)__R050044__Raman__785__0__unoriented__Raman_Data_Processed__21170.txt
+Database on Raman Spectra of Carbohydrates.txt
+Diamond1.txt
+Dolomite1.txt
+Dolomite2.txt
+Epsomite (MgSO4_7H2O).txt
+Eskolaite(Cr2O3)__R060892__Raman__532__0__unoriented__Raman_Data_Processed__14119.txt
+Eskolaite(Cr2O3)__R060892__Raman__785__0__unoriented__Raman_Data_Processed__13013.txt
+Felsöbányaite1(Al4(SO4)(OH)10·4H2O)_ 780nm.txt
+Felsöbányaite2(Al4(SO4)(OH)10·4H2O)_ 780nm.txt
+Gaspeite__R040157__Raman__514__0__unoriented__Raman_Data_Processed__9633.txt
+Gaspeite__R040157__Raman__532__0__unoriented__Raman_Data_Processed__20777.txt
+Gaspeite__R040157__Raman__785__0__unoriented__Raman_Data_Processed__20783.txt
+GersdorffiteP213__R070343__Raman__532__0__unoriented__Raman_Data_Processed__20476.txt
+GersdorffiteP213__R070343__Raman__785__0__unoriented__Raman_Data_Processed__25805.txt
+Gypsum1.txt
+Hematite1.txt
+Hydromagnesite_532.txt
+Hydromagnesite_785.txt
+Ilmenite__R060149__Broad_Scan__532__0__unoriented__Raman_Data_Processed__20751.txt
+Ilmenite__R060149__Broad_Scan__780__0__unoriented__Raman_Data_Processed__20753.txt
+Ilmenite__R060149__Raman__532__0__unoriented__Raman_Data_Processed__33100.txt
+Ilmenite__R060149__Raman__780__0__unoriented__Raman_Data_Processed__33102.txt
+Iquiqueite__R060822__Raman__532__0__unoriented__Raman_Data_Processed__26797.txt
+Iquiqueite__R060822__Raman__780__0__unoriented__Raman_Data_Processed__26799.txt
+Kalsilite__780_Processed.txt
+Labradorite__R060082__Raman__780.txt
+Lampblak.txt
+Lead__R070193__Broad_Scan__785__0__unoriented__Raman_Data_RAW__14279.txt
+Lepidocrocite__R050454__Raman__780.txt
+Lepidocrocite__R050454__Raman__780__0__unoriented__Raman_Data_Processed__30855.txt
+Lizardite1.txt
+Lopezite(K2Cr2O7)__R070043__Raman__532__0__unoriented__Raman_Data_Processed__17818.txt
+Lopezite(K2Cr2O7)__R070043__Raman__785__0__unoriented__Raman_Data_Processed__13400.txt
+Magnesiochromite__R060796__Raman__785__0__unoriented__Raman_Data_Processed__12786.txt
+Magnesiochromite__R060797__Raman__532__0__unoriented__Raman_Data_Processed__12782.txt
+Magnesiochromite__R060797__Raman__785__0__unoriented__Raman_Data_Processed__14647.txt
+Magnesioferrite__R060869__Broad_Scan__532__0__unoriented__Raman_Data_RAW__12815.txt
+Magnesioferrite__R060869__Broad_Scan__785__0__unoriented__Raman_Data_RAW__12816.txt
+Magnesioferrite__R060869__Raman__532__0__unoriented__Raman_Data_Processed__14115.txt
+Magnesioferrite__R060869__Raman__785__0__unoriented__Raman_Data_Processed__13006.txt
+Magnetite1.txt
+Mendipite__R050669__Raman__532__0__unoriented__Raman_Data_Processed__32875.txt
+Mendipite__R050669__Raman__532__Processed__32875.txt
+Mendipite__R050669__Raman__780__0__unoriented__Raman_Data_Processed__32877.txt
+Metacinnabar__R060950__Raman__785__0__unoriented__Raman_Data_Processed__13298.txt
+Metacinnabar__R060950__Raman__785__Processed__13298.txt
+Microcline__X050117__Raman__785.txt
+Monazite1.txt
+Muscovite1.txt
+Muscovite2.txt
+Nickelhexahydrite__R060596__Raman__532__0__unoriented__Raman_Data_Processed__11167_rruff.txt
+Niter__KNO3__Raman__532__0__unoriented__Raman_Data_Processed.txt
+Niter__KNO3__Raman__780__0__unoriented__Raman_Data_Processed.txt
+Oligoclase__R070268__Raman__785.txt
+Orthoclase1.txt
+Orthoclase__R040055__Raman__785.txt
+Otwayite__R060384__Raman__785__0__unoriented__Raman_Data_Processed__9365.txt
+Perovskite1.txt
+Pyrite1.txt
+Quartz1.txt
+Quartz__R060604__Raman__780.txt
+Quartz__R060604__Raman__780__0__unoriented__Raman_Data_Processed__31951.txt
+Rutile1.txt
+Sanidine__X050140__Raman__785.txt
+Serpierite1(Corchia mine - Parma (Italy).txt
+Serpierite3( Valle Mercanti  - Vicenza (Italy).txt
+Silicon__R040145__Raman__514__0__unoriented__Raman_Data_Processed__10159.txt
+Silicon__R040145__Raman__532__0__unoriented__Raman_Data_Processed__27508.txt
+Silicon__R040145__Raman__780__0__unoriented__Raman_Data_Processed__27510.txt
+Sillimanite__Processed__785.txt
+Struvite.txt
+Sulphur__R050006__Raman__532__0__unoriented__Raman_Data_Processed__21013.txt
+Sulphur__R050006__Raman__532__Processed__21013.txt
+Sulphur__R050006__Raman__785__0__unoriented__Raman_Data_Processed__21011.txt
+Sulphur__R050006__Raman__785__Processed__21011.txt
+Talc.txt
+Talc1.txt
+Terlinguaite_Hg2OCl__R060492__Raman__785__0__unoriented__Raman_Data_Processed.txt
+Troilite__R070242__Broad_Scan__785__0__unoriented__Raman_Data_RAW__14467.txt
+Troilite__R070242__Raman__785.txt
+Troilite__R070242__Raman__785__0__unoriented__Raman_Data_Processed__20180.txt
+Uvarovite__R061041__Raman__532__0__unoriented__Raman_Data_Processed__15202.txt
+Uvarovite__R061041__Raman__785__0__unoriented__Raman_Data_Processed__31828.txt
+Vermiculite.txt
+Zircon1.txt
+amaltose_asc.txt
+amylose_asc.txt
+anhydrite.txt
+apectin_asc.txt
+borax_532.txt
+borax_785.txt
+brucite.txt
+cellulose_asc.txt
+cinnabar1.txt
+crocoite(PbCrO4)_Tasmania.txt
+crocoite.txt
+forsterite.txt
+fructose_asc.txt
+lactose_asc.txt
+quartz.txt
+ribose_asc.txt
+sucr_asc.txt
+
+__FOLDER__: Miscellaneous
+Bengay.txt
+Bengay_DeltaNu.txt
+Canola oil.txt
+Canola oil_6s_5acq.txt
+Canola oil_6s_5acq_avg.txt
+Canola oil_6s_5acq_avg_BckGMulti_GRAMS.txt
+Canola oil_6s_5acq_avg_lowRes_BsLn160.txt
+Conc Sulfuric acid (96%).txt
+DMMP in Canola Oil_12s_1acq.txt
+DMMP in Canola Oil_12s_1acq_lowRes_BsLn160.txt
+DMMPl_auto_5acq_avg.txt
+Na2CO3_AlFoil_ext1.txt
+New Bengay (Red).txt
+ONitroToluene.txt
+Soybean oil.txt
+Soybean oil_6s_5acq_avg.txt
+
+__FOLDER__: Pharmaceuticals
+acetaminophen.txt
+amitryptyline.txt
+arecoline.txt
+atenolol.txt
+cantharidin.txt
+carbinoxamine.txt
+chlorpheniramine.txt
+chlorpropamide.txt
+chlorzoxazone.txt
+clemastine.txt
+clophedianol.txt
+cyclobenzaprine.txt
+dexamethasone.txt
+diclofenac.txt
+dihydrocodeine.txt
+diphenidol.txt
+diphenoxylate.txt
+doxylamine.txt
+fenfluramine.txt
+fentanyl.txt
+flunitrazepam.txt
+furazolidone.txt
+haloperidol.txt
+heptaminol.txt
+imipramine.txt
+lapachol.txt
+loratadine.txt
+mephenesin.txt
+mephentermine.txt
+methimazole.txt
+metoprolol.txt
+minoxidil.txt
+nadolol.txt
+nalidixic.txt
+nortriptyline.txt
+oxybenzone.txt
+oxycodone.txt
+papaverine.txt
+pentazocine.txt
+phenformin.txt
+phenothiazine.txt
+phenytoin.txt
+pilocarpine.txt
+pregnenolone.txt
+progesterone.txt
+promethazine.txt
+propantheline bromide.txt
+propranolol.txt
+quinidine.txt
+strychnine.txt
+sulfadiazine.txt
+sulfanilamide.txt
+theophyline.txt
+timolol.txt
+tolazoline.txt
+tolbutamide.txt
+trihexyphenidyl.txt
+trimethobenzomide.txt
+yohimbine.txt
+
+__FOLDER__: Pigment Spectral Library
+Atacamite_basic copper(II) chloride CuCl2.3Cu(OH)2.txt
+Azurite_copper(II) carbona.txt
+BariumYellow_barium chromate BaCrO4.txt
+Barytes_barium sulfate, BaSO4.txt
+Berberine_[C20H18N1O4]+ plus sulfate or chloride anion.txt
+Bonewhite_calcium phosphate, Ca3(PO4)2.txt
+CadmiumYellow_cadmium sulfide, CdS.txt
+Ceruleanblue_cobalt(II) stanna.txt
+Chalk_calcium carbonate, CaCO3.txt
+ChromeYellow(deep)_lead(II) chromate PbCrO4.PbO.txt
+ChromeYellowOrange_lead(II) chromate PbCrO4.PbO.txt
+Chromeyellow_lead(II) chromate PbCrO4.txt
+ChromiumIIIoxide_Cr2O3.txt
+Cobaltblue_cobalt.txt
+Cobaltgreen_cobalt(II) zincate CoO.nZnO.txt
+Cobaltyellow_potassium cobalt nitrite K3[Co(NO2)6].xH2O.txt
+Egyptianblue_calcium copper(II) silica.txt
+Emeraldgreen_copper(II) ethanoate tri-copper(II) arsenite Cu[C2H3O2]. 3Cu[AsO2]2.txt
+Gamboge_gambogic acids, C38H44O8 and C29H36O6.txt
+Gypsum_calcium sulfate dihydrate CaSO4.2H2O.txt
+Indianyellow_magnesium salt of euxanthic acid MgC19H16O11.5H2O.txt
+Ivoryblack.txt
+Lampblack.txt
+Lazurite_S3_& S2_in a sodium alumino-silicate.txt
+LeadtinYellow1_lead(II) stannate Pb2SnO4.txt
+LeadtinYellow2_silicon substituted lead(II) stannate, PbSn1-xSixO3.txt
+Leadwhite_basic lead(II) carbonate 2PbCO3.Pb(OH)2.txt
+Litharge_tetragonal lead(II) oxide, PbO.txt
+Lithopone_zinc sulfide and barium sulfate, ZnS and BaSO4.txt
+Malachite_basic copper(II) carbonate CuCO3.Cu(OH)2.txt
+Marsorange_Synthetic iron(III) oxide, Fe2O3.txt
+Marsred_synthetic iron(III) oxide, Fe2O3.txt
+Marsyellow_synthetic iron(III) hydroxide, Fe(OH)3.txt
+Massicot_orthorhrombic lead(II) oxide, PbO.txt
+Naplesyellow_lead(II) antimonate Pb2Sb2O7.txt
+Orpiment_arsenic(III) sulfide, As2S3.txt
+Pararealgar_arsenic(II) sulfide, As4S4.txt
+Prussianblue_iron(III) hexa-cyanoferra.txt
+Purpurin_1,2,4-trihydroxy-anthraquinone C14H18O5.txt
+Realgar_arsenic(II) sulfide, As4S4.txt
+Redlead_dilead(II) lead(IV) oxide Pb3O4.txt
+Redochre_iron(III) oxide chromophore (Fe2O3 + clay + silica).txt
+Saffron_crocetin, carotenoid dicarboxylic acid,C20H24O4.txt
+ScheelesGreen_copper(II) arsenite Cu(AsO2)2.txt
+Smalt_cobalt(II) silica.txt
+TerreVerte_Variations on K[(AlIII,FeIII)(FeII,MgII)],(AlSi3,Si4) O10(OH)2.txt
+Verdigris1_basic hydrated copper(II) ethanoate [Cu(CH3COO)2]2.Cu(OH)2. 5H2O.txt
+Verdigris2_basic copper(II) ethanoate Cu(CH3COO)2. Cu(OH)2.txt
+Verdigrisraw_copper(II) ethanoate Cu(CH3COO)2.txt
+Vermilion_mercury(II) sulfide, HgS.txt
+Viridian_chromium(III) oxide Cr2O3.2H2O.txt
+Yellowchre_goethite (Fe2O3.H2O ) + clay + silica.txt
+Zincwhite_zinc oxide, ZnO.txt
+Zincyellow_zinc chromate ZnCrO4.txt
+strontiumyellow_strontium chromate SrCrO4.txt
+
+__FOLDER__: Plastics
+PETpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt
+PETpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt
+PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt
+PEpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2Processed.txt
+PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt
+PPpellets_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt
+PVC_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2.txt
+PVC_CR022114_Ctab_785edgeconfocal_30s_100%_50X_2processed.txt
+
+__FOLDER__: WhitePowders
+AccentMSG.txt
+Actinolite1.txt
+Advil.txt
+Ajax.txt
+ArrowrootStarch.txt
+Aspirin.txt
+BabyPowder.txt
+BakingSoda.txt
+Bisquick.txt
+CornStarch.txt
+Database on Raman Spectra of Carbohydrates.txt
+EqualSweet.txt
+Fixall.txt
+GainDetergent.txt
+GuarGumElephantPharmacy.txt
+Ibuprofen.txt
+NatraTaste.txt
+Splenda.txt
+SteviaExtract.txt
+SugarGranulatedCH.txt
+SugarOrganic.txt
+SweetCrystals.txt
+SweetNLow.txt
+Talc.txt
+Talc1.txt
+TalcumPowder.txt
+TideDetergent.txt
+TraderJoesDetergent.txt
+Tylenol.txt
+UltraPlusDetergent.txt
+WheatFlour.txt
+XanthanGum.txt
+amylose_asc.txt
+apectin_asc.txt
+borax_532.txt
+borax_785.txt
+cellulose_asc.txt
+fructose_asc.txt
+lactose_asc.txt
+maltose_asc.txt
+ribose_asc.txt
+sucr_asc.txt
+

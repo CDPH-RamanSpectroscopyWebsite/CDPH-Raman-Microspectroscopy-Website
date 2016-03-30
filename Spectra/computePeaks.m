@@ -2,7 +2,10 @@ function [peaksx, peaksy] = computePeaks(x, y)
 % Takes x, y column vectors as the input spectra
 % Returns the peaks and associated heights
 
-[x1, y1] = firstDeriv(x, y);
+xfilt = x;
+yfilt = sgolayfilt(y, 2, 21);
+
+[x1, y1] = firstDeriv(xfilt, yfilt);
 
 noise = std(y1);
 peaksx = [];
@@ -18,7 +21,7 @@ for i = 2:length(y1)
      elseif and(currMaxValid, y1(i) > y1(i-1))
         if currMax - y1(i-1) > 1.5*noise
             peaksx(end+1) = x1(currZeroPt-1);
-            peaksy(end+1) = abs(currMax - y(i-1));
+            peaksy(end+1) = abs(currMax - yfilt(i-1));
         end
         currMaxValid = false;
      end

@@ -1,10 +1,22 @@
+/*** LOGIC FOR DISPLAYING/SEARCHING FOR SPECTRA ***/
+
+
+// Load Google Chart packages (used to display spectra)
 google.load("visualization", "1", {packages:["corechart"]});
 google.setOnLoadCallback(drawChart);
 
+// File path where spectral data are located
 var filepath = 'http://localhost:8000/Spectra/';
+
+// Dictionary mapping spectral folder names (broad categories i.e. Minerals)
+// to a list of all spectral data in that folder.
 var spectraObj = {};
 
 
+// Populates SPECTRAOBJ data structure. Does so by parsing a file at location
+// given by PATH that designates folders with the "__FOLDER__:" header. The
+// following lines then list the names of the files in that folder, until
+// another "__FOLDER__:" header is reached.
 function populList(path) {
     $.ajax({
 	url: path,
@@ -18,9 +30,11 @@ function populList(path) {
 	    for (i = 0; i < txtArray.length; i++) {
 		line = txtArray[i];
 		if (line.indexOf(foldHead) >= 0) {
+		    //Folder,create new SPECTRAOBJ key-val(folder-list) mapping
 		    currDir = line.slice(foldHead.length);
 		    spectraObj[currDir] = [];
 		} else {
+		    // Regular file,add to spectraObj[currDir] list
 		    extInd = line.indexOf('.')
 		    spectraObj[currDir].push(line.slice(0, extInd));
 		}
@@ -30,12 +44,17 @@ function populList(path) {
 
 }
 
+
+// Function run when spectraldata.html page first loaded
 window.onload = function() {
+    // Populate SPECTRAOBJ using file 'dir_index.txt'
     populList(filepath + 'dir_index.txt');
 
+    // Get handle for the dropdown lists in spectraldata.html
     var spectraType = document.getElementById("spectraType");
     var spectra = document.getElementById("spectra");
 
+    // Populate spectraType dropdown with options (folder names)
     for (var cat in spectraObj) {
 	spectraType.options[spectraType.options.length] = new Option(cat,cat);
     }

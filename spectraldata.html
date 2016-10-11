@@ -1,66 +1,85 @@
+<!-- PAGE FOR DISPLAYING/SEARCHING/DOWLOADING SPECTRA. THIS (THE HTML) 
+     ONLY DETAILS THE LAYOUT OF THE PAGE AND DEFERS HANDLING OF USER
+     EVENTS TO loadspectrachart.js -->
+
 <!DOCTYPE html>
 <html>
 
-<head>
-  <title> CDPH-EHLB Raman Spectral Library </title>
-  <link href="home.css" type="text/css" rel="stylesheet" />
+  <head>
+    <!-- SETTING UP SITE (TITLE, CSS STYLE, BACKGROUND, METADATA) -->
+    <title> CDPH-EHLB Raman Spectral Library </title>
+    <link href="home.css" type="text/css" rel="stylesheet" />
     
-  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
-  <script language='javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js'></script>
-  <script type="text/javascript" src="http://localhost:8000/loadspectrachart.js"></script>
-        
-  <style type="text/css">
-    body {
+    <!-- NEED TO IMPORT GOOGLE CHARTS SCRIPTS FOR DISPLAYING SPECTRA -->
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script language='javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js'></script>
+
+    <!-- IMPORT PAGE LOGIC IN loadspectrachart.js -->
+    <script type="text/javascript" src="http://localhost:8000/loadspectrachart.js"></script>
+    
+    <style type="text/css">
+      body {
       background-image: url(5centimeterspersecond3.png);
       background-repeat: no-repeat;
       background-attachment: fixed;
-    }
-  </style>
+      }
+    </style>
 
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-</head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  </head>
 
 
-<body>
+  <body>
 
-  <div id="nav">
-    <ul>
-      <li><a href="home.html"> Home </a></li>
-      <li><a href="spectraldata.html"> Spectral Data </a></li>
-      <li><a href="instrumentation.html"> Instrumentation </a></li>
-      <li><a href="research.html"> Research </a></li>
-      <li><a href="contact.html"> Contact </a></li>
-    </ul>
-  </div>
-  
-  <form name="droplist" id="droplist"> 
-    <select name="spectraType" id="spectraType">
-      <option value="" selected="selected">Select Category</option>
-    </select>
-    <select name="spectra" id="spectra">
-      <option value="" selected="selected">Select Spectra</option>
-    </select>
-    <input type="button" onclick='downloadSpectra();' value="Download">
-  </form>
+    <div id="nav">
+      <!-- NAVIGATION BAR AT TOP OF PAGE -->
+      <ul>
+	<li><a href="home.html"> Home </a></li>
+	<li><a href="spectraldata.html"> Spectral Data </a></li>
+	<li><a href="instrumentation.html"> Instrumentation </a></li>
+	<li><a href="research.html"> Research </a></li>
+	<li><a href="contact.html"> Contact </a></li>
+      </ul>
+    </div>
+    
 
-  <div id="chart_div"></div>
-  <br><br>
+    <form name="droplist" id="droplist">
+      <!-- DROPDOWN LISTS FOR SELECTING SPECTRA TO VIEW/DOWNLOAD -->
+      <select name="spectraType" id="spectraType">
+	<option value="" selected="selected">Select Category</option>
+      </select>
+      <select name="spectra" id="spectra">
+	<option value="" selected="selected">Select Spectra</option>
+      </select>
 
-  <div id="peaksearch">
-    <form name="peaksIn">
-      <input type="text" name="peaks" id="peaksIn">
-      <input type="button" onclick='searchPeaks();' value="Search">
+      <!-- DOWNLOAD BUTTON. CALLS downloadSpectra() in loadspectrachart.js -->
+      <input type="button" onclick='downloadSpectra();' value="Download">
     </form>
 
-    <ol id="peaksOut">
-      
-    </ol>
-  </div>
 
-  <div id="footer">
-    <p>&copy; Copyright 2015 State of California</p>
-  </div>
+    <!-- CHART FOR DISPLAYING SPECTRA -->
+    <div id="chart_div"></div>
+    <br><br>
 
-</body>
+
+    <div id="peaksearch">
+      <form name="peaksIn">
+	<!-- TEXTBOXES FOR PEAK SEARCH -->
+	<input type="text" name="peaks" id="peaksIn">
+	<input type="button" onclick='searchPeaks();' value="Search">
+      </form>
+
+      <!-- ORDERED LIST OF PEAK SEARCH RESULTS (INITIALLY EMPTY,
+	   TO BE POPULATED BY loadspectra.js GIVEN PEAKS TO SEARCH)-->
+      <ol id="peaksOut"> </ol>
+    </div>
+
+
+    <div id="footer">
+      <!-- PAGE FOOTER -->      
+      <p>&copy; Copyright 2015 State of California</p>
+    </div>
+
+  </body>
 
 </html>

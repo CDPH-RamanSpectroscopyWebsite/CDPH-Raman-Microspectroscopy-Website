@@ -40,15 +40,15 @@ end
 
 subplot(3, 1, 1);
 plot(xfilt, yfilt);
-xlim([100 x(end)]);
+% xlim([100 x(end)]);
 
 subplot(3, 1, 2);
 plot(x1, y1);
-xlim([100 x(end)]);
+% xlim([100 x(end)]);
 
 subplot(3, 1, 3);
 scatter(peaksx, peaksy);
-xlim([100 x(end)]);
+% xlim([100 x(end)]);
 
 % [shifts, heights] = computePeaks(x, y);
 % 

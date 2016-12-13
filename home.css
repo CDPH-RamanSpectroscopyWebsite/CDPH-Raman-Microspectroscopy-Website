@@ -1,44 +1,70 @@
 /* CDPH SPECTRAL LIB CSS STYLESHEET. CURRENTLY USED GLOBALLY BY ALL PAGES. */
 
+html,
 body {
-	width: 900;
-	margin: 0 auto;
-	background-color: #87ceeb;
+    height:100%;
+    width:100%;
+    margin: 0;
+    padding: 0;
+    background-image: url(wallpaper.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
-#nav>ul>li>a {
-	color: #000099;
-	text-decoration: none;
-	font-size: 22px;
-	font-family: Arial, Helvetica, sans-serif;
-}
-a:hover {
-	color: #FFFFFF;
+#wrapper {
+   min-height:100%;
+   position:relative;
 }
 
-#droplist, #peaksearch{
-    margin: 5% 0 5% 10%}
-
-#nav, #feature, #footer {
-	margin: 1%;
-	padding: 0.1em 0;
-	font-family: Arial, Helvetica, sans-serif;
-	background-color: #DDD;
+#nav {
+    text-align: center;
+    margin:1%;
+    padding:10px;
+    color: #000099;
+    background-color: #DDD;
 }
 
-#nav, #footer {
-	text-align: center;
-	color: #000099;
-	font-family: Arial, Helvetica, sans-serif;
+#feature {
+    padding:10px;
+    padding-bottom:160px;
+    margin:1%;
+}
+
+#peaksearch {
+    padding-bottom: 160px;
+}
+
+#footer {
+    text-align: center;
+    margin-top:50%;
+    position:absolute;
+    bottom:1%;
+    left:1%;
+    width:98%;
+    height:60px;   /* Height of the footer */
+    background-color: #DDD;
 }
 
 #nav>ul>li {
-	 display: inline;
-	 padding: 1.5em;}
+    display: inline;
+    padding: 1.5em;}
 
 #nav>ul {
     background-color: #DDD;
 }
+
+#nav>ul>li>a {
+    color: #000099;
+    text-decoration: none;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a:hover {
+    color: #FFFFFF;
+}
+
+#droplist, #peaksearch{
+    margin: 5% 0 5% 10%}
 
 #chart_div {
     margin-left: auto;

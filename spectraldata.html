@@ -8,7 +8,7 @@
   <head>
     <!-- SETTING UP SITE (TITLE, CSS STYLE, BACKGROUND, METADATA) -->
     <title> CDPH-EHLB Raman Spectral Library </title>
-    <link href="home.css" type="text/css" rel="stylesheet" />
+    <link href="Styles/style.css" type="text/css" rel="stylesheet" />
     
     <!-- NEED TO IMPORT GOOGLE CHARTS SCRIPTS FOR DISPLAYING SPECTRA -->
     <script type="text/javascript" src="https://www.google.com/jsapi"></script>
@@ -16,61 +16,59 @@
 
     <!-- IMPORT PAGE LOGIC IN loadspectrachart.js -->
     <!--<script type="text/javascript" src="http://localhost:8000/loadspectrachart.js"></script>-->
-    <script type="text/javascript" src="loadspectrachart.js"></script>
+    <script type="text/javascript" src="Scripts/loadspectrachart.js"></script>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   </head>
 
 
   <body>
-    <div id="wrapper">
-      <div id="nav">
-	<!-- NAVIGATION BAR AT TOP OF PAGE -->
-	<ul>
-	  <li><a href="home.html"> Home </a></li>
-	  <li><a href="spectraldata.html"> Spectral Data </a></li>
-	  <li><a href="instrumentation.html"> Instrumentation </a></li>
-	  <li><a href="research.html"> Research </a></li>
-	  <li><a href="contact.html"> Contact </a></li>
-	</ul>
-      </div>
-      
+    <div id="nav">
+      <!-- NAVIGATION BAR AT TOP OF PAGE -->
+      <ul>
+	<li><a href="index.html"> Home </a></li>
+	<li><a href="spectraldata.html"> Spectral Data </a></li>
+	<li><a href="instrumentation.html"> Instrumentation </a></li>
+	<li><a href="research.html"> Research </a></li>
+	<li><a href="contact.html"> Contact </a></li>
+      </ul>
+    </div>
+    
 
-      <form name="droplist" id="droplist">
-	<!-- DROPDOWN LISTS FOR SELECTING SPECTRA TO VIEW/DOWNLOAD -->
-	<select name="spectraType" id="spectraType">
-	  <option value="" selected="selected">Select Category</option>
-	</select>
-	<select name="spectra" id="spectra">
-	  <option value="" selected="selected">Select Spectra</option>
-	</select>
+    <form name="droplist" id="droplist">
+      <!-- DROPDOWN LISTS FOR SELECTING SPECTRA TO VIEW/DOWNLOAD -->
+      <select name="spectraType" id="spectraType">
+	<option value="" selected="selected">Select Category</option>
+      </select>
+      <select name="spectra" id="spectra">
+	<option value="" selected="selected">Select Spectra</option>
+      </select>
 
-	<!-- DOWNLOAD BUTTON. CALLS downloadSpectra() in loadspectrachart.js -->
-	<input type="button" onclick='downloadSpectra();' value="Download">
+      <!-- DOWNLOAD BUTTON. CALLS downloadSpectra() in loadspectrachart.js -->
+      <input type="button" onclick='downloadSpectra();' value="Download">
+    </form>
+
+
+    <!-- CHART FOR DISPLAYING SPECTRA -->
+    <div id="chart_div"></div>
+    <br><br>
+
+
+    <div id="peaksearch">
+      <form name="peaksIn">
+	<!-- TEXTBOXES FOR PEAK SEARCH -->
+	<input type="text" name="peaks" id="peaksIn">
+	<input type="button" onclick='searchPeaks();' value="Search">
       </form>
 
-
-      <!-- CHART FOR DISPLAYING SPECTRA -->
-      <div id="chart_div"></div>
-      <br><br>
-
-
-      <div id="peaksearch">
-	<form name="peaksIn">
-	  <!-- TEXTBOXES FOR PEAK SEARCH -->
-	  <input type="text" name="peaks" id="peaksIn">
-	  <input type="button" onclick='searchPeaks();' value="Search">
-	</form>
-
-	<!-- ORDERED LIST OF PEAK SEARCH RESULTS (INITIALLY EMPTY,
-	     TO BE POPULATED BY loadspectra.js GIVEN PEAKS TO SEARCH)-->
-	<ol id="peaksOut"> </ol>
-      </div>
+      <!-- ORDERED LIST OF PEAK SEARCH RESULTS (INITIALLY EMPTY,
+	   TO BE POPULATED BY loadspectra.js GIVEN PEAKS TO SEARCH)-->
+      <ol id="peaksOut"> </ol>
+    </div>
 
 
-      <div id="footer">
-	<!-- PAGE FOOTER -->      
-	<p>&copy; Copyright 2015 State of California</p>
-      </div>
+    <div id="footer">
+      <!-- PAGE FOOTER -->      
+      <p>&copy; Copyright 2015 State of California</p>
     </div>
   </body>
 

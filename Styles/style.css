@@ -6,14 +6,7 @@ body {
     width:100%;
     margin: 0;
     padding: 0;
-    background-image: url(wallpaper.png);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-}
-
-#wrapper {
-   min-height:100%;
-   position:relative;
+    background-color: lightblue;
 }
 
 #nav {
@@ -25,8 +18,9 @@ body {
 }
 
 #feature {
+    height: 100%;
+    background-color: #DDD;
     padding:10px;
-    padding-bottom:160px;
     margin:1%;
 }
 
@@ -36,12 +30,8 @@ body {
 
 #footer {
     text-align: center;
-    margin-top:50%;
-    position:absolute;
-    bottom:1%;
-    left:1%;
-    width:98%;
-    height:60px;   /* Height of the footer */
+    margin:1%;
+    padding:10px; 
     background-color: #DDD;
 }
 

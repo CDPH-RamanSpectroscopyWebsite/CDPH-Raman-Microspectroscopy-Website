@@ -6,7 +6,9 @@ body {
     width:100%;
     margin: 0;
     padding: 0;
-    background-color: lightblue;
+    background-image: url(wallpaper.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 

@@ -3,11 +3,10 @@
 
 // Load Google Chart packages (used to display spectra)
 google.load("visualization", "1", {packages:["corechart"]});
-google.setOnLoadCallback(drawChart);
+google.setOnLoadCallback(drawEmptyChart);
 
 // File path where spectral data are located
-// var filepath = 'http://localhost:8888/tree/Spectra/';
-// var filepath = 'http://michaelstchen.github.io/CDPH-EHLB-Raman-Spectra-Website/Spectra/'
+// var filepath = 'http://localhost:8000/Spectra/';
 var filepath = 'https://sutapaghosal.github.io/OAQ_RMS-Website/Spectra/'
 
 // Dictionary mapping spectral folder names (broad categories i.e. Minerals)
@@ -77,9 +76,31 @@ window.onload = function() {
     }
 }
 
+function drawEmptyChart() {
+    var dataArray = dataArray = [[0, 0]];
+    var data = google.visualization.arrayToDataTable(dataArray, true);
+
+    var options = {
+        width: 800,
+        height: 500,
+        lineWidth: 1,
+        pointSize: 0,
+        hAxis: {title: 'Raman Shift (cm-1)'},
+        vAxis: {title: 'Intensity'},
+        tooltip: { isHtml: true },
+        legend: 'none',
+    };
+
+    var chart = new google.visualization.ScatterChart(document.getElementById('chart_div'));
+    
+    chart.draw(data, options);
+    
+}
+
 function drawChart(name, materialName) {
     var dataArray = [];
     var filename = name.replace("%", "%25");
+
     $.ajax({
         url: filename,
         type: 'get',

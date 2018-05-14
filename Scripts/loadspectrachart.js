@@ -79,7 +79,7 @@ window.onload = function() {
 
 function drawChart(name, materialName) {
     var dataArray = [];
-    var filename = name;
+    var filename = name.replace("%", "%25");
     $.ajax({
         url: filename,
         type: 'get',
@@ -131,7 +131,8 @@ function downloadSpectra() {
     
     if (spectra.selectedIndex >= 1) {
 	var link = document.createElement("a");
-	link.href = filepath + spectraType.value + "/" + spectra.value + ".txt";
+	spectraName = spectra.value
+	link.href = filepath + spectraType.value + "/" + spectraName.replace("%", "%25") + ".txt";
 	link.target = "_blank";
 	link.click()
     }

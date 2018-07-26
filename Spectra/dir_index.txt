@@ -5,14 +5,14 @@ Antimony Trioxide__780nm.txt
 DecaPBDE_532nm.txt
 DecaPBDE_785nm.txt
 Dimethyl Cholothiophosphate.txt
-FM2100_semstub_785nm_50%_10s_20x_2final_Raman.txt
+FM2100 785nm.txt
 HBCDD_785nm.txt
 HexaPBDE_785nm.txt
 Melamine.txt
 PUF_Ref_1.txt
 PUF_Ref_short.txt
 Phosphorus Oxychloride.txt
-TBBPA_semstub_785nm_100%_10s_20x_2final_Raman.txt
+TBBPA_785nm.txt
 TBB_532nm.txt
 TBPH_785nm.txt
 TCEP_532nm.txt
@@ -21,21 +21,21 @@ TCPP_532nm.txt
 TCPP_785nm.txt
 TDCCP_532nm.txt
 TDCCP_785nm.txt
-TPP_Ctab_532nm_25X1000um_10mW_5s_50x_0_LowRes.txt
-TPP_Ctab_532nm_25X1000um_5mW_5s_50x_0_highRes.txt
-TPP_Ctab_785nm_25X1000um_100mW_5s_50x_0_LowRes.txt
-TPP_Ctab_785nm_25X1000um_100mW_5s_50x_1_HighRes.txt
-TPP_Ctab_785nm_25X1000um_50mW_5s_50x_0_LowRes.txt
+TPP_532nm_LowRes.txt
+TPP_532nm_HighRes.txt
+TPP_785nm_LowRes.txt
+TPP_785nm_HighRes.txt
+TPP_785nm_LowRes.txt
 
 __FOLDER__: Fungal Spores
-ASPERGILLUS VERSICOLOR.txt
-CLADOSPORIUM HERBARUM.txt
-EPICOCCUM NIGRAM.txt
-EUROTIUM HERBARIORUM.txt
-PENICILLIUM BREVICOMPACTUM.txt
-PENICILLIUM COPROPHILUM.txt
-RHIZOPUS STOLONIFER.txt
-SCOPULARIOPSIS BREVICAULIS_AVG.txt
+Aspergillus versicolor.txt
+Cladosporium herbarum.txt
+Epicoccum nigrum.txt
+Eurotium herbariorum.txt
+Penicillium brevicompactum.txt
+Penicillium corylophilum.txt
+Rhizopus stolonifer.txt
+Scopulariopsis brevicaulis.txt
 
 __FOLDER__: Minerals
 Actinolite1.txt
@@ -49,10 +49,10 @@ Ajoite__R060735__Raman__780.txt
 Ajoite__R060735__Raman__780__0__unoriented__Raman_Data_Processed__37079.txt
 Al2O3_Corundum__R040096__Raman__780__0__unoriented__Raman_Data_Processed__24828.txt
 Albite__R040068__Raman__785.txt
-Alum-(K)(KAl(SO4)2·12H2O)_532nm.txt
-Alum-(K)(KAl(SO4)2·12H2O)_785nm_1.txt
-Alum-(K)(KAl(SO4)2·12H2O)_785nm_2.txt
-Aluminite(Al2SO4(OH)4·7H2O)_785nm.txt
+Alum-(K)(KAl(SO4)2Â·12H2O)_532nm.txt
+Alum-(K)(KAl(SO4)2Â·12H2O)_785nm_1.txt
+Alum-(K)(KAl(SO4)2Â·12H2O)_785nm_2.txt
+Aluminite(Al2SO4(OH)4Â·7H2O)_785nm.txt
 Anatase1.txt
 Anatase__R060277__Raman__532__0__unoriented__Raman_Data_Processed__34006.txt
 Anatase__R060277__Raman__532__Processed__34006.txt
@@ -100,8 +100,8 @@ Dolomite2.txt
 Epsomite (MgSO4_7H2O).txt
 Eskolaite(Cr2O3)__R060892__Raman__532__0__unoriented__Raman_Data_Processed__14119.txt
 Eskolaite(Cr2O3)__R060892__Raman__785__0__unoriented__Raman_Data_Processed__13013.txt
-Felsöbányaite1(Al4(SO4)(OH)10·4H2O)_ 780nm.txt
-Felsöbányaite2(Al4(SO4)(OH)10·4H2O)_ 780nm.txt
+FelsÃ¶bÃ¡nyaite1(Al4(SO4)(OH)10Â·4H2O)_ 780nm.txt
+FelsÃ¶bÃ¡nyaite2(Al4(SO4)(OH)10Â·4H2O)_ 780nm.txt
 Gaspeite__R040157__Raman__514__0__unoriented__Raman_Data_Processed__9633.txt
 Gaspeite__R040157__Raman__532__0__unoriented__Raman_Data_Processed__20777.txt
 Gaspeite__R040157__Raman__785__0__unoriented__Raman_Data_Processed__20783.txt

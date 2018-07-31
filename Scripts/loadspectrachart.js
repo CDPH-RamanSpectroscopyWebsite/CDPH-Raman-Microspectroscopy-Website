@@ -7,7 +7,7 @@ google.setOnLoadCallback(drawEmptyChart);
 
 // File path where spectral data are located
 // var filepath = 'http://localhost:8000/Spectra/';
-var filepath = 'https://OAQ-RamanSpectroscopyWebsite.github.io/OAQ_RMS-Website/Spectra/'
+var filepath = 'https://OAQ-RamanSpectroscopyWebsite.github.io/OAQ-Raman-Microspectroscopy-Website/Spectra/'
 
 // Dictionary mapping spectral folder names (broad categories i.e. Minerals)
 // to a list of all spectral data in that folder.

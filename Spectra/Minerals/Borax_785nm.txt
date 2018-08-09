@@ -1,7 +1,3 @@
-##NAMES=Borax				
-##LOCALITY=Boron	 Kramer District	 Kern County	 California	 USA
-##RRUFFID=R070168				
-##CHEMISTRY=Na_2_B_4_O_5_(OH)_4_&#183;8H_2_O				
 150.7188	0.00E+00			
 151.201	0.906738			
 151.6831	10.53076			

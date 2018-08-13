@@ -187,19 +187,13 @@ Zircon.txt
 
 __FOLDER__: Miscellaneous
 Bengay.txt
-Bengay_DeltaNu.txt
-Canola oil.txt
-Canola oil.txt
-Canola oil_LowResolution.txt
-Conc Sulfuric acid (96%).txt
+Canola Oil.txt
+Sulfuric Acid (96%).txt
 DMMP in Canola Oil.txt
-DMMP in Canola Oil_LowResolution.txt
-DMMP.txt
-Na2CO3_AlFoil.txt
-New Bengay (Red).txt
-O-NitroToluene.txt
-Soybean oil.txt
-Soybean oil.txt
+DMMPL.txt
+Sodium Carbonate_Na2CO3.txt
+O-Nitro Toluene.txt
+Soybean Oil.txt
 
 __FOLDER__: Pharmaceuticals
 Acetaminophen.txt

@@ -328,33 +328,33 @@ AccentMSG.txt
 Actinolite1.txt
 Advil.txt
 Ajax.txt
-ArrowrootStarch.txt
+Arrowroot Starch.txt
 Aspirin.txt
-BabyPowder.txt
-BakingSoda.txt
+Baby Powder.txt
+Baking Soda.txt
 Bisquick.txt
-CornStarch.txt
+Corn Starch.txt
 EqualSweet.txt
 Fixall.txt
-GainDetergent.txt
-GuarGumElephantPharmacy.txt
+Gain Detergent.txt
+Guar Gum ElephantPharmacy.txt
 Ibuprofen.txt
 NatraTaste.txt
 Splenda.txt
-SteviaExtract.txt
-SugarGranulatedCH.txt
+Stevia Extract.txt
+Sugar GranulatedCH.txt
 SugarOrganic.txt
 SweetCrystals.txt
 SweetNLow.txt
 Talc.txt
 Talc1.txt
-TalcumPowder.txt
-TideDetergent.txt
-TraderJoesDetergent.txt
+Talcum Powder.txt
+Tide Detergent.txt
+TraderJoes Detergent.txt
 Tylenol.txt
-UltraPlusDetergent.txt
-WheatFlour.txt
-XanthanGum.txt
+UltraPlus Detergent.txt
+Wheat Flour.txt
+Xanthan Gum.txt
 Amylose.txt
 Apectin.txt
 Borax_532nm.txt

@@ -311,7 +311,7 @@ Viridian_chromium(III) oxide Cr2O3.2H2O.txt
 Yellowchre_goethite (Fe2O3.H2O ) + clay + silica.txt
 Zincwhite_zinc oxide, ZnO.txt
 Zincyellow_zinc chromate ZnCrO4.txt
-strontiumyellow_strontium chromate SrCrO4.txt
+Strontiumyellow_strontium chromate SrCrO4.txt
 
 __FOLDER__: Plastics
 PETpellets_785nm.txt

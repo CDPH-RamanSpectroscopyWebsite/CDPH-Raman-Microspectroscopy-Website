@@ -1,10 +1,10 @@
 __FOLDER__: Flame Retardant
 3 Bromo Styrene_532nm.txt
 3 Bromo Styrene_785nm.txt
-Antimony Trioxide__780nm.txt
+Antimony Trioxide_780nm.txt
 DecaPBDE_532nm.txt
 DecaPBDE_785nm.txt
-Dimethyl Cholothiophosphate.txt
+Dimethyl Chlorothiophosphate.txt
 FM2100 785nm.txt
 HBCDD_785nm.txt
 HexaPBDE_785nm.txt
@@ -25,7 +25,6 @@ TPP_532nm_LowRes.txt
 TPP_532nm_HighRes.txt
 TPP_785nm_LowRes.txt
 TPP_785nm_HighRes.txt
-TPP_785nm_LowRes.txt
 
 __FOLDER__: Fungal Spores
 Aspergillus versicolor.txt

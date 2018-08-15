@@ -1,7 +1,7 @@
 __FOLDER__: Flame Retardant
 3 Bromo Styrene_532nm.txt
 3 Bromo Styrene_785nm.txt
-Antimony Trioxide_780nm.txt
+Antimony Trioxide_785nm.txt
 DecaPBDE_532nm.txt
 DecaPBDE_785nm.txt
 Dimethyl Chlorothiophosphate.txt

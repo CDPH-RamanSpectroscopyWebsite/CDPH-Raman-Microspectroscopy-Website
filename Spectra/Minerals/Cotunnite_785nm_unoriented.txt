@@ -1,7 +1,3 @@
-﻿##NAMES=Cotunnite
-##LOCALITY=Mount Vesuvius, Somma-Vesuvius Complex, Naples Province, Campania, Italy
-##RRUFFID=R060655
-##CHEMISTRY=PbCl_2_
 98.353, 279.182
 100.282, 290.821
 102.210, 314.503
@@ -2128,7 +2124,3 @@
 4192.489, 0.000
 4194.417, 0.000
 4196.346, 0.000
-##END=
-
-
-

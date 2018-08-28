@@ -257,9 +257,17 @@ Yohimbine.txt
 
 __FOLDER__: Pigment Spectral Library
   _FOLDER_: Black
-  
-  _FOLDER_:Blue
-  
+  Ivory black.txt
+  Lamp black.txt
+ 
+ _FOLDER_:Blue
+  Azurite_copper(II) carbonate 2CuCO3.txt
+  Ceruleanblue_cobalt(II) stannate CoO.txt
+  Cobaltblue_cobalt(II)-doped alumina glass CoO.txt
+  Egyptianblue_calcium copper(II) silicate CaCuSi4O10.txt
+  Lazurite_S3_& S2_in a sodium alumino-silicate matrix Na8[Al6Si6O24]Sn.txt
+  Prussianblue_iron(III) hexa-cyanoferrate(II) Fe4[Fe(CN)6]3.txt
+  Smalt_cobalt(II) silicate CoO.txt
   _FOLDER_:Green
   
   _FOLDER_:Orange

@@ -256,6 +256,7 @@ Trimethobenzomide.txt
 Yohimbine.txt
 
 __FOLDER__: Pigment Spectral Library
+  
   __FOLDER__: Black
   Ivory black.txt
   Lamp black.txt
@@ -268,7 +269,19 @@ __FOLDER__: Pigment Spectral Library
   Lazurite_S3_& S2_in a sodium alumino-silicate matrix Na8[Al6Si6O24]Sn.txt
   Prussianblue_iron(III) hexa-cyanoferrate(II) Fe4[Fe(CN)6]3.txt
   Smalt_cobalt(II) silicate CoO.txt
+  
   __FOLDER__: Green
+  Atacamite_basic copper(II) chloride CuCl2.txt
+  ChromiumIIIoxide_Cr2O3.txt
+  Cobaltgreen_cobalt(II) zincate CoO.txt
+  Emeraldgreen_copper(II) ethanoate tri-copper(II) arsenite Cu[C2H3O2].txt
+  Malachite_basic copper(II) carbonate CuCO3.txt
+  ScheelesGreen_copper(II) arsenite Cu(AsO2)2.txt
+  TerreVerte_Variations on K[(AlIII,FeIII)(FeII,MgII)],(AlSi3,Si4) O10(OH)2.txt
+  Verdigris1_basic hydrated copper(II) ethanoate [Cu(CH3COO)2]2.txt
+  Verdigris2_basic copper(II) ethanoate Cu(CH3COO)2.txt
+  Verdigrisraw_copper(II) ethanoate Cu(CH3COO)2.txt
+  Viridian_chromium(III) oxide Cr2O3.txt
   
   __FOLDER__: Orange
   

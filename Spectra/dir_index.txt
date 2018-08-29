@@ -256,61 +256,29 @@ Trimethobenzomide.txt
 Yohimbine.txt
 
 __FOLDER__: Pigment Spectral Library
-Atacamite_basic copper(II) chloride CuCl2.3Cu(OH)2.txt
-Azurite_copper(II) carbona.txt
-BariumYellow_barium chromate BaCrO4.txt
-Barytes_barium sulfate, BaSO4.txt
-Berberine_[C20H18N1O4]+ plus sulfate or chloride anion.txt
-Bonewhite_calcium phosphate, Ca3(PO4)2.txt
-CadmiumYellow_cadmium sulfide, CdS.txt
-Ceruleanblue_cobalt(II) stanna.txt
-Chalk_calcium carbonate, CaCO3.txt
-ChromeYellow(deep)_lead(II) chromate PbCrO4.PbO.txt
-ChromeYellowOrange_lead(II) chromate PbCrO4.PbO.txt
-Chromeyellow_lead(II) chromate PbCrO4.txt
-ChromiumIIIoxide_Cr2O3.txt
-Cobaltblue_cobalt.txt
-Cobaltgreen_cobalt(II) zincate CoO.nZnO.txt
-Cobaltyellow_potassium cobalt nitrite K3[Co(NO2)6].xH2O.txt
-Egyptianblue_calcium copper(II) silica.txt
-Emeraldgreen_copper(II) ethanoate tri-copper(II) arsenite Cu[C2H3O2]. 3Cu[AsO2]2.txt
-Gamboge_gambogic acids, C38H44O8 and C29H36O6.txt
-Gypsum_calcium sulfate dihydrate CaSO4.2H2O.txt
-Indianyellow_magnesium salt of euxanthic acid MgC19H16O11.5H2O.txt
-Ivoryblack.txt
-Lampblack.txt
-Lazurite_S3_& S2_in a sodium alumino-silicate.txt
-LeadtinYellow1_lead(II) stannate Pb2SnO4.txt
-LeadtinYellow2_silicon substituted lead(II) stannate, PbSn1-xSixO3.txt
-Leadwhite_basic lead(II) carbonate 2PbCO3.Pb(OH)2.txt
-Litharge_tetragonal lead(II) oxide, PbO.txt
-Lithopone_zinc sulfide and barium sulfate, ZnS and BaSO4.txt
-Malachite_basic copper(II) carbonate CuCO3.Cu(OH)2.txt
-Marsorange_Synthetic iron(III) oxide, Fe2O3.txt
-Marsred_synthetic iron(III) oxide, Fe2O3.txt
-Marsyellow_synthetic iron(III) hydroxide, Fe(OH)3.txt
-Massicot_orthorhrombic lead(II) oxide, PbO.txt
-Naplesyellow_lead(II) antimonate Pb2Sb2O7.txt
-Orpiment_arsenic(III) sulfide, As2S3.txt
-Pararealgar_arsenic(II) sulfide, As4S4.txt
-Prussianblue_iron(III) hexa-cyanoferra.txt
-Purpurin_1,2,4-trihydroxy-anthraquinone C14H18O5.txt
-Realgar_arsenic(II) sulfide, As4S4.txt
-Redlead_dilead(II) lead(IV) oxide Pb3O4.txt
-Redochre_iron(III) oxide chromophore (Fe2O3 + clay + silica).txt
-Saffron_crocetin, carotenoid dicarboxylic acid,C20H24O4.txt
-ScheelesGreen_copper(II) arsenite Cu(AsO2)2.txt
-Smalt_cobalt(II) silica.txt
-TerreVerte_Variations on K[(AlIII,FeIII)(FeII,MgII)],(AlSi3,Si4) O10(OH)2.txt
-Verdigris1_basic hydrated copper(II) ethanoate [Cu(CH3COO)2]2.Cu(OH)2. 5H2O.txt
-Verdigris2_basic copper(II) ethanoate Cu(CH3COO)2. Cu(OH)2.txt
-Verdigrisraw_copper(II) ethanoate Cu(CH3COO)2.txt
-Vermilion_mercury(II) sulfide, HgS.txt
-Viridian_chromium(III) oxide Cr2O3.2H2O.txt
-Yellowchre_goethite (Fe2O3.H2O ) + clay + silica.txt
-Zincwhite_zinc oxide, ZnO.txt
-Zincyellow_zinc chromate ZnCrO4.txt
-Strontiumyellow_strontium chromate SrCrO4.txt
+  _FOLDER_: Black
+  Ivory black.txt
+  Lamp black.txt
+ 
+ _FOLDER_:Blue
+  Azurite_copper(II) carbonate 2CuCO3.txt
+  Ceruleanblue_cobalt(II) stannate CoO.txt
+  Cobaltblue_cobalt(II)-doped alumina glass CoO.txt
+  Egyptianblue_calcium copper(II) silicate CaCuSi4O10.txt
+  Lazurite_S3_& S2_in a sodium alumino-silicate matrix Na8[Al6Si6O24]Sn.txt
+  Prussianblue_iron(III) hexa-cyanoferrate(II) Fe4[Fe(CN)6]3.txt
+  Smalt_cobalt(II) silicate CoO.txt
+  _FOLDER_:Green
+  
+  _FOLDER_:Orange
+  
+  _FOLDER_:Red
+  
+  _FOLDER_:White
+  
+  _FOLDER_:Yellow
+  
+
 
 __FOLDER__: Plastics
 PET pellets_785nm.txt

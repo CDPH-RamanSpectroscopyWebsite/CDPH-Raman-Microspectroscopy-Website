@@ -281,13 +281,9 @@ __FOLDER__: Pigment Spectral Library
 
 
 __FOLDER__: Plastics
-PET pellets_785nm.txt
 PET pellets_785nm_processed.txt
-PE pellets_785nm.txt
 PE pellets_785nm_processed.txt
-PP pellets_785nm.txt
 PP pellets_785nm_processed.txt
-PVC_785nm.txt
 PVC_785nm_processed.txt
 
 __FOLDER__: WhitePowders

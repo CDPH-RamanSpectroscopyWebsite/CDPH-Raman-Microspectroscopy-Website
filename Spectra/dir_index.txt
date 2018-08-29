@@ -287,8 +287,8 @@ PP pellets_785nm_processed.txt
 PVC_785nm_processed.txt
 
 __FOLDER__: WhitePowders
-AccentMSG.txt
-Actinolite1.txt
+Accent MSG.txt
+Actinolite.txt
 Advil.txt
 Ajax.txt
 Arrowroot Starch.txt

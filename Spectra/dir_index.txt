@@ -256,11 +256,11 @@ Trimethobenzomide.txt
 Yohimbine.txt
 
 __FOLDER__: Pigment Spectral Library
-  _FOLDER_: Black
+  __FOLDER__: Black
   Ivory black.txt
   Lamp black.txt
  
- _FOLDER_:Blue
+ __FOLDER__: Blue
   Azurite_copper(II) carbonate 2CuCO3.txt
   Ceruleanblue_cobalt(II) stannate CoO.txt
   Cobaltblue_cobalt(II)-doped alumina glass CoO.txt
@@ -268,15 +268,15 @@ __FOLDER__: Pigment Spectral Library
   Lazurite_S3_& S2_in a sodium alumino-silicate matrix Na8[Al6Si6O24]Sn.txt
   Prussianblue_iron(III) hexa-cyanoferrate(II) Fe4[Fe(CN)6]3.txt
   Smalt_cobalt(II) silicate CoO.txt
-  _FOLDER_:Green
+  __FOLDER__: Green
   
-  _FOLDER_:Orange
+  __FOLDER__: Orange
   
-  _FOLDER_:Red
+  __FOLDER__: Red
   
-  _FOLDER_:White
+  __FOLDER__: White
   
-  _FOLDER_:Yellow
+  __FOLDER__: Yellow
   
 
 

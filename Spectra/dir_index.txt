@@ -257,11 +257,11 @@ Yohimbine.txt
 
 __FOLDER__: Pigment Spectral Library
   
- __FOLDER__:  Black
+ ___FOLDER__:  Black
   Ivory black.txt
   Lamp black.txt 
  
- __FOLDER__:  Blue
+ ___FOLDER__:  Blue
   Azurite_copper(II) carbonate 2CuCO3.txt
   Ceruleanblue_cobalt(II) stannate CoO.txt
   Cobaltblue_cobalt(II)-doped alumina glass CoO.txt
@@ -270,7 +270,7 @@ __FOLDER__: Pigment Spectral Library
   Prussianblue_iron(III) hexa-cyanoferrate(II) Fe4[Fe(CN)6]3.txt
   Smalt_cobalt(II) silicate CoO.txt
   
- __FOLDER__:  Green
+ ___FOLDER__:  Green
   Atacamite_basic copper(II) chloride CuCl2.txt
   ChromiumIIIoxide_Cr2O3.txt
   Cobaltgreen_cobalt(II) zincate CoO.txt
@@ -283,16 +283,49 @@ __FOLDER__: Pigment Spectral Library
   Verdigrisraw_copper(II) ethanoate Cu(CH3COO)2.txt
   Viridian_chromium(III) oxide Cr2O3.txt
   
- __FOLDER__:  Orange
+ ___FOLDER__:  Orange
+  Marsorange_Synthetic iron(III) oxide, Fe2O3.txt
   
- __FOLDER__:  Red
+ ___FOLDER__:  Red
+  Litharge_tetragonal lead(II) oxide, PbO.txt
+  Marsred_synthetic iron(III) oxide, Fe2O3.txt
+  Purpurin_1,2,4-trihydroxy-anthraquinone C14H18O5.txt
+  Realgar_arsenic(II) sulfide, As4S4.txt
+  Redlead_dilead(II) lead(IV) oxide Pb3O4.txt
+  Redochre_iron(III) oxide chromophore (Fe2O3 + clay + silica).txt
+  Vermilion_mercury(II) sulfide, HgS.txt
   
- __FOLDER__:  White
+ ___FOLDER__:  White
+  Barytes_barium sulfate, BaSO4.txt
+  Bonewhite_calcium phosphate, Ca3(PO4)2.txt
+  Chalk_calcium carbonate, CaCO3.txt
+  Gypsum_calcium sulfate dihydrate CaSO4.txt
+  Leadwhite_basic lead(II) carbonate 2PbCO3.txt
+  Lithopone_zinc sulfide and barium sulfate, ZnS and BaSO4.txt
+  Zincwhite_zinc oxide, ZnO.txt
   
- __FOLDER__:  Yellow
+ ___FOLDER__:  Yellow
+  BariumYellow_barium chromate BaCrO4.txt
+  Berberine_[C20H18N1O4]+ plus sulfate or chloride anion.txt
+  CadmiumYellow_cadmium sulfide, CdS.txt
+  ChromeYellow(deep)_lead(II) chromate PbCrO4.txt
+  Chromeyellow_lead(II) chromate PbCrO4.txt
+  ChromeYellowOrange_lead(II) chromate PbCrO4.txt
+  Cobaltyellow_potassium cobalt nitrite K3[Co(NO2)6].txt
+  Gamboge_gambogic acids, C38H44O8 and C29H36O6.txt
+  Indianyellow_magnesium salt of euxanthic acid MgC19H16O11.txt
+  LeadtinYellow1_lead(II) stannate Pb2SnO4.txt
+  LeadtinYellow2_silicon substituted lead(II) stannate, PbSn1-xSixO3.txt
+  Marsyellow_synthetic iron(III) hydroxide, Fe(OH)3.txt
+  Massicot_orthorhrombic lead(II) oxide, PbO.txt
+  Naplesyellow_lead(II) antimonate Pb2Sb2O7.txt
+  Orpiment_arsenic(III) sulfide, As2S3.txt
+  Pararealgar_arsenic(II) sulfide, As4S4.txt
+  Saffron_crocetin, carotenoid dicarboxylic acid,C20H24O4.txt
+  Strontiumyellow_strontium chromate SrCrO4.txt
+  Yellowchre_goethite (Fe2O3).txt
+  Zincyellow_zinc chromate ZnCrO4.txt
   
-
-
 __FOLDER__: Plastics
 PET pellets_785nm_processed.txt
 PE pellets_785nm_processed.txt

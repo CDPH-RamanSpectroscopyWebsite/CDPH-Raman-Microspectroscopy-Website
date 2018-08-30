@@ -1,4 +1,4 @@
-__FOLDER__: Flame Retardant
+__FOLDER__: <h4>Flame Retardant</h4>
 3 Bromo Styrene_532nm.txt
 3 Bromo Styrene_785nm.txt
 Antimony Trioxide_785nm.txt

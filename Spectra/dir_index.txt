@@ -257,11 +257,11 @@ Yohimbine.txt
 
 __FOLDER__: Pigment Spectral Library
   
- ___FOLDER__:  Black
+ __FOLDER__:  Black
   Ivory black.txt
   Lamp black.txt 
  
- ___FOLDER__:  Blue
+ __FOLDER__:  Blue
   Azurite_copper(II) carbonate 2CuCO3.txt
   Ceruleanblue_cobalt(II) stannate CoO.txt
   Cobaltblue_cobalt(II)-doped alumina glass CoO.txt
@@ -270,7 +270,7 @@ __FOLDER__: Pigment Spectral Library
   Prussianblue_iron(III) hexa-cyanoferrate(II) Fe4[Fe(CN)6]3.txt
   Smalt_cobalt(II) silicate CoO.txt
   
- ___FOLDER__:  Green
+ __FOLDER__:  Green
   Atacamite_basic copper(II) chloride CuCl2.txt
   ChromiumIIIoxide_Cr2O3.txt
   Cobaltgreen_cobalt(II) zincate CoO.txt
@@ -283,10 +283,10 @@ __FOLDER__: Pigment Spectral Library
   Verdigrisraw_copper(II) ethanoate Cu(CH3COO)2.txt
   Viridian_chromium(III) oxide Cr2O3.txt
   
- ___FOLDER__:  Orange
+ __FOLDER__:  Orange
   Marsorange_Synthetic iron(III) oxide, Fe2O3.txt
   
- ___FOLDER__:  Red
+ __FOLDER__:  Red
   Litharge_tetragonal lead(II) oxide, PbO.txt
   Marsred_synthetic iron(III) oxide, Fe2O3.txt
   Purpurin_1,2,4-trihydroxy-anthraquinone C14H18O5.txt
@@ -295,7 +295,7 @@ __FOLDER__: Pigment Spectral Library
   Redochre_iron(III) oxide chromophore (Fe2O3 + clay + silica).txt
   Vermilion_mercury(II) sulfide, HgS.txt
   
- ___FOLDER__:  White
+ __FOLDER__:  White
   Barytes_barium sulfate, BaSO4.txt
   Bonewhite_calcium phosphate, Ca3(PO4)2.txt
   Chalk_calcium carbonate, CaCO3.txt
@@ -304,7 +304,7 @@ __FOLDER__: Pigment Spectral Library
   Lithopone_zinc sulfide and barium sulfate, ZnS and BaSO4.txt
   Zincwhite_zinc oxide, ZnO.txt
   
- ___FOLDER__:  Yellow
+ __FOLDER__:  Yellow
   BariumYellow_barium chromate BaCrO4.txt
   Berberine_[C20H18N1O4]+ plus sulfate or chloride anion.txt
   CadmiumYellow_cadmium sulfide, CdS.txt

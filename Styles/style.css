@@ -81,6 +81,12 @@ body {
     object-fit: contain;
 }
 
+#contact {
+    background-color: #DDD;
+    padding: 10px 10px 10px 10px;
+    margin:2.5%;
+}
+
 
 /* Footer for each page */
 #footer {

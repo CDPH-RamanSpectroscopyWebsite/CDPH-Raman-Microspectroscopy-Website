@@ -40,9 +40,7 @@ __FOLDER__: Minerals
 Actinolite.txt	
 AeschyniteCe_532nm.txt
 AeschyniteCe_780nm.txt
-AeschyniteY_532nm.txt
 AeschyniteY_532nm_unoriented.txt
-AeschyniteY_780nm.txt
 AeschyniteY_780nm_unoriented.txt
 Ajoite_780nm.txt
 Al2O3_780nm.txt
@@ -54,9 +52,7 @@ Aluminite(Al2SO4(OH)4·7H2O)_785nm.txt
 Amaltose.txt
 Amylose.txt
 Anatase.txt
-Anatase_532nm.txt
 Anatase_532nm_unoriented.txt
-Anatase_780nm.txt
 Anatase_780nm_unoriented.txt
 Andalusite_780nm.txt
 Andalusite_Processed_780nm.txt
@@ -66,8 +62,8 @@ Anorthite_780nm.txt
 Anorthoclase_780nm.txt
 Apatite.txt
 Apectin.txt
-Aragonite.txt	Rename Aragonite1.txt
-Arcanite (K2SO4).txt
+Aragonite.txt
+Arcanite_(K2SO4).txt
 BaSO4.txt
 Barbertonite_785nm.txt
 Barite.txt
@@ -124,7 +120,7 @@ Iquiqueite_780nm_unoriented.txt
 Kalsilite_780nm.txt
 Labradorite_780nm.txt
 Lactose.txt
-Lamp black.txt
+Lampblack.txt
 Lead_785nm_unoriented_Raw.txt
 Lepidocrocite_780nm.txt
 Lepidocrocite_780nm_unoriented.txt
@@ -132,14 +128,13 @@ Lizardite.txt
 Lopezite(K2Cr2O7)_532nm_unoriented.txt
 Lopezite(K2Cr2O7)_785nm_unoriented.txt
 Magnesiochromite_532nm_unoriented.txt
-Magnesiochromite_785nm__unoriented.txt
 Magnesiochromite_785nm_unoriented.txt
+Magnesiochromite_785nm_unoriented_1.txt
 Magnesioferrite_532nm_unoriented.txt
-Magnesioferrite_532nm_unoriented_Raw.txt
+Magnesioferrite_532nm_unoriented_Processed.txt
 Magnesioferrite_785nm_unoriented.txt
-Magnesioferrite_785nm_unoriented_Raw.txt
+Magnesioferrite_785nm_unoriented_Processed.txt
 Magnetite.txt
-Mendipite_532nm.txt
 Mendipite_532nm_unoriented.txt
 Mendipite_780nm_unoriented.txt
 Metacinnabar_785nm.txt
@@ -148,7 +143,7 @@ Microcline_785nm.txt
 Monazite.txt
 Muscovite1.txt
 Muscovite2.txt
-Nickelhexahydrite_532nm_unoriented.txt
+Nickelhexahydrite_532nm_unoriented_Processed.txt
 Niter_KNO3_532nm_unoriented.txt
 Niter_KNO3_780nm_unoriented.txt
 Oligoclase_785nm.txt
@@ -162,23 +157,20 @@ Quartz_780nm.txt
 Ribose.txt
 Rutile.txt
 Sanidine_785nm.txt
-Serpierite(Corchia mine-Parma (Italy).txt
-Serpierite(Valle Mercanti-Vicenza (Italy).txt
-Silicon_514nm_unoriented.txt
-Silicon_532nm_unoriented.txt
-Silicon_780nm_unoriented.txt
+Serpierite(Corchia mine-Parma Italy).txt
+Serpierite(Valle Mercanti-Vicenza Italy).txt
+Silicon_514nm_unoriented_Processed.txt
+Silicon_532nm_unoriented_Processed.txt
+Silicon_780nm_unoriented_Processed.txt
 Sillimanite_785nm.txt
 Struvite.txt
 Sucrose.txt
-Sulphur_532nm.txt
 Sulphur_532nm_unoriented.txt
-Sulphur_785nm.txt
 Sulphur_785nm_unoriented.txt
 Talc.txt
 Talc1.txt
-Terlinguaite_Hg2OCl_785nm_unoriented.txt
+Terlinguaite_Hg2OCl_785nm_unoriented_Processed.txt
 Troilite_785nm_unoriented.txt
-Troilite_785nm_unoriented_Raw.tx
 Uvarovite_532nm_unoriented.txt
 Uvarovite_785nm_unoriented.txt
 Vermiculite.txt

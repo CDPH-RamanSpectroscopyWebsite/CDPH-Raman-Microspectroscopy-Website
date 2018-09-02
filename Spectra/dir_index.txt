@@ -29,10 +29,10 @@ TPP_785nm_HighRes.txt
 __FOLDER__: Fungal Spores
 Aspergillus versicolor.txt
 Cladosporium herbarum.txt
-Epicoccum nigrum.txt
+Epicoccum nigram.txt
 Eurotium herbariorum.txt
 Penicillium brevicompactum.txt
-Penicillium corylophilum.txt
+Penicillium coprophilum.txt
 Rhizopus stolonifer.txt
 Scopulariopsis brevicaulis.txt
 

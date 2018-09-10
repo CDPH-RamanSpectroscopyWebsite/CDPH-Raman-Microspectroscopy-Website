@@ -55,7 +55,6 @@ Anatase.txt
 Anatase_532nm_unoriented.txt
 Anatase_780nm_unoriented.txt
 Andalusite_780nm.txt
-Andalusite_Processed_780nm.txt
 Andesine_785nm.txt
 Anhydrite.txt
 Anorthite_780nm.txt

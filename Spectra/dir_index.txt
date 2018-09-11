@@ -73,7 +73,6 @@ Brucite.txt
 Bytownite_785nm.txt
 CaF2_514nm.txt
 CaF2_532nm.txt
-CaF2_532nm_Raw.txt
 CaF2_785nm.txt
 Calcite(CaCO3).txt
 Calomel_HgCl_532nm.txt

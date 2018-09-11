@@ -86,9 +86,9 @@ Cinnabar_785nm_unoriented.txt
 Clintonite_785nm.txt
 Cotunnite_785nm.txt
 Cotunnite_785nm_unoriented.txt
-Crocoite (PbCrO4)_532nm_unoriented.txt
-Crocoite (PbCrO4)_785nm_unoriented.txt
-Crocoite (PbCrO4)_Tasmania.txt
+Crocoite(PbCrO4)_532nm_unoriented.txt
+Crocoite(PbCrO4)_785nm_unoriented.txt
+Crocoite(PbCrO4)_Tasmania.txt
 Crocoite.txt
 Diamond.txt
 Dolomite.txt

@@ -144,7 +144,6 @@ Niter_KNO3_532nm_unoriented.txt
 Niter_KNO3_780nm_unoriented.txt
 Oligoclase_785nm.txt
 Orthoclase.txt
-Orthoclase_785nm.txt
 Otwayite_785nm_unoriented.txt
 Perovskite.txt
 Pyrite.txt

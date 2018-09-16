@@ -95,8 +95,8 @@ body {
 }
 
 /* Spectraldata page*/
+/* paddingbottom: 160px*/
 #peaksearch {
-    padding-bottom: 160px;
 }
 #droplist, #peaksearch{
     margin: 5% 0 5% 10%}

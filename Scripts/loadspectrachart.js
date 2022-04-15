@@ -7,7 +7,7 @@ google.setOnLoadCallback(drawEmptyChart);
 
 // File path where spectral data are located
 // var filepath = 'http://localhost:8000/Spectra/';
-var filepath = 'https://cdph-ramanspectroscopywebsite.github.io/CDPH-Raman-Microspectroscopy-Website/index.html/Spectra/'
+var filepath = 'https://cdph-ramanspectroscopywebsite.github.io/CDPH-Raman-Microspectroscopy-Website/Spectra/'
 
 // Dictionary mapping spectral folder names (broad categories i.e. Minerals)
 // to a list of all spectral data in that folder.

@@ -1,1 +1,37 @@
+<!-- RESEARCH SUBPAGE: MERCURY POISONING -->
 
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> CDPH Raman Micro-Spectroscopy Website </title>
+        <link href="Styles/style.css" type="text/css" rel="stylesheet" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	
+	<link rel="icon" 
+      type="image/png" 
+      href="Images/icon.png">
+</head>
+
+<body>
+  <div id="nav">
+    <ul>
+      <li><a href="index.html"> Home </a></li>
+      <li><a href="spectraldata.html"> Spectral Data </a></li>
+      <li><a href="instrumentation.html"> Instrumentation </a></li>
+      <li><a href="research.html"> Research </a></li>
+      <li><a href="contact.html"> Contact </a></li>
+    </ul>
+  </div>
+
+  <div style="text-align: center; margin: 2.5%; padding: 10px;">
+    <img src="Images/Mercury Poisoning.png" alt="fr" height="650" width="1100">   
+  </div>
+  
+ <div id="footer">
+    <a href="Footer.html">
+    	<a style="color:black" href="https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/EHLB/Pages/EHL-Program-Landing-Page.aspx"> Copyright 2019 State of California</a>	    
+  </div>
+</body>
+
+</html>
